@@ -1,0 +1,2074 @@
+﻿Code aéroport;Ville;Code Ville;Département;Zone;Pays;Aeroport;Code OACI;Timezone;DST;Timezone Java;Currency;Pays IATA
+KBL;Kabul;KBL;Autre;Autre;Afghanistan;Kabul Intl;OAKB;5;U;Asia/Kabul;AFN;AF
+TIA;Tirana;TIA;Autre;Autre;Albania;Tirana Rinas;LATI;1;E;Europe/Tirane;ALL;AL
+AAE;Annaba;AAE;Autre;Autre;Algeria;Annaba;DABB;1;N;Africa/Algiers;DZD;DZ
+ALG;Algier;ALG;Autre;Autre;Algeria;Houari Boumediene;DAAG;1;N;Africa/Algiers;DZD;DZ
+BJA;Bejaia;BJA;Autre;Autre;Algeria;Aéroport de Bejaia - Soummam - Abane Ramdane;DAAE;1;N;Africa/Algiers;DZD;DZ
+BLJ;Lazrou;BLJ;Autre;Autre;Algeria;Aéroport de Batna - Mostepha Ben Boulaid;DABT;1;N;Africa/Algiers;DZD;DZ
+CZL;Constantine;CZL;Autre;Autre;Algeria;Mohamed Boudiaf Intl;DABC;1;N;Africa/Algiers;DZD;DZ
+HME;Hassi Messaoud;HME;Autre;Autre;Algeria;N/A;N/A;N/A;N/A;N/A;N/A;DZ
+ORN;Oran;ORN;Autre;Autre;Algeria;Es Senia;DAOO;1;N;Africa/Algiers;DZD;DZ
+QSF;Setif;QSF;Autre;Autre;Algeria; Setif ;N/A;1;N;Africa/Algiers;DZD;DZ
+TLM;Tlemcen;TLM;Autre;Autre;Algeria;Zenata Airport;DAON;1;N;Africa/Algiers;DZD;DZ
+PPG;Pago Pago;PPG;Autre;Autre;American Samoa;Pago Pago Intl;NSTU;-11;U;Pacific/Pago_Pago;N/A;AS
+ALV;Andorra La Vella H/P;ALV;Autre;Autre;Andorra;Andorra La Vella H/P Airport;;;;;EUR;AD
+BUG;Benguela;BUG;Autre;Autre;Angola;Benguela;FNBG;1;N;Africa/Luanda;N/A;AO
+CAB;Cabinda;CAB;Autre;Autre;Angola;Cabinda;FNCA;1;N;Africa/Luanda;N/A;AO
+LAD;Luanda;LAD;Autre;Autre;Angola;Luanda 4 De Fevereiro;FNLU;1;N;Africa/Luanda;N/A;AO
+AXA;The Valley;AXA;Autre;Autre;Anguilla;Wallblake;TQPF;-4;U;America/Anguilla;N/A;AI
+ANU;Antigua;ANU;Autre;Autre;Antigua;V C Bird Intl;TAPA;-4;U;America/Antigua;N/A;AG
+BRC;San Carlos De Bariloch;BRC;Autre;Autre;Argentina;San Carlos De Bariloche;SAZS;-3;N;America/Cordoba;ARS;AR
+AEP;Buenos Aires;BUE;Autre;Autre;Argentina;Aeroparque Jorge Newbery;SABE;-3;N;America/Cordoba;ARS;AR
+EZE;Buenos Aires;BUE;Autre;Autre;Argentina;Ministro Pistarini;SAEZ;-3;N;America/Cordoba;ARS;AR
+COR;Cordoba;COR;Autre;Autre;Argentina;Ambrosio L V Taravella;SACO;-3;N;America/Cordoba;ARS;AR
+MDQ;Mar Del Plata;MDQ;Autre;Autre;Argentina;Mar Del Plata;SAZM;-3;N;America/Cordoba;ARS;AR
+MDZ;Mendoza;MDZ;Autre;Autre;Argentina;El Plumerillo;SAME;-3;N;America/Cordoba;ARS;AR
+MPN;Mount Pleasant;MPN;Autre;Autre;Argentina;RAF Mount Pleasant;EGYP;-3;N;America/Cordoba;ARS;AR
+ROS;Rosario;ROS;Autre;Autre;Argentina;Rosario;SAAR;-3;N;America/Cordoba;ARS;AR
+ROY;Rio Mayo;ROY;Autre;Autre;Argentina;Mayo Airport;SAWM;-3;N;America/Cordoba;ARS;AR
+USH;Ushuaia;USH;Autre;Autre;Argentina;Islas Malvinas Airport;SAWH;-3;N;America/Cordoba;ARS;AR
+BUE;Buenos Aires;BUE;Autre;Autre;Argentina;Buenos Aires Airport;;-3;N;America/Cordoba;ARS;AR
+IGR;Iguazu, Cataratas;IGR;Autre;Autre;Argentina;Iguazu, Cataratas Airport;;-3;N;America/Cordoba;ARS;AR
+RSA;Santa Rosa;RSA;Autre;Autre;Argentina;Santa Rosa Airport;;-3;N;America/Cordoba;ARS;AR
+SLA;Salta, Gen Belgrano;SLA;Autre;Autre;Argentina;Salta, Gen Belgrano Airport;;-3;N;America/Cordoba;ARS;AR
+EVN;Yerevan;EVN;Autre;Autre;Armenia;Zvartnots;UDYZ;4;E;Asia/Yerevan;AMD;AM
+AUA;Oranjestad;AUA;Autre;Autre;Aruba;Reina Beatrix Intl;TNCA;-4;U;America/Aruba;AWG;AW
+ABM;Amberley;ABM;Autre;Autre;Australia;Bamaga Injinoo;YBAM;10;O;Australia/Brisbane;AUD;AU
+ABX;Albury;ABX;Autre;Autre;Australia;Albury;YMAY;10;O;Australia/Sydney;AUD;AU
+ADL;Adelaide;ADL;Autre;Autre;Australia;Adelaide Intl;YPAD;9.5;O;Australia/Adelaide;AUD;AU
+ALH;Albany;ALH;Autre;Autre;Australia;Albany Airport;YABA;8;O;Australia/Perth;AUD;AU
+ASP;Alice Springs;ASP;Autre;Autre;Australia;Alice Springs;YBAS;9.5;N;Australia/Darwin;AUD;AU
+AVG;Auvergne;AVG;Autre;Autre;Australia;Auvergne airport;YAUV;9.5;N;Australia/Darwin;AUD;AU
+AYQ;Uluru;AYQ;Autre;Autre;Australia;Ayers Rock;YAYE;9.5;N;Australia/Darwin;AUD;AU
+BDB;Bundaberg;BDB;Autre;Autre;Australia;Bundaberg;YBUD;10;O;Australia/Brisbane;AUD;AU
+BME;Broome;BME;Autre;Autre;Australia;Broome;YPBR;8;O;Australia/Perth;AUD;AU
+BNE;Brisbane;BNE;Autre;Autre;Australia;Brisbane Intl;YBBN;10;O;Australia/Brisbane;AUD;AU
+BNK;Ballina Byron Bay;BNK;Autre;Autre;Australia;Ballina Byron Gateway;YBNA;10;O;Australia/Sydney;AUD;AU
+BWT;Burnie;BWT;Autre;Autre;Australia;Wynyard Airport;YWYY;10;O;Australia/Melbourne;AUD;AU
+CBR;Canberra;CBR;Autre;Autre;Australia;Canberra;YSCB;10;O;Australia/Sydney;AUD;AU
+CES;Cessnock;CES;Autre;Autre;Australia;Cessnock Airport;YCNK;10;O;Australia/Sydney;AUD;AU
+CFS;Coff's Harbour;CFS;Autre;Autre;Australia;Coffs Harbour;YSCH;10;O;Australia/Sydney;AUD;AU
+CNS;Cairns;CNS;Autre;Autre;Australia;Cairns Intl;YBCS;10;N;Australia/Brisbane;AUD;AU
+CPD;Coober Pedy;CPD;Autre;Autre;Australia;Coober Pedy Airport;YCBP;9.5;O;Australia/Adelaide;AUD;AU
+CTN;Cooktown;CTN;Autre;Autre;Australia;Cooktown Airport;YCKN;10;O;Australia/Brisbane;AUD;AU
+CVQ;Carnarvon;CVQ;Autre;Autre;Australia;Carnarvon Airport;YCAR;8;O;Australia/Perth;AUD;AU
+DBO;Dubbo;DBO;Autre;Autre;Australia;Dubbo;YSDU;10;O;Australia/Sydney;AUD;AU
+DKI;Dunk Island;DKI;Autre;Autre;Australia;Dunk Island Airport;YDKI;10;U;Australia/Brisbane;AUD;AU
+DPO;Devonport;DPO;Autre;Autre;Australia;Devonport Airport;YDPO;10;O;Australia/Melbourne;AUD;AU
+DRB;Derby;DRB;Autre;Autre;Australia;Derby Airport;YDBY;8;U;Australia/Perth;AUD;AU
+DRW;Darwin;DRW;Autre;Autre;Australia;Darwin Intl;YPDN;9.5;N;Australia/Darwin;AUD;AU
+EDR;Emerald;EDR;Autre;Autre;Australia;Pormpuraaw Airport;YPMP;10;O;Australia/Brisbane;AUD;AU
+EMD;Emerald;EMD;Autre;Autre;Australia;Emerald;YEML;10;O;Australia/Brisbane;AUD;AU
+GEX;Geelong;GEX;Autre;Autre;Australia;Geelong Airport;YGLG;10;O;Australia/Hobart;AUD;AU
+GTI;Ruegen;GTI;Autre;Autre;Australia;Guettin MecklenburgVorpommern Germany;EDCG;1;U;Europe/Berlin;AUD;AU
+HBA;Hobart;HBA;Autre;Autre;Australia;Hobart;YMHB;10;O;Australia/Melbourne;AUD;AU
+HIR;Honiara;HIR;Autre;Autre;Australia;Honiara International;AGGH;11;U;Pacific/Guadalcanal;AUD;AU
+HIS;Hayman Island;HIS;Autre;Autre;Australia;Hayman Island Airport;YHYN;10;O;Australia/Brisbane;AUD;AU
+HLT;Hamilton;HLT;Autre;Autre;Australia;Hamilton Airport;YHML;10;O;Australia/Hobart;AUD;AU
+HVB;Hervey Bay;HVB;Autre;Autre;Australia;Hervey Bay Airport;YHBA;10;O;Australia/Brisbane;AUD;AU
+ISA;Mount Isa;ISA;Autre;Autre;Australia;Mount Isa;YBMA;10;O;Australia/Brisbane;AUD;AU
+KBY;Samara;KBY;Autre;Autre;Australia;Kurumoch;UWWW;6;N;Europe/Moscow;AUD;AU
+KGC;Kingscote;KGC;Autre;Autre;Australia;Kingscote Airport;YKSC;9.5;O;Australia/Adelaide;AUD;AU
+KGI;Kalgoorlie;KGI;Autre;Autre;Australia;Kalgoorlie Boulder;YPKG;8;O;Australia/Perth;AUD;AU
+KNX;Kununurra;KNX;Autre;Autre;Australia;Kununurra;YPKU;8;O;Australia/Perth;AUD;AU
+KTA;Karratha;KTA;Autre;Autre;Australia;Karratha;YPKA;8;O;Australia/Perth;AUD;AU
+KTR;Katherine;KTR;Autre;Autre;Australia;Tindal Airport;YPTN;9;O;Australia/Darwin;AUD;AU
+LEA;Learmonth;LEA;Autre;Autre;Australia;Learmonth;YPLM;8;O;Australia/Perth;AUD;AU
+LNO;Leonora;LNO;Autre;Autre;Australia;Leonora Airport;YLEO;8;O;Australia/Perth;AUD;AU
+LST;Launceston;LST;Autre;Autre;Australia;Launceston;YMLT;10;O;Australia/Melbourne;AUD;AU
+LZR;Lizard Island;LZR;Autre;Autre;Australia;Lizard Island Airport;YLZI;10;O;Australia/Brisbane;AUD;AU
+MCY;Maroochydore;MCY;Autre;Autre;Australia;Maroochydore Sunshine Coast;YBMC;10;O;Australia/Brisbane;AUD;AU
+MEL;Melbourne;MEL;Autre;Autre;Australia;Melbourne Intl;YMML;10;O;Australia/Hobart;AUD;AU
+MKY;Mackay;MKY;Autre;Autre;Australia;Mackay;YBMK;10;O;Australia/Brisbane;AUD;AU
+MQL;Mildura;MQL;Autre;Autre;Australia;Mildura Airport;YMIA;10;O;Australia/Sydney;AUD;AU
+MTL;Maitland;MTL;Autre;Autre;Australia;Maitland Airport;YMND;10;O;Australia/Sydney;AUD;AU
+NLK;Norfolk Island;NLK;Autre;Autre;Australia;Norfolk Island Intl;YSNF;11.5;U;Pacific/Norfolk;AUD;AU
+NSO;Scone;NSO;Autre;Autre;Australia;Scone Airport;YSCO;10;O;Australia/Sydney;AUD;AU
+NTL;Newcastle;NTL;Autre;Autre;Australia;Newcastle Airport;YWLM;10;O;Australia/Sydney;AUD;AU
+OOL;Coolangatta;OOL;Autre;Autre;Australia;Gold Coast;YBCG;10;N;Australia/Brisbane;AUD;AU
+ORS;Orpheus Island;ORS;Autre;Autre;Australia;Orpheus Island;N/A;10;O;Australia/Brisbane;AUD;AU
+PER;Perth;PER;Autre;Autre;Australia;Perth Intl;YPPH;8;N;Australia/Perth;AUD;AU
+PHE;Port Hedland;PHE;Autre;Autre;Australia;Port Hedland Intl;YPPD;8;O;Australia/Perth;AUD;AU
+PPP;Prosserpine;PPP;Autre;Autre;Australia;Proserpine Whitsunday Coast;YBPN;10;O;Australia/Brisbane;AUD;AU
+PUG;Argyle;PUG;Autre;Autre;Australia;Port Augusta Airport;YPAG;9.5;O;Australia/Adelaide;AUD;AU
+ROK;Rockhampton;ROK;Autre;Autre;Australia;Rockhampton;YBRK;10;O;Australia/Brisbane;AUD;AU
+SYD;Sydney;SYD;Autre;Autre;Australia;Sydney Intl;YSSY;10;O;Australia/Sydney;AUD;AU
+TCA;Tennant Creek;TCA;Autre;Autre;Australia;Tennant Creek Airport;YTNK;9.5;O;Australia/Darwin;AUD;AU
+TMW;Tamworth;TMW;Autre;Autre;Australia;Tamworth;YSTW;10;O;Australia/Sydney;AUD;AU
+TSV;Townsville;TSV;Autre;Autre;Australia;Townsville;YBTL;10;N;Australia/Brisbane;AUD;AU
+TWB;Toowoomba;TWB;Autre;Autre;Australia;Toowoomba;YTWB;10;N;Australia/Brisbane;AUD;AU
+UMR;Woomera;UMR;Autre;Autre;Australia;Woomera;YPWR;9.5;O;Australia/Adelaide;AUD;AU
+WEI;Weipa;WEI;Autre;Autre;Australia;Weipa;YBWP;10;O;Australia/Brisbane;AUD;AU
+WGA;Wagga Wagga;WGA;Autre;Autre;Australia;Wagga Wagga;YSWG;10;O;Australia/Sydney;AUD;AU
+WYA;Whyalla;WYA;Autre;Autre;Australia;Whyalla Airport;YWHA;9.5;O;Australia/Adelaide;AUD;AU
+ZNE;Newman;ZNE;Autre;Autre;Australia;Newman Airport;YNWN;8;O;Australia/Perth;AUD;AU
+AYR;Ayr;AYR;Autre;Autre;Australia;Ayr Airport;;;;;AUD;AU
+BEO;Newcastle - Belmont;BEO;Autre;Autre;Australia;Newcastle - Belmont Airport;;;;Australia/Sydney;AUD;AU
+BHQ;Broken Hill;BHQ;Autre;Autre;Australia;Broken Hill Airport;;;;Australia/Adelaide;AUD;AU
+BLT;Blackwater;BLT;Autre;Autre;Australia;Blackwater Airport;;;;Australia/Brisbane;AUD;AU
+BMP;Brampton Island;BMP;Autre;Autre;Australia;Brampton Island Airport;;;;Australia/Brisbane;AUD;AU
+CED;Ceduna;CED;Autre;Autre;Australia;Ceduna Airport;;;;Australia/Adelaide;AUD;AU
+CMQ;Clermont;CMQ;Autre;Autre;Australia;Clermont Airport;;;;;AUD;AU
+CSI;Casino;CSI;Autre;Autre;Australia;Casino Airport;;;;;AUD;AU
+CXT;Charters Towers;CXT;Autre;Autre;Australia;Charters Towers Airport;;;;;AUD;AU
+DBY;Dalby;DBY;Autre;Autre;Australia;Dalby Airport;;;;;AUD;AU
+DDI;Daydream Island;DDI;Autre;Autre;Australia;Daydream Island Airport;;;;;AUD;AU
+DYA;Dysart;DYA;Autre;Autre;Australia;Dysart Airport;;;;;AUD;AU
+EPR;Esperance;EPR;Autre;Autre;Australia;Esperance Airport;;;;Australia/Perth;AUD;AU
+GET;Geraldton;GET;Autre;Autre;Australia;Geraldton Airport;;;;Australia/Perth;AUD;AU
+GFF;Griffith;GFF;Autre;Autre;Australia;Griffith Airport;;;;Australia/Sydney;AUD;AU
+GKL;Great Keppel Island;GKL;Autre;Autre;Australia;Great Keppel Island Airport;;;;Australia/Brisbane;AUD;AU
+GLT;Gladstone;GLT;Autre;Autre;Australia;Gladstone Airport;;;;Australia/Brisbane;AUD;AU
+GOO;Goondiwindi;GOO;Autre;Autre;Australia;Goondiwindi Airport;;;;;AUD;AU
+GOV;Gove (Nhulunbuy);GOV;Autre;Autre;Australia;Gove (Nhulunbuy) Airport;;;;Australia/Darwin;AUD;AU
+GTE;Groote Eyeland;GTE;Autre;Autre;Australia;Groote Eyeland Airport;;;;Australia/Darwin;AUD;AU
+GYP;Gympie;GYP;Autre;Autre;Australia;Gympie Airport;;;;;AUD;AU
+HAP;Whitsunday Resort;HAP;Autre;Autre;Australia;Whitsunday Resort Airport;;;;;AUD;AU
+HMH;Home Hill;HMH;Autre;Autre;Australia;Home Hill Airport;;;;;AUD;AU
+HNK;Hinchinbrook Island;HNK;Autre;Autre;Australia;Hinchinbrook Island Airport;;;;;AUD;AU
+HTI;Hamilton Island;HTI;Autre;Autre;Australia;Hamilton Island Airport;;;;Australia/Brisbane;AUD;AU
+IFL;Innisfail;IFL;Autre;Autre;Australia;Innisfail Airport;;;;Australia/Brisbane;AUD;AU
+IGH;Ingham;IGH;Autre;Autre;Australia;Ingham Airport;;;;;AUD;AU
+IRG;Lockhart River;IRG;Autre;Autre;Australia;Lockhart River Airport;;;;Australia/Brisbane;AUD;AU
+JHQ;Shute Harbour;JHQ;Autre;Autre;Australia;Shute Harbour Airport;;;;Australia/Brisbane;AUD;AU
+KCE;Collinsville;KCE;Autre;Autre;Australia;Collinsville Airport;;;;;AUD;AU
+KRB;Karumba;KRB;Autre;Autre;Australia;Karumba Airport;;;;Australia/Brisbane;AUD;AU
+KWM;Kowanyama;KWM;Autre;Autre;Australia;Kowanyama Airport;;;;Australia/Brisbane;AUD;AU
+LDC;Lindeman Island;LDC;Autre;Autre;Australia;Lindeman Island Airport;;;;;AUD;AU
+LER;Leinster;LER;Autre;Autre;Australia;Leinster Airport;;;;Australia/Perth;AUD;AU
+LRE;Longreach;LRE;Autre;Autre;Australia;Longreach Airport;;;;Australia/Brisbane;AUD;AU
+LSY;Lismore;LSY;Autre;Autre;Australia;Lismore Airport;;;;Australia/Sydney;AUD;AU
+LVO;Laverton;LVO;Autre;Autre;Australia;Laverton Airport;;;;Australia/Perth;AUD;AU
+MBH;Maryborough;MBH;Autre;Autre;Australia;Maryborough Airport;;;;Australia/Brisbane;AUD;AU
+MGB;Mount Gambier;MGB;Autre;Autre;Australia;Mount Gambier Airport;;;;Australia/Adelaide;AUD;AU
+MIM;Merimbula;MIM;Autre;Autre;Australia;Merimbula Airport;;;;Australia/Sydney;AUD;AU
+MKR;Meekatharra;MKR;Autre;Autre;Australia;Meekatharra Airport;;;;Australia/Perth;AUD;AU
+MMG;Mount Magnet;MMG;Autre;Autre;Australia;Mount Magnet Airport;;;;Australia/Perth;AUD;AU
+MMM;Middlemount;MMM;Autre;Autre;Australia;Middlemount Airport;;;;;AUD;AU
+MOV;Moranbah;MOV;Autre;Autre;Australia;Moranbah Airport;;;;Australia/Brisbane;AUD;AU
+MRZ;Moree;MRZ;Autre;Autre;Australia;Moree Airport;;;;Australia/Sydney;AUD;AU
+NAA;Narrabri;NAA;Autre;Autre;Australia;Narrabri Airport;;;;Australia/Sydney;AUD;AU
+NRA;Narrandera;NRA;Autre;Autre;Australia;Narrandera Airport;;;;Australia/Sydney;AUD;AU
+NSA;Noosa;NSA;Autre;Autre;Australia;Noosa Airport;;;;;AUD;AU
+OAG;Orange;OAG;Autre;Autre;Australia;Orange Airport;;;;Australia/Sydney;AUD;AU
+OLP;Olympic Dam;OLP;Autre;Autre;Australia;Olympic Dam Airport;;;;Australia/Adelaide;AUD;AU
+OOM;Cooma;OOM;Autre;Autre;Australia;Cooma Airport;;;;Australia/Sydney;AUD;AU
+PBO;Paraburdoo;PBO;Autre;Autre;Australia;Paraburdoo Airport;;;;Australia/Perth;AUD;AU
+PLO;Port Lincoln;PLO;Autre;Autre;Australia;Port Lincoln Airport;;;;Australia/Adelaide;AUD;AU
+PQQ;Port Macquarie;PQQ;Autre;Autre;Australia;Port Macquarie Airport;;;;Australia/Sydney;AUD;AU
+PTJ;Portland;PTJ;Autre;Autre;Australia;Portland Airport;;;;Australia/Hobart;AUD;AU
+SIX;Singleton;SIX;Autre;Autre;Australia;Singleton Airport;;;;;AUD;AU
+SOI;South Molle Island;SOI;Autre;Autre;Australia;South Molle Island Airport;;;;;AUD;AU
+TEM;Temora;TEM;Autre;Autre;Australia;Temora Airport;;;;Australia/Sydney;AUD;AU
+TIS;Thursday Island;TIS;Autre;Autre;Australia;Thursday Island Airport;;;;;AUD;AU
+TPR;Tom Price;TPR;Autre;Autre;Australia;Tom Price Airport;;;;;AUD;AU
+TRO;Taree;TRO;Autre;Autre;Australia;Taree Airport;;;;Australia/Sydney;AUD;AU
+UEE;Queenstown;UEE;Autre;Autre;Australia;Queenstown Airport;;;;;AUD;AU
+WHM;Wickham;WHM;Autre;Autre;Australia;Wickham Airport;;;;;AUD;AU
+WMB;Warrnambool;WMB;Autre;Autre;Australia;Warrnambool Airport;;;;;AUD;AU
+WOL;Wollongong;WOL;Autre;Autre;Australia;Wollongong Airport;;;;;AUD;AU
+WUN;Wiluna;WUN;Autre;Autre;Australia;Wiluna Airport;;;;Australia/Perth;AUD;AU
+WYN;Wyndham;WYN;Autre;Autre;Australia;Wyndham Airport;;;;;AUD;AU
+ZBO;Bowen;ZBO;Autre;Autre;Australia;Bowen Airport;;;;;AUD;AU
+GRZ;Graz;GRZ;Autre;Autre;Austria;Graz;LOWG;1;E;Europe/Vienna;EUR;AT
+INN;Innsbruck;INN;Autre;Autre;Austria;Innsbruck;LOWI;1;E;Europe/Vienna;EUR;AT
+KLU;Klagenfurt;KLU;Autre;Autre;Austria;Woerthersee International Airport;LOWK;1;E;Europe/Vienna;EUR;AT
+LNZ;Linz;LNZ;Autre;Autre;Austria;Linz;LOWL;1;E;Europe/Vienna;EUR;AT
+SZG;Salzburg;SZG;Autre;Autre;Austria;Salzburg;LOWS;1;E;Europe/Vienna;EUR;AT
+VIE;Vienna;VIE;Autre;Autre;Austria;Schwechat;LOWW;1;E;Europe/Vienna;EUR;AT
+BAK;Baku;BAK;Autre;Autre;Azerbaijan;Heydar Aliyev;N/A;4;E;Asia/Baku;AZN;AZ
+GYD; Heydar Aliyev;GYD;Autre;Autre;Azerbaijan; Heydar Aliyev International Airport ;UBBB;4;E;Asia/Baku;AZN;AZ
+BIM;Bimini;BIM;Autre;Autre;Bahamas;Aéroport international de South Bimini;MYBS;-5;U;America/Nassau;BSD;BS
+CCZ;Chub Cay;CCZ;Autre;Autre;Bahamas;Chub Cay;MYBC;-5;U;America/Nassau;BSD;BS
+ELH;North Eleuthera;ELH;Autre;Autre;Bahamas;North Eleuthera;MYEH;-5;U;America/Nassau;BSD;BS
+FPO;Freeport;FPO;Autre;Autre;Bahamas;Grand Bahama Intl;MYGF;-5;U;America/Nassau;BSD;BS
+GGT;GeorgeTown;GGT;Autre;Autre;Bahamas;Exuma International Airport;MYEF;-5;U;America/Nassau;BSD;BS
+GHB;Governor's Harbor;GHB;Autre;Autre;Bahamas;Governors Harbour;MYEM;-5;U;America/Nassau;BSD;BS
+LGI;DeadmansCay;LGI;Autre;Autre;Bahamas;Deadmans Cay Airport;MYLD;-5;U;America/Nassau;BSD;BS
+MHH;Marsh Harbor;MHH;Autre;Autre;Bahamas;Marsh Harbour;MYAM;-5;U;America/Nassau;BSD;BS
+NAS;Nassau;NAS;Autre;Autre;Bahamas;Lynden Pindling Intl;MYNN;-5;U;America/Nassau;BSD;BS
+RSD;Rock Sound;RSD;Autre;Autre;Bahamas;Rock Sound;MYER;-5;U;America/Nassau;BSD;BS
+TCB;Treasure Cay;TCB;Autre;Autre;Bahamas;Treasure Cay;MYAT;-5;U;America/Nassau;BSD;BS
+ZSA;Cockburn Town;ZSA;Autre;Autre;Bahamas;San Salvador;MYSM;-5;U;America/Nassau;BSD;BS
+GBI;Grand Bahama;GBI;Autre;Autre;Bahamas;Grand Bahama Airport;;-5;U;America/Nassau;BSD;BS
+BAH;Bahrain;BAH;Autre;Autre;Bahrain;Bahrain Intl;OBBI;3;U;Asia/Bahrain;BHD;BH
+BZL;Barisal;BZL;Autre;Autre;Bangladesh;Barisal Airport;VGBR;6;U;Asia/Dhaka;BDT;BD
+SAJ;Sirajganj;SAJ;Autre;Autre;Bangladesh;Sirajganj Airport;;6;U;Asia/Dhaka;BDT;BD
+CGP;Chittagong;CGP;Autre;Autre;Bangladesh;Shah Amanat Intl;VGEG;6;U;Asia/Dhaka;BDT;BD
+DAC;Dhaka;DAC;Autre;Autre;Bangladesh;Zia Intl;VGZR;6;U;Asia/Dhaka;BDT;BD
+ZYL;Sylhet Osmani;ZYL;Autre;Autre;Bangladesh;Osmany Intl;VGSY;6;U;Asia/Dhaka;BDT;BD
+BGI;Bridgetown;BGI;Autre;Autre;Barbados;Grantley Adams Intl;TBPB;-4;U;America/Barbados;USD;BB
+MSQ;Minsk 2;MSQ;Autre;Autre;Belarus;Minsk 2;UMMS;2;E;Europe/Minsk;BYR;BY
+ANR;Antwerp;ANR;Autre;Autre;Belgium;Antwerp;EBAW;2;E;Europe/Brussels;EUR;BE
+ZWE;Antwerp;ANR;Autre;Autre;Belgium;Antwerp station;N/A;2;E;Europe/Brussels;EUR;BE
+BRU;Brussels;BRU;Autre;Autre;Belgium;Brussels Natl;EBBR;2;E;Europe/Brussels;EUR;BE
+CRL;Brussels;CRL;Autre;Autre;Belgium;Brussels South Charleroi Airport;EBCI;2;E;Europe/Brussels;EUR;BE
+LGG;Liege;LGG;Autre;Autre;Belgium;Liege;EBLG;2;E;Europe/Brussels;EUR;BE
+ZYR;Brussels;ZYR;Autre;Autre;Belgium;Brussels Midi Railway Station ;N/A;2;E;Europe/Brussels;EUR;BE
+KJK;Kortrijk;KJK;Autre;Autre;Belgium;Kortrijk Airport;EBKT;2;E;Europe/Brussels;EUR;BE
+OST;Oostende Brugge;OST;Autre;Autre;Belgium;Oostende Brugge Airport;EBOS;2;E;Europe/Brussels;EUR;BE
+BZE;Belize City;BZE;Autre;Autre;Belize;Philip S W Goldson Intl;MZBZ;-6;U;America/Belize;BZD;BZ
+COO;Cotonou;COO;Autre;Autre;Benin;Cadjehoun;DBBB;1;N;Africa/Porto-Novo;XOF;BJ
+BDA;Bermuda;BDA;Autre;Autre;Bermuda;Bermuda Intl;TXKF;-4;U;Atlantic/Bermuda;BMD;BM
+PBH;Paro;PBH;Autre;Autre;Bhutan;Paro Airport;;;;;BTN;BT
+CBB;Cochabamba;CBB;Autre;Autre;Bolivia;Jorge Wilsterman;SLCB;-4;U;America/La_Paz;BOB;BO
+LPB;La Paz;LPB;Autre;Autre;Bolivia;El Alto Intl;SLLP;-4;U;America/La_Paz;BOB;BO
+SRZ;Santa Cruz;SRZ;Autre;Autre;Bolivia;Santa Cruz;N/A;-4;U;America/La_Paz;BOB;BO
+VVI;SantaCruz;VVI;Autre;Autre;Bolivia;Viru Viru International Airport;SLVR;-4;U;America/La_Paz;BOB;BO
+SRB;Santa Rosa;SRB;Autre;Autre;Bolivia;Santa Rosa Airport;;;;;BOB;BO
+OMO;Mostar;OMO;Autre;Autre;Bosnia and Herzegovina;Mostar;LQMO;1;E;Europe/Sarajevo;BAM;BA
+SJJ;Sarajevo;SJJ;Autre;Autre;Bosnia and Herzegovina;Sarajevo;LQSA;1;E;Europe/Sarajevo;BAM;BA
+GBE;Gaberone;GBE;Autre;Autre;Botswana;Sir Seretse Khama Intl;FBSK;2;U;Africa/Gaborone;BWP;BW
+MUB;Maun;MUB;Autre;Autre;Botswana;Maun;FBMN;2;U;Africa/Gaborone;BWP;BW
+PKW;Selebi-phikwe;PKW;Autre;Autre;Botswana;Selebi Phikwe;FBSP;2;U;Africa/Gaborone;BWP;BW
+AJU;Aracaju;AJU;Autre;Autre;Brazil;Santa Maria;SBAR;-3;S;America/Fortaleza;BRL;BR
+STM;Santarem;STM;Autre;Autre;Brazil;Aéroport Santarém–Maestro Wilson Fonseca;SBSN;-3;S;America/Boa_Vista;BRL;BR
+BEL;Belem;BEL;Autre;Autre;Brazil;Val De Cans Intl;SBBE;-3;S;America/Boa_Vista;BRL;BR
+XAP;Chapeco;XAP;Autre;Autre;Brazil;Chapeco airport;SBCH;-3;S;America/Sao_Paulo;BRL;BR
+BPS;Porto Seguro;BPS;Autre;Autre;Brazil;Porto Seguro Airport;SBPS;-3;S;America/Sao_Paulo;BRL;BR
+BSB;Brasilia;BSB;Autre;Autre;Brazil;Presidente Juscelino Kubitschek;SBBR;-3;S;America/Sao_Paulo;BRL;BR
+BVB;Boa Vista;BVB;Autre;Autre;Brazil;Boa Vista;SBBV;-4;S;America/Boa_Vista;BRL;BR
+CGB;Cuiaba;CGB;Autre;Autre;Brazil;Marechal Rondon;SBCY;-4;S;America/Campo_Grande;BRL;BR
+CGR;Campo Grande;CGR;Autre;Autre;Brazil;Campo Grande;SBCG;-4;S;America/Campo_Grande;BRL;BR
+CNF;Belo Horizonte;CNF;Autre;Autre;Brazil;Tancredo Neves Intl;SBCF;-3;S;America/Sao_Paulo;BRL;BR
+CWB;Curitiba;CWB;Autre;Autre;Brazil;Afonso Pena;SBCT;-3;S;America/Sao_Paulo;BRL;BR
+FLN;Florianopolis;FLN;Autre;Autre;Brazil;Hercilio Luz;SBFL;-3;S;America/Sao_Paulo;BRL;BR
+FOR;Fortaleza;FOR;Autre;Autre;Brazil;Pinto Martins Intl;SBFZ;-3;S;America/Fortaleza;BRL;BR
+GYN;Goiania;GYN;Autre;Autre;Brazil;Santa Genoveva;SBGO;-3;S;America/Sao_Paulo;BRL;BR
+IGU;IguassuFalls;IGU;Autre;Autre;Brazil;Cataratas Airport;SBFI;-2;S;America/Sao_Paulo;BRL;BR
+JCB;Joacaba;JPA;Autre;Autre;Brazil;Joacaba Airport;SSJA;-3;S;America/Sao_Paulo;BRL;BR
+JPA;Joao Pessoa;JPA;Autre;Autre;Brazil;Presidente Castro Pinto;SBJP;-3;S;America/Fortaleza;BRL;BR
+MAO;Manaus;MAO;Autre;Autre;Brazil;Eduardo Gomes Intl;SBEG;-4;S;America/Boa_Vista;BRL;BR
+MCP;Macapa;MCP;Autre;Autre;Brazil;Macapa;SBMQ;-3;S;America/Fortaleza;BRL;BR
+MCZ;Maceio;MCZ;Autre;Autre;Brazil;Zumbi Dos Palmares;SBMO;-3;S;America/Fortaleza;BRL;BR
+MGF;Maringa;MGF;Autre;Autre;Brazil;Silvio Name Júnior Regional Airport;SBMG;-3;S;America/Sao_Paulo;BRL;BR
+NAT;Natal;NAT;Autre;Autre;Brazil;Augusto Severo;SBNT;-3;S;America/Fortaleza;BRL;BR
+NVT;Navegantes;NVT;Autre;Autre;Brazil;Navegantes–Ministro Victor Konder International Airport;SBNF;-3;S;America/Sao_Paulo;BRL;BR
+PMW;Palmas;PMW;Autre;Autre;Brazil;Palmas Airport;SWPJ;-3;N/A;America/Fortaleza;BRL;BR
+POA;Porto Alegre;POA;Autre;Autre;Brazil;Salgado Filho;SBPA;-3;S;America/Sao_Paulo;BRL;BR
+PVH;Porto Velho;PVH;Autre;Autre;Brazil;Governador Jorge Teixeira De Oliveira;SBPV;-4;S;America/Boa_Vista;BRL;BR
+RAO;Ribeirao preto;RAO;Autre;Autre;Brazil;Dr. Leite Lopes–Ribeirao Preto State Airport;SBRP;-3;S;America/Sao_Paulo;BRL;BR
+RBR;Rio Branco;RBR;Autre;Autre;Brazil;Placido de Castro;SBRB;-5;S;America/Rio_Branco;BRL;BR
+REC;Recife;REC;Autre;Autre;Brazil;Guararapes Gilberto Freyre Intl;SBRF;-3;S;America/Fortaleza;BRL;BR
+GIG;Rio De Janeiro;RIO;Autre;Autre;Brazil;Galeao Antonio Carlos Jobim;SBGL;-3;S;America/Sao_Paulo;BRL;BR
+SDU;Rio De Janeiro;RIO;Autre;Autre;Brazil;Santos Dumont;SBRJ;-3;S;America/Sao_Paulo;BRL;BR
+LDB;Londrina;LDB;Autre;Autre;Brazil;Congonhas;SBLO;-3;S;America/Sao_Paulo;BRL;BR
+CGH;Sao Paulo;SAO;Autre;Autre;Brazil;Congonhas;SBSP;-3;S;America/Sao_Paulo;BRL;BR
+GRU;Sao Paulo;SAO;Autre;Autre;Brazil;Guarulhos Gov Andre Franco Montouro;SBGR;-3;S;America/Sao_Paulo;BRL;BR
+VCP;Viracopos/Campinas International Airport;SAO;Autre;Autre;Brazil;Viracopos;SBKP;-3;S;America/Sao_Paulo;BRL;BR
+SLZ;Sao Luis;SLZ;Autre;Autre;Brazil;Marechal Cunha Machado Intl;SBSL;-3;S;America/Fortaleza;BRL;BR
+SSA;Salvador;SSA;Autre;Autre;Brazil;Deputado Luis Eduardo Magalhaes;SBSV;-3;S;America/Fortaleza;BRL;BR
+THE;Teresina;THE;Autre;Autre;Brazil;Senador Petronio Portella;SBTE;-3;S;America/Fortaleza;BRL;BR
+UDI;Uberlandia;UDI;Autre;Autre;Brazil;Ten Cel Av Cesar Bombonato;SBUL;-3;S;America/Sao_Paulo;BRL;BR
+CPQ;Campinas;VCP;Autre;Autre;Brazil;Viracopos;SBKP;-3;S;America/Sao_Paulo;BRL;BR
+VIX;Vitoria;VIX;Autre;Autre;Brazil;Goiabeiras;SBVT;-3;S;America/Sao_Paulo;BRL;BR
+QGF;Montenegro;QGF;Autre;Autre;Brazil;Montenegro Airport;;;;;BRL;BR
+CFB;Cabo Frio;CFB;Autre;Autre;Brazil;Cabo Frio International Airport;SBCB;;;America/Sao Paulo;BRL;BR
+RIO;Rio de Janeiro;RIO;Autre;Autre;Brazil;Rio de Janeiro Airport;;;;America/Sao Paulo;BRL;BR
+SAO;Sao Paulo;SAO;Autre;Autre;Brazil;Sao Paulo Airport;;;;;BRL;BR
+SRA;Santa Rosa;SRA;Autre;Autre;Brazil;Santa Rosa Airport;;;;;BRL;BR
+BWN;Brunei;BWN;Autre;Autre;Brunei;Brunei Intl;WBSB;8;U;Asia/Brunei;BND;BN
+KUB;Kuala Belait;KUB;Autre;Autre;Brunei;Kuala Belait Airport;;8;U;Asia/Brunei;BND;BN
+BOJ;Bourgas;BOJ;Autre;Autre;Bulgaria;Burgas;LBBG;2;E;Europe/Sofia;BGN;BG
+GOZ;Gorna Orechovica;GOZ;Autre;Autre;Bulgaria;Gorna Oryahovitsa;LBGO;2;E;Europe/Sofia;BGN;BG
+SOF;Sofia;SOF;Autre;Autre;Bulgaria;Sofia;LBSF;2;E;Europe/Sofia;BGN;BG
+VAR;Varna;VAR;Autre;Autre;Bulgaria;Varna;LBWN;2;E;Europe/Sofia;BGN;BG
+ROU;Ruse;ROU;Autre;Autre;Bulgaria;Ruse Airport;;2;E;Europe/Sofia;BGN;BG
+SLS;Silistra;SLS;Autre;Autre;Bulgaria;Silistra Airport;;2;E;Europe/Sofia;BGN;BG
+TGV;Targovishte;TGV;Autre;Autre;Bulgaria;Targovishte Airport;;2;E;Europe/Sofia;BGN;BG
+VID;Vidin;VID;Autre;Autre;Bulgaria;Vidin Airport;;2;E;Europe/Sofia;BGN;BG
+BOY;Bobo-dioulasso;BOY;Autre;Autre;Burkina Faso;Bobo Dioulasso;DFOO;0;N;Africa/Ouagadougou;XOF;BF
+OUA;Ouagadougou;OUA;Autre;Autre;Burkina Faso;Ouagadougou;DFFD;0;N;Africa/Ouagadougou;XOF;BF
+BJM;Bujumbura;BJM;Autre;Autre;Burundi;Bujumbura Intl;HBBA;2;U;Africa/Bujumbura;BIF;BI
+PNH;Phnom-penh;PNH;Autre;Autre;Cambodia;Phnom Penh Intl;VDPP;7;U;Asia/Phnom_Penh;KHR;KH
+REP;SiemReap;REP;Autre;Autre;Cambodia;Siem Reap Airport;VDSR;7;N/A;Asia/Phnom_Penh;KHR;KH
+DLA;Douala;DLA;Autre;Autre;Cameroon;Douala;FKKD;1;N;Africa/Douala;XAF;CM
+GOU;Garoua;GOU;Autre;Autre;Cameroon;Garoua;FKKR;1;N;Africa/Douala;XAF;CM
+MVR;Maroua;MVR;Autre;Autre;Cameroon;Salak;FKKL;1;N;Africa/Douala;XAF;CM
+NGE;N'gaoundere;NGE;Autre;Autre;Cameroon;Ngaoundere;FKKN;1;N;Africa/Douala;XAF;CM
+NSI;Yaounde;NSI;Autre;Autre;Cameroon;Nsimalen Airport;FKYS;1;N;Africa/Douala;XAF;CM
+YAO;Yaounde;YAO;Autre;Autre;Cameroon;Yaounde Ville;FKKY;1;N;Africa/Douala;XAF;CM
+FSP;St.-pierre;FSP;Autre;Autre;Canada;St Pierre;LFVP;-4;U;America/Miquelon;CAD;CA
+XDS;Ottawa;XDS;Autre;Autre;Canada; Ottawa Rail Station ;N/A;-4;A;America/Toronto;CAD;CA
+XLB;Lac Brochet;XLB;Autre;Autre;Canada;Lac Brochet Airport;CZWH;-6;A;America/Winnipeg;CAD;CA
+XSI;South Indian Lake;XSI;Autre;Autre;Canada;South Indian Lake Airport;CZSN;-7;A;America/Winnipeg;CAD;CA
+YAT;Attawapiskat;YAT;Autre;Autre;Canada;Attawapiskat Airport;CYAT;-5;A;America/Toronto;CAD;CA
+YBG;Bagotville;YBG;Autre;Autre;Canada;Canadian Forces Base Bagotville;CYBG;-5;A;America/Montreal;CAD;CA
+YCB;Cambridge Bay;YCB;Autre;Autre;Canada;Cambridge Bay;CYCB;-7;A;America/Edmonton;CAD;CA
+YCL;Charlo;YCL;Autre;Autre;Canada;Aéroport de Charlo;CYCL;-4;U;America/Moncton;CAD;CA
+YDF;Deer Lake;YDF;Autre;Autre;Canada;Deer Lake;CYDF;-4;A;America/St_Johns;CAD;CA
+YEG;Edmonton;YEA;Autre;Autre;Canada;Edmonton Intl;CYEG;-7;A;America/Edmonton;CAD;CA
+YXD;Edmonton;YEA;Autre;Autre;Canada;Edmonton City Centre;CYXD;-7;A;America/Edmonton;CAD;CA
+YEV;Inuvik;YEV;Autre;Autre;Canada;Inuvik Mike Zubko;CYEV;-7;A;America/Edmonton;CAD;CA
+YFA;Fort Albany;YFA;Autre;Autre;Canada;Fort Albany Airport;CYFA;-5;A;America/Toronto;CAD;CA
+YFB;Iqaluit;YFB;Autre;Autre;Canada;Iqaluit;CYFB;-5;A;America/Toronto;CAD;CA
+YFC;Fredericton;YFC;Autre;Autre;Canada;Fredericton;CYFC;-4;A;America/Halifax;CAD;CA
+YFO;Flin Flon;YFO;Autre;Autre;Canada;Flin Flon;CYFO;-6;A;America/Winnipeg;CAD;CA
+YGL;La Grande Riviere;YGL;Autre;Autre;Canada;La Grande Riviere;CYGL;-5;A;America/Toronto;CAD;CA
+YGP;Gaspe;YGP;Autre;Autre;Canada;Metropolitan Area Airport;CYGP;-5;A;America/Toronto;CAD;CA
+YGR;Iles De La Madeleine;YGR;Autre;Autre;Canada;Aéroport des Iles De La Madeleine;CYGR;-4;U;America/Golfe du Saint-Laurent;CAD;CA
+YGW;Kuujjuarapik;YGW;Autre;Autre;Canada;Kuujjuarapik Airport;CYGW;-5;A;America/Toronto;CAD;CA
+YGX;Gillam;YGX;Autre;Autre;Canada;Gillam Airport;CYGX;-6;A;America/Winnipeg;CAD;CA
+YHM;Hamilton;YHM;Autre;Autre;Canada;Hamilton;CYHM;-5;A;America/Toronto;CAD;CA
+YHR;Chevery;YHR;Autre;Autre;Canada;Chevery Airport;CYHR;-4;A;America/Blanc-Sablon;CAD;CA
+YHY;Hay River;YHX;Autre;Autre;Canada;Hay River;CYHY;-7;A;America/Edmonton;CAD;CA
+YHZ;Halifax;YHZ;Autre;Autre;Canada;Halifax Intl;CYHZ;-4;A;America/Halifax;CAD;CA
+YIF;St-Augustin;YIF;Autre;Autre;Canada;St Augustin Airport;CYIF;-4;A;America/Blanc-Sablon;CAD;CA
+YLW;Kelowna;YLW;Autre;Autre;Canada;Kelowna;CYLW;-8;A;America/Vancouver;CAD;CA
+YMM;Fort Mcmurray;YMM;Autre;Autre;Canada;Fort Mcmurray;CYMM;-7;A;America/Edmonton;CAD;CA
+YMQ;Montréal;YMQ;Autre;Autre;Canada; All Airports ;N/A;-4;A;America/Toronto;CAD;CA
+YMX;Montreal;YMQ;Autre;Autre;Canada;Montreal Intl Mirabel;CYMX;-5;A;America/Toronto;CAD;CA
+YUL;Montreal;YMQ;Autre;Autre;Canada;Pierre Elliott Trudeau Intl;CYUL;-4;A;America/Montreal;CAD;CA
+YYG;Charlottetown;YYQ;Autre;Autre;Canada;Aéroport de Charlottetown ;CYYG;-4;A;America/Montreal;CAD;CA
+YOP;Rainbow Lake;YOP;Autre;Autre;Canada;Rainbow Lake Airport;CYOP;-7;A;America/Edmonton;CAD;CA
+YOW;Ottawa;YOW;Autre;Autre;Canada;Ottawa Macdonald Cartier Intl;CYOW;-5;A;America/Toronto;CAD;CA
+YPN;Port Menier;YPN;Autre;Autre;Canada;Port Menier;CYPN;-5;A;America/Toronto;CAD;CA
+YPR;Prince Pupert;YPR;Autre;Autre;Canada;Prince Rupert;CYPR;-8;A;America/Vancouver;CAD;CA
+YQB;Quebec;YQB;Autre;Autre;Canada;Quebec Jean Lesage Intl;CYQB;-5;A;America/Toronto;CAD;CA
+YQD;The Pas;YQD;Autre;Autre;Canada;The Pas Airport;CYQD;-6;A;America/Winnipeg;CAD;CA
+YQG;Windsor;YQG;Autre;Autre;Canada;Windsor;CYQG;-5;A;America/Toronto;CAD;CA
+YQM;Moncton;YQM;Autre;Autre;Canada;Metropolitan Area Airport;CYQM;-4;A;America/Halifax;CAD;CA
+YQR;Regina;YQR;Autre;Autre;Canada;Regina Intl;CYQR;-6;N;America/Regina;CAD;CA
+YQT;Thunder Bay;YQT;Autre;Autre;Canada;Thunder Bay;CYQT;-5;A;America/Toronto;CAD;CA
+YQX;Gander;YQX;Autre;Autre;Canada;Gander Intl;CYQX;-4;A;America/St_Johns;CAD;CA
+YQY;Sydney;YQY;Autre;Autre;Canada;Sydney Airport;CYQY;-4;A;America/Halifax;CAD;CA
+YRB;Resolute;YRB;Autre;Autre;Canada;Resolute Bay;CYRB;-6;A;America/Winnipeg;CAD;CA
+YSJ;St. John;YSJ;Autre;Autre;Canada;Saint John;CYSJ;-4;A;America/Halifax;CAD;CA
+YSM;Fort Smith;YSM;Autre;Autre;Canada;Fort Smith;CYSM;-7;A;America/Edmonton;CAD;CA
+YSR;Nanisivik;YSR;Autre;Autre;Canada;Nanisivik;CYSR;-5;A;America/Toronto;CAD;CA
+YTH;Thompson;YTH;Autre;Autre;Canada;Thompson;CYTH;-6;A;America/Winnipeg;CAD;CA
+YTO;Toronto;YTO;Autre;Autre;Canada; Metropolitan Area ;N/A;-5;A;America/Toronto;CAD;CA
+YTZ;Toronto;YTO;Autre;Autre;Canada;City Centre;CYTZ;-5;A;America/Toronto;CAD;CA
+YYZ;Toronto;YTO;Autre;Autre;Canada;Lester B Pearson Intl;CYYZ;-5;A;America/Toronto;CAD;CA
+YUX;Hall Beach;YUX;Autre;Autre;Canada;Hall Beach;CYUX;-5;A;America/Toronto;CAD;CA
+YUY;Rouyn Airport;YUY;Autre;Autre;Canada;Rouyn-Noranda;CYUY;-5;A;America/Toronto;CAD;CA
+YVB;Bonaventure;YVB;Autre;Autre;Canada;Bonaventure Airport;CYVB;-4;A;America/Toronto;CAD;CA
+YVO;Val D'or;YVO;Autre;Autre;Canada;Val D Or;CYVO;-5;A;America/Toronto;CAD;CA
+YVP;Quujjuaq;YVP;Autre;Autre;Canada;Kuujjuaq;CYVP;-5;A;America/Toronto;CAD;CA
+YVQ;Norman Wells;YVQ;Autre;Autre;Canada;Norman Wells;CYVQ;-7;A;America/Edmonton;CAD;CA
+YVR;Vancouver;YVR;Autre;Autre;Canada;Vancouver Intl;CYVR;-8;A;America/Vancouver;CAD;CA
+YWG;Winnipeg;YWG;Autre;Autre;Canada;Winnipeg Intl;CYWG;-6;A;America/Winnipeg;CAD;CA
+YWK;Wabush;YWK;Autre;Autre;Canada;Wabush;CYWK;-4;A;America/Halifax;CAD;CA
+YXE;Saskatoon;YXE;Autre;Autre;Canada;Saskatoon J G Diefenbaker Intl;CYXE;-6;N;America/Regina;CAD;CA
+YXJ;Fort Saint John;YXJ;Autre;Autre;Canada;Fort St John;CYXJ;-8;A;America/Dawson_Creek;CAD;CA
+YXN;Whale Cove;YXN;Autre;Autre;Canada;Whale Cove Airport;CYXN;-6;A;America/Winnipeg;CAD;CA
+YXS;Prince George;YXS;Autre;Autre;Canada;Prince George;CYXS;-8;A;America/Vancouver;CAD;CA
+YXT;Terrace;YXT;Autre;Autre;Canada;Terrace;CYXT;-8;A;America/Vancouver;CAD;CA
+YXU;London;YXU;Autre;Autre;Canada;London;CYXU;-5;A;America/Toronto;CAD;CA
+YXY;Whitehorse;YXY;Autre;Autre;Canada;Whitehorse Intl;CYXY;-8;A;America/Vancouver;CAD;CA
+YYC;Calgary;YYC;Autre;Autre;Canada;Calgary Intl;CYYC;-7;A;America/Edmonton;CAD;CA
+YYD;Smithers;YYD;Autre;Autre;Canada;Smithers;CYYD;-8;A;America/Vancouver;CAD;CA
+YYJ;Victoria;YYJ;Autre;Autre;Canada;Victoria Intl;CYYJ;-8;A;America/Vancouver;CAD;CA
+YYQ;Churchill;YYQ;Autre;Autre;Canada;Churchill;CYYQ;-6;A;America/Winnipeg;CAD;CA
+YYR;Goose Bay;YYR;Autre;Autre;Canada;Goose Bay;CYYR;-4;A;America/Halifax;CAD;CA
+YYT;St. John's;YYT;Autre;Autre;Canada;St Johns Intl;CYYT;-3.5;A;America/St_Johns;CAD;CA
+YYY;MontJoli;YYY;Autre;Autre;Canada;Mont Joli Airport;CYYY;-5;A;America/Toronto;CAD;CA
+YZF;Yellowknife;YZF;Autre;Autre;Canada;Yellowknife;CYZF;-7;A;America/Edmonton;CAD;CA
+YZP;Sandspit;YZP;Autre;Autre;Canada;Sandspit;CYZP;-8;A;America/Vancouver;CAD;CA
+YZV;Sept-Iles;YZV;Autre;Autre;Canada;Sept-Iles Airport;CYZV;-5;U;America/Montreal;CAD;CA
+ZBF;Bathurst;ZBF;Autre;Autre;Canada;Bathurst Airport;CZBF;-5;A;America/Moncton;CAD;CA
+ZKE;Kashechewan;ZKE;Autre;Autre;Canada;Kashechewan Airport;CZKE;-5;A;America/Toronto;CAD;CA
+ZTM;Shamattawa;ZTM;Autre;Autre;Canada;Shamattawa Airport;CZTM;-6;A;America/Winnipeg;CAD;CA
+XPK;Pukatawagan;XPK;Autre;Autre;Canada;Pukatawagan Airport;;;;;CAD;CA
+YEA;Edmonton;YEA;Autre;Autre;Canada;Edmonton Airport;;;;;CAD;CA
+YLR;Leaf Rapids;YLR;Autre;Autre;Canada;Leaf Rapids Airport;;;;;CAD;CA
+YKX;Kirkland Lake;YKX;Autre;Autre;Canada;Kirkland Lake station;;;;America/Toronto;CAD;CA
+YSC;Sherbrook;YSC;Autre;Autre;Canada;Sherbrook station;;;;America/Toronto;CAD;CA
+BVC;Boa Vista;BVC;Autre;Autre;Cape Verde;Aéroport de Rabil;GVBA;-1;U;Atlantic/Cape_Verde;CVE;CV
+RAI;Praia, Santiago Island;RAI;Autre;Autre;Cape Verde;Praia International Airport;GVNP;-1;U;Atlantic/Cape_Verde;CVE;CV
+SID;Amilcar Cabral;SID;Autre;Autre;Cape Verde;Amilcar Cabral Intl;GVAC;-1;U;Atlantic/Cape_Verde;CVE;CV
+VXE;SaoVicente;VXE;Autre;Autre;Cape Verde;San Pedro Airport;GVSV;-1;U;Atlantic/Cape_Verde;CVE;CV
+GCM;Georgetown;GCM;Autre;Autre;Cayman Islands;Owen Roberts Intl;MWCR;-5;U;America/Cayman;KYD;KY
+BBT;Berberati;BBT;Autre;Autre;Central African Republic;Berberati;FEFT;1;N;Africa/Bangui;XAF;CF
+BGF;Bangui;BGF;Autre;Autre;Central African Republic;Bangui M Poko;FEFF;1;N;Africa/Bangui;XAF;CF
+BIV;Holland;BIV;Autre;Autre;Central African Republic;Tulip City Airport;KBIV;-5;A;America/New_York;XAF;CF
+BBY;Bambari;BBY;Autre;Autre;Central African Republic;Bambari Airport;;;;Africa/Bangui;XAF;CF
+BGU;Bangassou;BGU;Autre;Autre;Central African Republic;Bangassou Airport;;;;Africa/Bangui;XAF;CF
+CRF;Carnot;CRF;Autre;Autre;Central African Republic;Carnot Airport;;;;Africa/Bangui;XAF;CF
+IRO;Biraro;IRO;Autre;Autre;Central African Republic;Biraro Airport;;;;Africa/Bangui;XAF;CF
+ODA;Ouadda;ODA;Autre;Autre;Central African Republic;Ouadda Airport;;;;Africa/Bangui;XAF;CF
+AEH;Abeche;AEH;Autre;Autre;Chad;Abeche;FTTC;1;N;Africa/Ndjamena;XAF;TD
+MQQ;Moundou;MQQ;Autre;Autre;Chad;Moundou;FTTD;1;N;Africa/Ndjamena;XAF;TD
+NDJ;N'djamena;NDJ;Autre;Autre;Chad;Ndjamena Hassan Djamous;FTTJ;1;N;Africa/Ndjamena;XAF;TD
+CCP;Talcahuano;CCP;Autre;Autre;Chile;Carriel Sur;SCIE;-3;S;America/Santiago;CLP;CL
+ESR;ElSalvador;ESR;Autre;Autre;Chile;El Salvador Airport;SCES;-3;S;America/Santiago;CLP;CL
+IPC;Easter Island;IPC;Autre;Autre;Chile;Mataveri Intl;SCIP;-6;S;Pacific/Easter;CLP;CL
+PUQ;Punta Arenas;PUQ;Autre;Autre;Chile;Carlos Ibanez Del Campo Intl;SCCI;-4;S;America/Santiago;CLP;CL
+ANF;Antofagasta;ANF;Autre;Autre;Chile;Andrés Sabella Gálvez International Airport;SCFA;-4;S;America/Santiago;CLP;CL
+SCL;Santiago;SCL;Autre;Autre;Chile;Arturo Merino Benitez Intl;SCEL;-4;S;America/Santiago;CLP;CL
+VAP;Valparaiso;VAP;Autre;Autre;Chile;Valparaiso Airport;;;;;CLP;CL
+CAN;Guangzhou;CAN;Autre;Autre;China;Baiyun Intl;ZGGG;8;U;Asia/Chongqing;CNY;CN
+CGO;Zhengzhou;CGO;Autre;Autre;China;Zhengzhou Xinzheng International Airport;ZHCC;8;U;Asia/Chongqing;CNY;CN
+CGQ;Changchun;CGQ;Autre;Autre;China;Changchun;ZYCC;8;U;Asia/Chongqing;CNY;CN
+CKG;Chongqing;CKG;Autre;Autre;China;Jiangbei;ZUCK;8;U;Asia/Chongqing;CNY;CN
+CTU;Chengdu;CTU;Autre;Autre;China;Shuangliu;ZUUU;8;U;Asia/Chongqing;CNY;CN
+DLC;Dalian;DLC;Autre;Autre;China;Zhoushuizi;ZYTL;8;U;Asia/Chongqing;CNY;CN
+HET;Hohhot;HET;Autre;Autre;China;Hohhot Airport;ZBHH;8;U;Asia/Harbin;CNY;CN
+HGH;Hangzhou;HGH;Autre;Autre;China;Xiaoshan;ZSHC;8;U;Asia/Chongqing;CNY;CN
+HRB;Harbin;HRB;Autre;Autre;China;Taiping;ZYHB;8;U;Asia/Chongqing;CNY;CN
+INC;Yinchuan;INC;Autre;Autre;China;Yinchuan Airport;ZLIC;8;U;Asia/Chongqing;CNY;CN
+JZH;Jiuzhai Huanglong;JZH;Autre;Autre;China;Aéroport de Jiuzhai Huanglong;ZUJZ;8;U;Asia/Chongqing;CNY;CN
+KMG;Kunming;KMG;Autre;Autre;China;Kunming Wujiaba International Airport;ZPPP;8;U;Asia/Chongqing;CNY;CN
+KWE;Guiyang;KWE;Autre;Autre;China;Guiyang Airport;ZUGY;8;U;Asia/Chongqing;CNY;CN
+KWL;Guilin;KWL;Autre;Autre;China;Aéroport international de Guilin Liangjian;ZGKL;8;U;Asia/Chongqing;CNY;CN
+MFM;Macau;MFM;Autre;Autre;China;Macau international airport;VMMC;8;U;Asia/Macao;CNY;CN
+NKG;Nanjing;NKG;Autre;Autre;China;Nanjing Lukou International Airport;ZSNJ;8;U;Asia/Chongqing;CNY;CN
+NNG;Nanning;NNG;Autre;Autre;China;Wuxu;ZGNN;8;U;Asia/Chongqing;CNY;CN
+PEK;Beijing;PEK;Autre;Autre;China;Capital Intl;ZBAA;8;U;Asia/Chongqing;CNY;CN
+PVG;Shanghai;PVG;Autre;Autre;China;Shanghai;ZSPD;8;U;Asia/Chongqing;CNY;CN
+SHA;Shanghai;SHA;Autre;Autre;China;Hongqiao Intl;ZSSS;8;U;Asia/Chongqing;CNY;CN
+SHE;Shenyang;SHE;Autre;Autre;China;Shenyang Taoxian International Airport;ZYTX;8;U;Asia/Chongqing;CNY;CN
+SJW;Shijiazhuang;SJW;Autre;Autre;China;Shijiazhuang Zhengding International Airport;ZBSJ;8;U;Asia/Chongqing;CNY;CN
+SZV;Suzhou;SZV;Autre;Autre;China;Suzhou Guangfu Airport;ZSSZ;8;U;Asia/Chongqing;CNY;CN
+SZX;Shenzhen;SZX;Autre;Autre;China;Baoan Intl;ZGSZ;8;U;Asia/Chongqing;CNY;CN
+TAO;Qingdao;TAO;Autre;Autre;China;Liuting;ZSQD;8;U;Asia/Chongqing;CNY;CN
+TNA;Jinan;TNA;Autre;Autre;China;Jinan;ZSJN;8;U;Asia/Chongqing;CNY;CN
+TSN;Tianjin;TSN;Autre;Autre;China;Binhai;ZBTJ;8;U;Asia/Chongqing;CNY;CN
+TYN;Taiyuan;TYN;Autre;Autre;China;Wusu;ZBYN;8;U;Asia/Chongqing;CNY;CN
+URC;Urumqi;URC;Autre;Autre;China;Diwopu;ZWWW;8;U;Asia/Chongqing;CNY;CN
+WNZ;Wenzhou;WNZ;Autre;Autre;China;Wenzhou Airport;ZSWZ;8;U;Asia/Chongqing;CNY;CN
+XIY;Xi'an;XIY;Autre;Autre;China;Xianyang;ZLXY;8;U;Asia/Chongqing;CNY;CN
+XMN;Xiamen;XMN;Autre;Autre;China;Gaoqi;ZSAM;8;U;Asia/Chongqing;CNY;CN
+NAY;Beijing - Nanyuan Airport;NAY;Autre;Autre;China;Beijing - Nanyuan Airport Airport;;;;Asia/Chongqing;CNY;CN
+ADZ;San Andres Island;ADZ;Autre;Autre;Colombia;Gustavo Rojas Pinilla;SKSP;-5;U;America/Bogota;COP;CO
+AXM;Armenia;AXM;Autre;Autre;Colombia;Armenia Airport;SKAR;-5;U;America/Bogota;COP;CO
+BAQ;Barranquilla;BAQ;Autre;Autre;Colombia;Ernesto Cortissoz;SKBQ;-5;U;America/Bogota;COP;CO
+BGA;Bucaramanga;BGA;Autre;Autre;Colombia;Palonegro;SKBG;-5;U;America/Bogota;COP;CO
+BOG;Bogota;BOG;Autre;Autre;Colombia;Eldorado Intl;SKBO;-5;U;America/Bogota;COP;CO
+CLO;Cali;CLO;Autre;Autre;Colombia;Alfonso Bonilla Aragon Intl;SKCL;-5;U;America/Bogota;COP;CO
+CTG;Cartagena;CTG;Autre;Autre;Colombia;Rafael Nunez;SKCG;-5;U;America/Bogota;COP;CO
+MDE;Rio Negro;MDE;Autre;Autre;Colombia;Jose Maria Cordova;SKRG;-5;U;America/Bogota;COP;CO
+PEI;Pereira;PEI;Autre;Autre;Colombia;Matecana;SKPE;-5;U;America/Bogota;COP;CO
+SMR;Santa Marta;SMR;Autre;Autre;Colombia;Armenia Airport;SKSM;;;;COP;CO
+AXS;Armenia;AXS;Autre;Autre;Colombia;Armenia Airport;;;;;COP;CO
+SSL;Santa Rosalia;SSL;Autre;Autre;Colombia;Santa Rosalia Airport;;;;America/Bogota;COP;CO
+AJN;Anjouan;AJN;Autre;Autre;Comoros ( Comores );Ouani;FMCV;3;U;Indian/Comoro;KMF;KM
+HAH;Moroni;HAH;Autre;Autre;Comoros ( Comores );Prince Said Ibrahim;FMCH;3;U;Indian/Comoro;KMF;KM
+YVA;Moroni;YVA;Autre;Autre;Comoros ( Comores );Iconi Airport;FMCN;3;U;Indian/Comoro;KMF;KM
+BZV;Brazzaville;BZV;Autre;Autre;Congo;Maya Maya;FCBB;1;N;Africa/Brazzaville;XAF;CG
+FIH;Kinshasa;FIH;Autre;Autre;Congo;Ndjili Intl;FZAA;1;N;Africa/Kinshasa;XAF;CG
+GOM;Goma;GOM;Autre;Autre;Congo;Goma Intl;FZNA;1;N;Africa/Kinshasa;XAF;CG
+LIQ;Lisala;LIQ;Autre;Autre;Congo;Lisala;FZGA;1;N;Africa/Kinshasa;XAF;CG
+LUS;Lusanga;LUS;Autre;Autre;Congo;Lusanga Airport;FZCE;1;N;N/A;XAF;CG
+PNR;Pointe-noire;PNR;Autre;Autre;Congo;Pointe Noire;FCPP;1;N;Africa/Brazzaville;XAF;CG
+RAR;Avarua;RAR;Autre;Autre;Cooke Islands;Rarotonga Intl;NCRG;-10;U;Pacific/Rarotonga;NZD;CK
+LIR;Liberia;LIR;Autre;Autre;Costa Rica;Aeropuerto Internacional Daniel Oduber Quirós;MRLB;-6;U;America/Costa_Rica;CRC;CR
+SJO;San Jose;SJO;Autre;Autre;Costa Rica;Juan Santamaria Intl;MROC;-6;U;America/Costa_Rica;CRC;CR
+DBV;Dubrovnik;DBV;Autre;Autre;Croatia (Hrvatska);Dubrovnik;LDDU;1;E;Europe/Zagreb;HRK;HR
+OSI;Osijek;OSI;Autre;Autre;Croatia (Hrvatska);Osijek;LDOS;1;E;Europe/Zagreb;HRK;HR
+PUY;Pula;PUY;Autre;Autre;Croatia (Hrvatska);Pula;LDPL;1;E;Europe/Zagreb;HRK;HR
+RJK;Rijeka;RJK;Autre;Autre;Croatia (Hrvatska);Rijeka;LDRI;1;E;Europe/Zagreb;HRK;HR
+SPU;Split;SPU;Autre;Autre;Croatia (Hrvatska);Split;LDSP;1;E;Europe/Zagreb;HRK;HR
+ZAD;Zadar;ZAD;Autre;Autre;Croatia (Hrvatska);Zadar;LDZD;1;E;Europe/Zagreb;HRK;HR
+ZAG;Zagreb;ZAG;Autre;Autre;Croatia (Hrvatska);Zagreb;LDZA;1;E;Europe/Zagreb;HRK;HR
+LSZ;(Mali) Losinj - Losinj Arpt;LSZ;Autre;Autre;Croatia (Hrvatska);(Mali) Losinj - Losinj Arpt Airport;;;;Europe/Zagreb;HRK;HR
+CFG;Cienfuegos;CFG;Autre;Autre;Cuba;Jaime Gonzalez;MUCF;-5;U;America/Havana;CUP;CU
+CMW;Camaguey;CMW;Autre;Autre;Cuba;Ign Agramonte International Airport;MUCM;-5;U;America/Havana;CUP;CU
+CYO;Cayo Largo Del Sur;CYO;Autre;Autre;Cuba;Cayo Largo Del Sur Airport;MUCL;-5;U;America/Havana;CUP;CU
+HAV;Havana;HAV;Autre;Autre;Cuba;Jose Marti Intl;MUHA;-4;U;America/Havana;CUP;CU
+HOG;Holguin;HOG;Autre;Autre;Cuba;Frank Pais Intl;MUHG;-5;U;America/Havana;CUP;CU
+SCU;Santiago;SCU;Autre;Autre;Cuba;Antonio Maceo Airport;MUCU;-5;U;America/Havana;CUP;CU
+VRA;Varadero;VRA;Autre;Autre;Cuba;Juan Gualberto Gomez Intl;MUVR;-4;U;America/Havana;CUP;CU
+LCA;Larnaca;LCA;Autre;Autre;Cyprus;Larnaca;LCLK;2;U;Asia/Nicosia;EUR;CY
+NIC;Nicosia;NIC;Autre;Autre;Cyprus;Nicosia International Airport;N/A;2;U;Asia/Nicosia;EUR;CY
+PFO;Paphos;PFO;Autre;Autre;Cyprus;Pafos Intl;LCPH;2;U;Asia/Nicosia;EUR;CY
+AKT;Akrotiri - RAF;AKT;Autre;Autre;Cyprus;Akrotiri - RAF Airport;;;;Europe/London;EUR;CY
+QLI;Limassol;QLI;Autre;Autre;Cyprus;Limassol Airport;;;;Asia/Nicosia;EUR;CY
+OSR;Ostrava;OSR;Autre;Autre;Czech Republic;Leos Janacek Airport Ostrava;LKMT;1;E;Europe/Prague;CZK;CZ
+PRG;Prague;PRG;Autre;Autre;Czech Republic;Ruzyne;LKPR;1;E;Europe/Prague;CZK;CZ
+AAL;Aalborg;AAL;Autre;Autre;Denmark;Aalborg;EKYT;1;E;Europe/Copenhagen;DKK;DK
+AAR;Aarhus;AAR;Autre;Autre;Denmark;Aarhus;EKAH;1;E;Europe/Copenhagen;DKK;DK
+BLL;Billund;BLL;Autre;Autre;Denmark;Billund;EKBI;1;E;Europe/Copenhagen;DKK;DK
+CPH;Copenhagen;CPH;Autre;Autre;Denmark;Kastrup;EKCH;1;E;Europe/Copenhagen;DKK;DK
+EBJ;Esbjerg;EBJ;Autre;Autre;Denmark;Esbjerg;EKEB;1;E;Europe/Copenhagen;DKK;DK
+FAE;Vagar;FAE;Autre;Autre;Denmark;Vagar;EKVG;0;E;Atlantic/Faeroe;DKK;DK
+KRP;Karup;KRP;Autre;Autre;Denmark;Karup;EKKA;1;E;Europe/Copenhagen;DKK;DK
+ODE;Odense;ODE;Autre;Autre;Denmark;Odense;EKOD;1;E;Europe/Copenhagen;DKK;DK
+RNN;Ronne;RNN;Autre;Autre;Denmark;Bornholm Ronne;EKRN;1;E;Europe/Copenhagen;DKK;DK
+SGD;Soenderborg;SGD;Autre;Autre;Denmark;Sonderborg;EKSB;1;E;Europe/Copenhagen;DKK;DK
+SKS;Skrydstrup;SKS;Autre;Autre;Denmark;Skrydstrup;EKSP;1;E;Europe/Copenhagen;DKK;DK
+TED;Thisted;TED;Autre;Autre;Denmark;Thisted;EKTS;1;E;Europe/Copenhagen;DKK;DK
+JIB;Djibouti;JIB;Autre;Autre;Djibouti;Ambouli International Airport;HDAM;3;U;Africa/Djibouti;DJF;DJ
+DCF; Roseau;DCF;Autre;Autre;Dominica;Roseau Airport;TDCF;-4;N/A;America/Dominica;DOP;DO
+AZS;Samana;AZS;Autre;Autre;Dominican Republic;Samana El Catey International Airport;MDCY;-4;U;America/Santo_Domingo;DOP;DO
+DOM;Dominica;DOM;Autre;Autre;Dominican Republic;Melville Hall Airport;TDPD;-4;N/A;America/Dominica;DOP;DO
+LRM;La Romana;LRM;Autre;Autre;Dominican Republic;Casa De Campo Intl;MDLR;-4;U;America/Santo_Domingo;DOP;DO
+POP;Puerto Plata;POP;Autre;Autre;Dominican Republic;Gregorio Luperon Intl;MDPP;-4;U;America/Santo_Domingo;DOP;DO
+PUJ;Punta Cana;PUJ;Autre;Autre;Dominican Republic;Punta Cana Intl;MDPC;-4;U;America/Santo_Domingo;DOP;DO
+SDQ;Santo Domingo;SDQ;Autre;Autre;Dominican Republic;Las Americas Intl;MDSD;-4;U;America/Santo_Domingo;DOP;DO
+GPS;Baltra;GPS;Autre;Autre;Ecuador;Seymour Airport;SEGS;-6;U;Pacific/Galapagos;USD;EC
+GYE;Guayaquil;GYE;Autre;Autre;Ecuador;Jose Joaquin De Olmedo Intl;SEGU;-5;U;America/Guayaquil;USD;EC
+SNC;Salinas;SNC;Autre;Autre;Ecuador;General Ulpiano Paez;SESA;-5;U;America/Guayaquil;USD;EC
+UIO;Quito;UIO;Autre;Autre;Ecuador;Mariscal Sucre Intl;SEQU;-5;U;America/Guayaquil;USD;EC
+ACC;Accra;ACC;Autre;Autre;Egypt;Kotoka Intl;DGAA;0;N;Africa/Accra;EGP;EG
+ALY;Alexandria;ALY;Autre;Autre;Egypt;Alexandria Intl;HEAX;2;U;Africa/Cairo;EGP;EG
+ASW;Aswan;ASW;Autre;Autre;Egypt;Aswan Intl;HESN;2;U;Africa/Cairo;EGP;EG
+CAI;Cairo;CAI;Autre;Autre;Egypt;Cairo Intl;HECA;2;U;Africa/Cairo;EGP;EG
+HBE;Alexandria;HBE;Autre;Autre;Egypt;Alexandria Airport;HEBA;2;N;Africa/Cairo;EGP;EG
+HRG;Hurghada;HRG;Autre;Autre;Egypt;Hurghada Intl;HEGN;2;U;Africa/Cairo;EGP;EG
+LXR;Luxor;LXR;Autre;Autre;Egypt;Luxor Intl;HELX;2;U;Africa/Cairo;EGP;EG
+MUH;Mersa-matruh;MUH;Autre;Autre;Egypt;Mersa Matruh;HEMM;2;U;Africa/Cairo;EGP;EG
+SSH;Sharm El Sheikh;SSH;Autre;Autre;Egypt;Sharm El Sheikh Intl;N/A;2;U;Africa/Cairo;EGP;EG
+TCP;Taba;TCP;Autre;Autre;Egypt;Taba Intl;HETB;2;U;Africa/Cairo;EGP;EG
+AAC;Al Arish;AAC;Autre;Autre;Egypt;Al Arish Airport;N/A;2;U;Africa/Cairo;EGP;EG
+ABS;Abu Simbel;ABS;Autre;Autre;Egypt;Abu Simbel Airport;N/A;2;U;Africa/Cairo;EGP;EG
+ATZ;Assiut;ATZ;Autre;Autre;Egypt;Assiut Airport;N/A;2;U;Africa/Cairo;EGP;EG
+AUE;Abu Rudeis;AUE;Autre;Autre;Egypt;Abu Rudeis Airport;N/A;2;U;Africa/Cairo;EGP;EG
+EMY;El Minya;EMY;Autre;Autre;Egypt;El Minya Airport;N/A;2;U;Africa/Cairo;EGP;EG
+HBH;Borg El Arab Airport;HBH;Autre;Autre;Egypt;Borg El Arab Airport Airport;N/A;2;U;Africa/Cairo;EGP;EG
+PSD;Port Said;PSD;Autre;Autre;Egypt;Port Said Airport;N/A;2;U;Africa/Cairo;EGP;EG
+SEW;Siwa;SEW;Autre;Autre;Egypt;Siwa Airport;N/A;2;U;Africa/Cairo;EGP;EG
+SKV;Santa Katarina - Mount Sinai;SKV;Autre;Autre;Egypt;Santa Katarina - Mount Sinai Airport;N/A;2;U;Africa/Cairo;EGP;EG
+UVL;Kharga - New Valley;UVL;Autre;Autre;Egypt;Kharga - New Valley Airport;N/A;2;U;Africa/Cairo;EGP;EG
+SAL;San Salvador;SAL;Autre;Autre;El Salvador;El Salvador Intl;MSLP;-6;U;America/El_Salvador;USD;SV
+SSG;Malabo;SSG;Autre;Autre;Equatorial Guinea;Malabo;FGSL;1;N;Africa/Malabo;XAF;GQ
+ASM;Asmara;ASM;Autre;Autre;Eritrea;Asmara international airport;N/A;N/A;N/A;Africa/Asmara;ERN;ER
+TLL;Tallinn;TLL;Autre;Autre;Estonia;Tallinn-ulemiste International Airport;EETN;2;E;Europe/Tallinn;EUR;EE
+QUF;Tallinn;QUF;Autre;Autre;Estonia;Tallinn-Pirita Harbour;N/A;2;E;Europe/Tallinn;EUR;EE
+ADD;Addis Ababa;ADD;Autre;Autre;Ethiopia;Bole Intl;HAAB;3;U;Africa/Addis_Ababa;ETB;ET
+MQX;Makale;MQX;Autre;Autre;Ethiopia;Makale Airport;HAMK;3;U;Africa/Addis_Ababa;ETB;ET
+NAN;Nandi;NAN;Autre;Autre;Fiji;Nadi Intl;NFFN;12;U;Pacific/Fiji;FJD;FJ
+SUV;Nausori;SUV;Autre;Autre;Fiji;Nausori Intl;NFNA;12;U;Pacific/Fiji;FJD;FJ
+ENF;Enontekio;ENF;Autre;Autre;Finland;Enontekio;EFET;2;E;Europe/Helsinki;EUR;FI
+HEL;Helsinki;HEL;Autre;Autre;Finland;Helsinki Vantaa;EFHK;2;E;Europe/Helsinki;EUR;FI
+IVL;Ivalo;IVL;Autre;Autre;Finland;Ivalo;EFIV;2;E;Europe/Helsinki;EUR;FI
+JOE;Joensuu;JOE;Autre;Autre;Finland;Joensuu;EFJO;2;E;Europe/Helsinki;EUR;FI
+JYV;Jyvaskyla;JYV;Autre;Autre;Finland;Jyvaskyla;EFJY;2;E;Europe/Helsinki;EUR;FI
+KAJ;Kajaani;KAJ;Autre;Autre;Finland;Kajaani;EFKI;2;E;Europe/Helsinki;EUR;FI
+KAO;Kuusamo;KAO;Autre;Autre;Finland;Kuusamo;EFKS;2;E;Europe/Helsinki;EUR;FI
+KEM;Kemi;KEM;Autre;Autre;Finland;Kemi Tornio;EFKE;2;E;Europe/Helsinki;EUR;FI
+KOK;Kruunupyy;KOK;Autre;Autre;Finland;Kruunupyy;EFKK;2;E;Europe/Helsinki;EUR;FI
+KUO;Kuopio;KUO;Autre;Autre;Finland;Kuopio;EFKU;2;E;Europe/Helsinki;EUR;FI
+LPP;Lappeenranta;LPP;Autre;Autre;Finland;Lappeenranta;EFLP;2;E;Europe/Helsinki;EUR;FI
+MHQ;Mariehamn;MHQ;Autre;Autre;Finland;Mariehamn;EFMA;1;E;Europe/Mariehamn;EUR;FI
+MIK;Mikkeli;MIK;Autre;Autre;Finland;Mikkeli;EFMI;2;E;Europe/Helsinki;EUR;FI
+OUL;Oulu;OUL;Autre;Autre;Finland;Oulu;EFOU;2;E;Europe/Helsinki;EUR;FI
+POR;Pori;POR;Autre;Autre;Finland;Pori;EFPO;2;E;Europe/Helsinki;EUR;FI
+RVN;Rovaniemi;RVN;Autre;Autre;Finland;Rovaniemi;EFRO;2;E;Europe/Helsinki;EUR;FI
+SJY;Seinajoki / Ilmajoki;SJY;Autre;Autre;Finland;Seinajoki Airport;EFSI;2;E;Europe/Helsinki;EUR;FI
+SOT;Sodankyla;SOT;Autre;Autre;Finland;Sodankyla;EFSO;2;E;Europe/Helsinki;EUR;FI
+SVL;Savonlinna;SVL;Autre;Autre;Finland;Savonlinna;EFSA;2;E;Europe/Helsinki;EUR;FI
+TKU;Turku;TKU;Autre;Autre;Finland;Turku;EFTU;2;E;Europe/Helsinki;EUR;FI
+TMP;Tampere;TMP;Autre;Autre;Finland;Tampere Pirkkala;EFTP;2;E;Europe/Helsinki;EUR;FI
+VAA;Vaasa;VAA;Autre;Autre;Finland;Vaasa;EFVA;2;E;Europe/Helsinki;EUR;FI
+VRK;Varkaus;VRK;Autre;Autre;Finland;Varkaus;EFVR;2;E;Europe/Helsinki;EUR;FI
+KHJ;Kauhajoki;KHJ;Autre;Autre;Finland;Kauhajoki Airport;;2;E;Europe/Helsinki;EUR;FI
+AGF;Agen;AGF;Lot-et-Garonne;Province;France;Agen La Garenne;LFBA;2;E;Europe/Paris;EUR;FR
+AJA;Ajaccio;AJA;Corse-du-sud;Province;France;Campo Dell Oro;LFKJ;2;E;Europe/Paris;EUR;FR
+ANE;Angers;ANE;Maine-et-Loire;Province;France;Angers Marcé airport;LFJR;2;E;Europe/Paris;EUR;FR
+ANG;Angouleme;ANG;Charente;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+AUR;Aurillac;AUR;Cantal;Province;France;Aurillac;LFLW;2;E;Europe/Paris;EUR;FR
+AVN;Avignon;AVN;Vaucluse;Autre;France; Avignon airport;LFMV;2;E;Europe/Paris;EUR;FR
+XZN;Avignon;AVN;Vaucluse;Province;France; Avignon TGV Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+BES;Brest;BES;Finistere ;Province;France;Guipavas;LFRB;2;E;Europe/Paris;EUR;FR
+BIA;Bastia;BIA;Haute-Corse;Province;France;Poretta;LFKB;2;E;Europe/Paris;EUR;FR
+BIQ;Biarritz-bayonne;BIQ;Pyrenees-Atlantiques;Province;France;Anglet;LFBZ;2;E;Europe/Paris;EUR;FR
+BOB;Bora Bora;BOB;French Polynesia;DOM;France;Bora Bora;NTTB;2;U;Pacific/Tahiti;EUR;PF
+BOD;Bordeaux;BOD;Gironde;Province;France;Merignac;LFBD;2;E;Europe/Paris;EUR;FR
+BOU;Bourges;BOU;Cher;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+BVE;Brive-la-Gaillarde;BVE;Corrèze;Province;France;Aéroport de Brive-Vallée de la Dordogne;LFSL;2;E;Europe/Paris;EUR;FR
+BZR;Béziers;BZR;Hérault;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+CAY;Cayenne;CAY;French Guayana;DOM;France;Rochambeau;SOCA;2;U;America/Cayenne;EUR;FR
+CER;Cherbourg;CER;Manche;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+CET;Cholet;CET;Maine-et-Loire;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+CFE;Clermont Ferrand;CFE;Puy-de-Dome;Province;France;Auvergne;LFLC;2;E;Europe/Paris;EUR;FR
+CFR;Caen;CFR;Calvados;Province;France;Caen - Carpiquet;LFRK;2;E;Europe/Paris;EUR;FR
+CHR;Chateauroux;CHR;Indre-et-Loire;Province;France;Chateauroux Airport;LFLX;2;E;Europe/Paris;EUR;FR
+CLY;Calvi;CLY;Haute-Corse;Province;France;Saint Catherine;LFKC;2;E;Europe/Paris;EUR;FR
+CMF;Chambery;CMF;Savoie;Province;France;Aix Les Bains;LFLB;2;E;Europe/Paris;EUR;FR
+DCM;Castres;DCM;Tarn;Province;France;Mazamet Airport;LFCK;2;E;Europe/Paris;EUR;FR
+DIJ;Dijon;DIJ;Cote d'or;Province;France;Dijon Airport;LFSD;2;E;Europe/Paris;EUR;FR
+DNR;Dinard;DNR;Ille-et-Vilaine;Province;France;Pleurtuit;LFRD;2;E;Europe/Paris;EUR;FR
+DPE;Dieppe;DPE;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+DZA;Dzaoudzi;DZA;Mayotte;DOM;France;Dzaoudzi Pamandzi;FMCZ;3;U;Indian/Mayotte;EUR;YT
+EAP;Basel/Mulhouse;EAP;;Province;France;Euroairport;N/A;2;E;Europe/Paris;EUR;FR
+EBU;St.-etienne;EBU;Loire;Province;France;Boutheon;LFMH;2;E;Europe/Paris;EUR;FR
+EDM;La Roche sur Yon;EDM;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+ENC;Nancy;ENC;Meurthe-et-Moselle;Province;France;Essey;LFSN;2;E;Europe/Paris;EUR;FR
+EPL;Epinal;EPL;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+ETZ;Metz/Nancy;ETZ;Moselle;Province;France;Metz-Nancy-Lorraine Airport;LFJL;2;E;Europe/Paris;EUR;FR
+FDF;Fort-de-france;FDF;Martinique;DOM;France;Le Lamentin;TFFF;-4;U;America/Martinique;EUR;MQ
+FNI;Nimes;FNI;Gard;Province;France;Garons;LFTW;2;E;Europe/Paris;EUR;FR
+FRJ;Frejus;FRJ;Var;Province;France;Frejus Saint Raphael;LFTU;2;E;Europe/Paris;EUR;FR
+FSC;Figari;FSC;Corse-du-Sud;Province;France;Sud Corse;LFKF;2;E;Europe/Paris;EUR;FR
+GAT;Gap;GAT;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+GNB;Grenoble;GNB;Isere;Province;France;Saint Geoirs;LFLS;2;E;Europe/Paris;EUR;FR
+HUH;Huahine Island;HUH;French Polynesia;DOM;France;Huahine;NTTH;2;U;Pacific/Tahiti;EUR;PF
+LAI;Lannion;LAI;Cotes-d'Armor;Province;France;Lannion;LFRO;2;E;Europe/Paris;EUR;FR
+LBI;Albi;LBI;Midi-Pyrenees;Province;France;Le Sequestre;LFCI;2;E;Europe/Paris;EUR;FR
+LBY;La Baule;LBY;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+LDE;Tarbes;LDE;Hautes-Pyrenees ;Province;France;Lourdes;LFBT;2;E;Europe/Paris;EUR;FR
+LEH;Le Havre;LEH;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+LIG;Limoges;LIG;Haute-Vienne;Province;France;Bellegarde;LFBL;2;E;Europe/Paris;EUR;FR
+LIL;Lille;LIL;Nord;Province;France;Lesquin;LFQQ;2;E;Europe/Paris;EUR;FR
+LME;Le Mans;LME;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+LPY;LePuy;LPY;Haute-Loire;Province;France;Loudes Airport;LFHP;2;E;Europe/Paris;EUR;FR
+LRH;La Rochelle;LRH;Charente-Maritime ;Province;France;La Rochelle-Ile de Re;LFBH;2;E;Europe/Paris;EUR;FR
+LRT;Lorient;LRT;Morbihan ;Province;France;Lann Bihoue;LFRH;2;E;Europe/Paris;EUR;FR
+LSO;Les sables;LSO;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+LYS;Lyon;LYS;Rhone;Province;France;Lyon Saint Exupéry;LFLL;2;E;Europe/Paris;EUR;FR
+XYD;Lyon;LYS;Rhone;Province;France; Lyon Part-Dieu Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+MAU;Maupiti;MAU;French Polynesia;DOM;France;Maupiti;NTTP;2;U;Pacific/Tahiti;EUR;PF
+MOZ;Moorea;MOZ;French Polynesia;DOM;France;Moorea;NTTM;2;U;Pacific/Tahiti;EUR;PF
+MPL;Montpellier;MPL;Herault ;Province;France;Mediterranee;LFMT;2;E;Europe/Paris;EUR;FR
+MRS;Marseille;MRS;Bouches du Rhone;Province;France;Provence;LFML;2;E;Europe/Paris;EUR;FR
+MZM;Metz;MZM;Moselle;Province;France;Frescaty;LFSF;2;E;Europe/Paris;EUR;FR
+NCE;Nice;NCE;Alpes-Maritimes ;Province;France;Cote D Azur;LFMN;2;E;Europe/Paris;EUR;FR
+NCY;Annecy;NCY;Haute-Savoie;Province;France;Meythet;LFLP;2;E;Europe/Paris;EUR;FR
+NHV;NukuHiva;NHV;French Polynesia;DOM;France;Nuku Hiva Airport;NTMD;2;U;Pacific/Marquesas;EUR;PF
+NIT;Niort;NIT;Deux-Sèvres;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+NTE;Nantes;NTE;Loire-Atlantique;Province;France;Nantes Atlantique;LFRS;2;E;Europe/Paris;EUR;FR
+ORE;Orleans;ORE;Loiret;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+CDG;Paris;PAR;Ile de France;Région parisienne;France;Charles De Gaulle;LFPG;2;E;Europe/Paris;EUR;FR
+BVA;Beauvais;PAR;Ile de France;Région parisienne;France;Beauvais–Tillé Airport;LFOB;2;E;Europe/Paris;EUR;FR
+LBG;Paris;PAR;Ile de France;Région parisienne;France;Le Bourget;LFPB;2;E;Europe/Paris;EUR;FR
+ORY;Paris;PAR;Ile de France;Région parisienne;France;Orly;LFPO;2;E;Europe/Paris;EUR;FR
+PAR;Paris;PAR;Ile de France;Région parisienne;France;Paris Metropolitan;LFPW;2;E;Europe/Paris;EUR;FR
+XJY;Massy;PAR;Essonne;Région parisienne;France;Gare Massy TGV;N/A;2;E;Europe/Paris;EUR;FR
+PGF;Perpignan;PGF;Pyrenees-Orientales;Province;France;Rivesaltes;LFMP;2;E;Europe/Paris;EUR;FR
+PGX;Perigueux;PGX;Dordogne;Province;France;Perigueux Airport;LFBX;2;E;Europe/Paris;EUR;FR
+EGC;Bergerac;PGX;Dordogne;Province;France;Aéroport de Bergerac - Roumanière;LFBE;2;E;Europe/Paris;EUR;FR
+PIS;Poitiers;PIS;Vienne;Province;France;Biard Airport;LFBI;2;E;Europe/Paris;EUR;FR
+PTP;Pointe-a-pitre;PTP;Guadeloupe;DOM;France;Le Raizet;TFFR;-4;U;America/Guadeloupe;EUR;GP
+PUF;Pau;PUF;Pyrenees-Atlantiques;Province;France;Pau Pyrenees;LFBP;2;E;Europe/Paris;EUR;FR
+QAM;Amiens;QAM;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+QBQ;Besançon;QBQ;Doubs;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+QJZ;Nantes;QJZ;Loire-Atlantique;Province;France; Nantes Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+QNX;Macon;QNX;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+QTJ;Chartres;QTJ;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+QXB;Aix Les Milles;QXB;Bouches du Rhone;Province;France; Aix Les Milles Airport ;LFMA;2;E;Europe/Paris;EUR;FR
+QXG;Angers;QXG;Maine-et-Loire;Province;France; Saint-Laud Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+QYR;Troyes;QYR;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+QYG;Beliebiger;QYG;Autre;Autre;Germany;Beliebiger Bahnhof;N/A;2;E;Europe/Paris;EUR;DE
+RDZ;Rodez;RDZ;Aveyron;Province;France;Marcillac;LFCR;2;E;Europe/Paris;EUR;FR
+RFP;Raiatea Island;RFP;French Polynesia;DOM;France;Raiatea;NTTR;2;U;Pacific/Tahiti;EUR;PF
+RGI;Rangiroa;RGI;French Polynesia;DOM;France;Rangiroa;NTTG;2;U;Pacific/Tahiti;EUR;PF
+RHE;Reims;RHE;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+RNE;Roanne;RNE;Loire;Province;France;Renaison;LFLO;2;E;Europe/Paris;EUR;FR
+RNS;Rennes;RNS;Ille-et-Vilaine;Province;France;St Jacques;LFRN;2;E;Europe/Paris;EUR;FR
+RUN;St.-denis;RUN;Reunion;DOM;France;St Denis Gillot;FMEE;4;U;Indian/Reunion;EUR;RE
+RYN;Royan;RYN;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+SBH;SaintBarthelemy;SBH;Guadeloupe;DOM;France;St. Barthelemy Airport;TFFJ;-4;N/A;America/Guadeloupe;EUR;GP
+SBK;St.-brieuc Armor;SBK;Cotes-d'Armor ;Province;France;Armor;LFRT;2;E;Europe/Paris;EUR;FR
+SNR;Saint Nazaire;SNR;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+SXB;Strasbourg;SXB;Bas-Rhin ;Province;France;Entzheim;LFST;2;E;Europe/Paris;EUR;FR
+TLN;Toulon;TLN;Var;Province;France;Hyeres Airport;LFTH;2;E;Europe/Paris;EUR;FR
+TLS;Toulouse;TLS;Haute-Garonne;Province;France;Blagnac;LFBO;2;E;Europe/Paris;EUR;FR
+TUB;Tubuai;TUB;French Polynesia;DOM;France;Tubuai – Mataura Airport;NTAT;2;U;Pacific/Tahiti;EUR;PF
+TUF;Tours;TUF;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+UIP;Quimper;UIP;Finistere;Province;France;Pluguffan;LFRQ;2;E;Europe/Paris;EUR;FR
+URO;Rouen;URO;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+VAF;Valence;VAF;Drome;Province;France;valence chabeuil airport;LFLU;2;E;Europe/Paris;EUR;FR
+XHK;Valence;VAF;Drome;Province;France;Valence TGV Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+VHY;Vichy;VHY;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+VNE;Vannes;VNE;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+XAC;Arcachon;XAC;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+XBY;Bayonne;XBY;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+XCD;Chalon sur Saone;XCD;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+XDB;Lille;XDB;Nord;Province;France; Lille-Europe Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+XER;Strasbourg;XER;Bas-Rhin;Province;France; Strasbourg Bus Service ;N/A;2;E;Europe/Paris;EUR;FR
+XHF;Valence;XHF;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+XIZ;Reims;XIZ;Champagne;Province;France;Gare de Champagne-Ardenne TGV;N/A;2;E;Europe/Paris;EUR;FR
+XMH;Manihi;XMH;French Polynesia;DOM;France;Manihi;NTGI;2;U;Pacific/Tahiti;EUR;PF
+XOP;Poitiers;XOP;Vienne;Province;France; Poitiers Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+XPG;Paris;XPG;Paris;Région parisienne;France; Gare du Nord Rail Stn ;N/A;2;E;Europe/Paris;EUR;FR
+XPJ;Montpellier;XPJ;Hérault;Province;France; Montpellier Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+XRF;Marseille;XRF;Bouches du Rhone;Province;France; Marseille Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+XSH;Tours;XSH;Indre-et-Loire;Province;France; Tours Saint-Pierre-des-Corps Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+XST;Santes;XST;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+XSU;Saumur;XSU;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+XVF;Villefrance-sur-Saone;XVF;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+XWG;Strasbourg ville;XWG;Bas-Rhin;Province;France;Strasbourg ville, gare;N/A;2;E;Europe/Paris;EUR;FR
+XZI;Metz-Nancy;XZI;Moselle;Province;France;Metz-Nancy Gare;N/A;2;E;Europe/Paris;EUR;FR
+XZV;Toulon;XZV;Var;Province;France;Toulon TGV station;N/A;2;E;Europe/Paris;EUR;FR
+ZFJ;Rennes;ZFJ;Ille-et-Vilaine;Province;France; Gare de Rennes ;N/A;2;E;Europe/Paris;EUR;FR
+ZFQ;Bordeaux;ZFQ;Gironde;Province;France; Gare de Bordeaux ;N/A;2;E;Europe/Paris;EUR;FR
+ZLN;Le Mans;ZLN;Sarthe;Province;France; Le Mans Railway Station ;N/A;2;E;Europe/Paris;EUR;FR
+ZQF;Bordeaux;ZQF;;Province;France;Gare;N/A;2;E;Europe/Paris;EUR;FR
+ZSE;Saint Pierre de la Reunion;ZSE;Reunion;DOM;France;St. Pierre de la Reunion Airport;KZSE;4;U;Indian/Reunion;EUR;FR
+ZYN;Nimes;ZYN;Gard;Province;France;Gare de Nimes;N/A;2;E;Europe/Paris;EUR;FR
+LBQ;Lambarene;LBQ;Autre;Autre;Gabon;Lambarene;FOGR;1;N;Africa/Libreville;XAF;GA
+LBV;Libreville;LBV;Autre;Autre;Gabon;Leon M Ba;FOOL;1;N;Africa/Libreville;XAF;GA
+MJL;Mouila;MJL;Autre;Autre;Gabon;Mouilla Ville Airport;FOGM;1;N;Africa/Libreville;XAF;GA
+MVB;Franceville;MVB;Autre;Autre;Gabon;Mvengue;FOON;1;N;Africa/Libreville;XAF;GA
+POG;Port Gentil;POG;Autre;Autre;Gabon;Port Gentil;FOOG;1;N;Africa/Libreville;XAF;GA
+MFF;Moanda;MFF;Autre;Autre;Gabon;Moanda Airport;;1;N;Africa/Libreville;XAF;GA
+BJL;Banjul;BJL;Autre;Autre;Gambia;Banjul Intl;GBYD;0;N;Africa/Banjul;GMD;GM
+TBS;Tbilisi;TBS;Autre;Autre;Georgia;Tbilisi;UGTB;4;E;Asia/Tbilisi;GEL;GE
+AGB;Augsburg;AGB;Autre;Autre;Germany;Augsburg;EDMA;2;E;Europe/Berlin;EUR;DE
+BER;Berlin;BER;Autre;Autre;Germany;Berlin - Metropolencode;N/A;2;E;Europe/Berlin;EUR;DE
+SXF;Berlin;BER;Autre;Autre;Germany;Schonefeld;EDDB;2;E;Europe/Berlin;EUR;DE
+THF;Berlin;BER;Autre;Autre;Germany;Tempelhof;EDDI;2;E;Europe/Berlin;EUR;DE
+TXL;Berlin;BER;Autre;Autre;Germany;Tegel;EDDT;2;E;Europe/Berlin;EUR;DE
+BRE;Bremen;BRE;Autre;Autre;Germany;Neuenland;EDDW;2;E;Europe/Berlin;EUR;DE
+BYU;Bayreuth;BYU;Autre;Autre;Germany;Bayreuth;EDQD;2;E;Europe/Berlin;EUR;DE
+CGN;Cologne;CGN;Autre;Autre;Germany;Koln Bonn;EDDK;2;E;Europe/Berlin;EUR;DE
+DRS;Dresden;DRS;Autre;Autre;Germany;Dresden;EDDC;2;E;Europe/Berlin;EUR;DE
+DTM;Dortmund;DTM;Autre;Autre;Germany;Dortmund;EDLW;2;E;Europe/Berlin;EUR;DE
+ERF;Erfurt;ERF;Autre;Autre;Germany;Erfurt;EDDE;2;E;Europe/Berlin;EUR;DE
+FMO;Muenster/osnabrueck;FMO;Autre;Autre;Germany;Munster Osnabruck;EDDG;2;E;Europe/Berlin;EUR;DE
+FDH;Friedrichshafen;FRA;Autre;Autre;Germany;Friedrichshafen;EDNY;2;E;Europe/Berlin;EUR;DE
+FRA;Frankfurt;FRA;Autre;Autre;Germany;Frankfurt Main;EDDF;2;E;Europe/Berlin;EUR;DE
+GWT;Westerland;GWT;Autre;Autre;Germany;Westerland Sylt;EDXW;2;E;Europe/Berlin;EUR;DE
+HAJ;Hannover;HAJ;Autre;Autre;Germany;Hannover;EDDV;2;E;Europe/Berlin;EUR;DE
+HAM;Hamburg;HAM;Autre;Autre;Germany;Hamburg;EDDH;2;E;Europe/Berlin;EUR;DE
+HHN;Hahn;HHN;Autre;Autre;Germany;Frankfurt - Hahn Airport;EDFH;2;E;Europe/Berlin;EUR;DE
+HOQ;Hof;HOQ;Autre;Autre;Germany;Hof Plauen;EDQM;2;E;Europe/Berlin;EUR;DE
+KEL;Kiel;KEL;Autre;Autre;Germany;Kiel Holtenau;EDHK;2;E;Europe/Berlin;EUR;DE
+LEJ;Leipzig;LEJ;Autre;Autre;Germany;Leipzig Halle;EDDP;2;E;Europe/Berlin;EUR;DE
+MUC;Munich;MUC;Autre;Autre;Germany;Franz Josef Strauss;EDDM;2;E;Europe/Berlin;EUR;DE
+NRN;Weeze;NRN;Autre;Autre;Germany;Weeze Airport;EDLV;2;E;Europe/Berlin;EUR;DE
+NUE;Nuernberg;NUE;Autre;Autre;Germany;Nurnberg;EDDN;2;E;Europe/Berlin;EUR;DE
+PAD;Paderborn;PAD;Autre;Autre;Germany;Paderborn Lippstadt;EDLP;2;E;Europe/Berlin;EUR;DE
+DUS;Dusseldorf;QDU;Autre;Autre;Germany;Dusseldorf;EDDL;2;E;Europe/Berlin;EUR;DE
+QDU;Dusseldorf;QDUU;Autre;Autre;Germany;Dusseldorf Station;;2;E;Europe/Berlin;EUR;DE
+QKL;Cologne;QKL;Autre;Autre;Germany;Cologne Bonn Airport;EDDK;2;E;Europe/Berlin;EUR;DE
+SCN;Saarbruecken;SCN;Autre;Autre;Germany;Saarbrucken;EDDR;2;E;Europe/Berlin;EUR;DE
+STR;Stuttgart;STR;Autre;Autre;Germany;Stuttgart;EDDS;2;E;Europe/Berlin;EUR;DE
+FKB;Karlsruhe-Baden - Soellingen;FKB;Autre;Autre;Germany;Karlsruhe-Baden - Soellingen Airport;;2;E;Europe/Berlin;EUR;DE
+HNN;Frankfurt/Hahn;HNN;Autre;Autre;Germany;Frankfurt/Hahn Airport;;2;E;Europe/Berlin;EUR;DE
+WIE;Wiesbaden, Air Base;WIE;Autre;Autre;Germany;Wiesbaden, Air Base Airport;;2;E;Europe/Berlin;EUR;DE
+ZNS;Kempten;ZNS;Autre;Autre;Germany;Kempten Airport;;2;E;Europe/Berlin;EUR;DE
+BFE;Bielefeld;BFE;Autre;Autre;Germany;Bielefeld Airport;;2;E;Europe/Berlin;EUR;DE
+BNJ;Cologne;BNJ;Autre;Autre;Germany;Cologne Airport;;2;E;Europe/Berlin;EUR;DE
+ESS;Essen;ESS;Autre;Autre;Germany;Essen Airport;;2;E;Europe/Berlin;EUR;DE
+QFB;Freiburg;QFB;Autre;Autre;Germany;Freiburg station;;2;E;Europe/Berlin;EUR;DE
+GIB;Gibraltar;GIB;Autre;Autre;Gibraltar;Gibraltar;LXGB;1;N;Europe/Gibraltar;GIP;GI
+AOK;Karpathos;AOK;Autre;Autre;Greece;Karpathos;LGKP;2;E;Europe/Athens;EUR;GR
+ATH;Athens;ATH;Autre;Autre;Greece;Eleftherios Venizelos Intl;LGAV;2;E;Europe/Athens;EUR;GR
+HEW;Athens;ATH;Autre;Autre;Greece;Athen Helenikon Airport;N/A;2;E;Europe/Athens;EUR;GR
+AXD;Alexandropoli;AXD;Autre;Autre;Greece;Aéroport international Demokritos;LGAL;2;E;Europe/Athens;EUR;GR
+CFU;Kerkyra/corfu;CFU;Autre;Autre;Greece;Ioannis Kapodistrias Intl;LGKR;2;E;Europe/Athens;EUR;GR
+CHQ;Chania;CHQ;Autre;Autre;Greece;Souda;LGSA;2;E;Europe/Athens;EUR;GR
+GPA;Patras;GPA;Autre;Autre;Greece;Araxos;LGRX;2;E;Europe/Athens;EUR;GR
+HER;Heraklion;HER;Autre;Autre;Greece;Nikos Kazantzakis;LGIR;2;E;Europe/Athens;EUR;GR
+IOA;Ioannina;IOA;Autre;Autre;Greece;Ioannina National Airport;LGIO;2;E;Europe/Athens;EUR;GR
+JKH;Chios;JKH;Autre;Autre;Greece;Chios;LGHI;2;E;Europe/Athens;EUR;GR
+JMK;Mykonos;JMK;Autre;Autre;Greece;Mikonos;LGMK;2;E;Europe/Athens;EUR;GR
+JSI;Skiathos;JSI;Autre;Autre;Greece;Alexandros Papadiamantis;LGSK;2;E;Europe/Athens;EUR;GR
+JTR;Santorini;JTR;Autre;Autre;Greece;Santorini;LGSR;2;E;Europe/Athens;EUR;GR
+KGS;Kos;KGS;Autre;Autre;Greece;Kos;LGKO;2;E;Europe/Athens;EUR;GR
+KLX;Kalamata;KLX;Autre;Autre;Greece;Kalamata;LGKL;2;E;Europe/Athens;EUR;GR
+KVA;Kavala;KVA;Autre;Autre;Greece;Megas Alexandros Intl;LGKV;2;E;Europe/Athens;EUR;GR
+LXS;Lemnos;LXS;Autre;Autre;Greece;Lemnos International Airport;LGLM;2;E;Europe/Athens;EUR;GR
+MJT;Mytilini;MJT;Autre;Autre;Greece;Mitilini;LGMT;2;E;Europe/Athens;EUR;GR
+PVK;Preveza;PVK;Autre;Autre;Greece;Aktio;LGPZ;2;E;Europe/Athens;EUR;GR
+RHO;Rhodos;RHO;Autre;Autre;Greece;Rhodes Diagoras;LGRP;2;E;Europe/Athens;EUR;GR
+SKG;Thessaloniki;SKG;Autre;Autre;Greece;Makedonia;LGTS;2;E;Europe/Athens;EUR;GR
+SMI;Samos;SMI;Autre;Autre;Greece;Samos;LGSM;2;E;Europe/Athens;EUR;GR
+ZTH;Zakynthos;ZTH;Autre;Autre;Greece;Dionysios Solomos;LGZA;2;E;Europe/Athens;EUR;GR
+SFJ;Sondrestrom;SFJ;Autre;Autre;Greenland;Sondre Stromfjord;BGSF;-3;E;America/Godthab;DKK;GL
+UAK;Narssarssuaq;UAK;Autre;Autre;Greenland;Narsarsuaq;BGBW;-3;E;America/Godthab;DKK;GL
+GND;Point Salines;GND;Autre;Autre;Grenada;Point Salines Intl;TGPY;-4;U;America/Grenada;XCD;GD
+NRV;Agana;GUM;Autre;Autre;Guam;USCG Shore Station Airport;N/A;10;U;Pacific/Guam;USD;GU
+GUM;Agana;GUM;Autre;Autre;Guam;Guam Intl;PGUM;10;U;Pacific/Guam;USD;GU
+SUM;Agana;SUM;Autre;Autre;Guam;Agana Airport;;10;U;Pacific/Guam;USD;GU
+DGM;Dongguan;DGM;Autre;Autre;Guangdong, China;Dongguan Airport;;10;U;Pacific/Guam;USD;GU
+FRS;Santa Elena;FRS;Autre;Autre;Guatemala;Mundo Maya International Airport;MGMM;-6;U;America/Guatemala;GTQ;GT
+GUA;Guatemala City;GUA;Autre;Autre;Guatemala;La Aurora;MGGT;-6;U;America/Guatemala;GTQ;GT
+CKY;Conakry;CKY;Autre;Autre;Guinea;Conakry;GUCY;0;N;Africa/Conakry;XAF;GN
+LEK;Labe;LEK;Autre;Autre;Guinea;Labe;GULB;0;N;Africa/Conakry;XAF;GN
+BXO;Bissau;BXO;Autre;Autre;Guinea Bissau;Bissau Airport;;0;N;Africa/Bissau;XOF;GW
+OXB;Bissau;OXB;Autre;Autre;Guinea-Bissau;Osvaldo Vieira Airport;GGOV;0;N;Africa/Bissau;XOF;GW
+GEO;Georgetown;GEO;Autre;Autre;Guyana;Cheddi Jagan Intl;SYCJ;-4;U;America/Guyana;GYD;GY
+OGL;Ogle;OGL;Autre;Autre;Guyana;Ogle International Airport;N/A;N/A;N/A;America/Guyana;GYD;GY
+PAP;Port-au-prince;PAP;Autre;Autre;Haiti;Toussaint Louverture Intl;MTPP;-5;U;America/Port-au-Prince;HTG;HT
+RTB;Roatan;RTB;Autre;Autre;Honduras;Juan Manuel Galvez Intl;MHRO;-6;U;America/Tegucigalpa;HNL;HN
+SAP;San Pedro Sula;SAP;Autre;Autre;Honduras;La Mesa Intl;MHLM;-6;U;America/Tegucigalpa;HNL;HN
+TGU;Tegucigalpa;TGU;Autre;Autre;Honduras;Toncontin Intl;MHTG;-6;U;America/Tegucigalpa;HNL;HN
+SDH;Santa Rosa Copan;SDH;Autre;Autre;Honduras;Santa Rosa Copan Airport;;-6;U;America/Tegucigalpa;HNL;HN
+HKG;Hong Kong;HKG;Autre;Autre;Hong Kong;Hong Kong Intl;VHHH;8;U;Asia/Hong_Kong;HKD;HK
+ZJK;Hong Kong - Chek Lap Kok;ZJK;Autre;Autre;Hong Kong;Hong Kong - Chek Lap Kok Airport;;8;U;Asia/Hong_Kong;HKD;HK
+WUH;Wuhan;WUH;Autre;Autre;Hubei, China;Tianhe;ZHHH;8;U;Asia/Chongqing;CYD;CH
+BUD;Budapest;BUD;Autre;Autre;Hungary;Ferihegy;LHBP;1;E;Europe/Budapest;HUF;HU
+CXI;Kiritimati;CXI;Autre;Autre;Iceland;Cassidy International Airport;PLCH;-12;U;N/A;ISK;IS
+EGS;Egilsstadir;EGS;Autre;Autre;Iceland;Egilsstadir;BIEG;0;N;Atlantic/Reykjavik;ISK;IS
+KEF;Keflavik;KEF;Autre;Autre;Iceland;Keflavik International Airport;BIKF;0;N;Atlantic/Reykjavik;ISK;IS
+RKV;Reykjavik;RKV;Autre;Autre;Iceland;Reykjavik Airport;BIRK;0;U;N/A;ISK;IS
+REK;Reykjavik - Metropolitan Area;REK;Autre;Autre;Iceland;Reykjavik - Metropolitan Area Airport;;0;U;N/A;ISK;IS
+AMD;Ahmedabad;AMD;Autre;Autre;India;Ahmedabad;VAAH;5.5;N;Asia/Calcutta;INR;IN
+ATQ;Amritsar;ATQ;Autre;Autre;India;Amritsar;VIAR;5.5;N;Asia/Calcutta;INR;IN
+BBI;Bhubaneswar;BBI;Autre;Autre;India;Bhubaneshwar;VEBS;6;N;Asia/Calcutta;INR;IN
+BDQ;Baroda;BDQ;Autre;Autre;India;Vadodara;VABO;5.5;N;Asia/Calcutta;INR;IN
+BHO;Bhopal;BHO;Autre;Autre;India;Bhopal;VABP;5.5;N;Asia/Calcutta;INR;IN
+BLR;Bangalore;BLR;Autre;Autre;India;Bangalore;VOBL;5.5;N;Asia/Calcutta;INR;IN
+BOM;Bombay;BOM;Autre;Autre;India;Chhatrapati Shivaji Intl;VABB;5.5;N;Asia/Calcutta;INR;IN
+CCJ;Calicut;CCJ;Autre;Autre;India;Calicut;VOCL;5.5;N;Asia/Calcutta;INR;IN
+CCU;Calcutta;CCU;Autre;Autre;India;Netaji Subhash Chandra Bose Intl;VECC;5.5;N;Asia/Calcutta;INR;IN
+CJB;Coimbatore;CJB;Autre;Autre;India;Coimbatore;VOCB;5.5;N;Asia/Calcutta;INR;IN
+COK;Kochi;COK;Autre;Autre;India;Cochin;VOCI;5.5;N;Asia/Calcutta;INR;IN
+DEL;Delhi;DEL;Autre;Autre;India;Indira Gandhi Intl;VIDP;5.5;N;Asia/Calcutta;INR;IN
+GAU;Guwahati;GAU;Autre;Autre;India;Lokpriya Gopinath Bordoloi International Airport;VEGT;5.5;N;Asia/Calcutta;INR;IN
+GOI;Goa;GOI;Autre;Autre;India;Goa;VAGO;5.5;N;Asia/Calcutta;INR;IN
+HYD;Hyderabad;HYD;Autre;Autre;India;Hyderabad;VOHY;5.5;N;Asia/Calcutta;INR;IN
+IDR;Indore;IDR;Autre;Autre;India;Devi Ahilyabai Holkar International Airport;VAID;5.5;N;Asia/Calcutta;INR;IN
+IXC;Chandigarh;IXC;Autre;Autre;India;Chandigarh;VICG;5.5;N;Asia/Calcutta;INR;IN
+IXG;Belgaum;IXG;Autre;Autre;India;Belgaum;VABM;5.5;N;Asia/Calcutta;INR;IN
+IXR;Ranchi;IXR;Autre;Autre;India;Birsa Munda;VERC;5.5;N;Asia/Calcutta;INR;IN
+IXW;Jamshedpur;IXW;Autre;Autre;India;Jamshedpur;VEJS;5.5;N;Asia/Calcutta;INR;IN
+JAI;Jaipur;JAI;Autre;Autre;India;Jaipur;VIJP;5.5;N;Asia/Calcutta;INR;IN
+JLR;Jabalpur;JLR;Autre;Autre;India;Jabalpur;VAJB;5.5;N;Asia/Calcutta;INR;IN
+LKO;Lucknow;LKO;Autre;Autre;India;Lucknow;VILK;5.5;N;Asia/Calcutta;INR;IN
+MAA;Madras;MAA;Autre;Autre;India;Chennai Intl;VOMM;5.5;N;Asia/Calcutta;INR;IN
+NAG;Nagpur;NAG;Autre;Autre;India;Dr Ambedkar Intl;VANP;5.5;N;Asia/Calcutta;INR;IN
+PAT;Patina;PAT;Autre;Autre;India;Patna;VEPT;5.5;N;Asia/Calcutta;INR;IN
+PNQ;Pune;PNQ;Autre;Autre;India;Pune;VAPO;5.5;N;Asia/Calcutta;INR;IN
+RAJ;Rajkot;RAJ;Autre;Autre;India;Rajkot;VARK;5.5;N;Asia/Calcutta;INR;IN
+STV;Surat;STV;Autre;Autre;India;Surat;VASU;5.5;N;Asia/Calcutta;INR;IN
+SXR;Srinagar;SXR;Autre;Autre;India;Srinagar;VISR;5.5;N;Asia/Calcutta;INR;IN
+TRV;Trivandrum;TRV;Autre;Autre;India;Thiruvananthapuram Intl;VOTV;5.5;N;Asia/Calcutta;INR;IN
+TRZ;Tiruchirappalli;TRZ;Autre;Autre;India;Trichy;VOTR;5.5;N;Asia/Calcutta;INR;IN
+VNS;Varanasi;VNS;Autre;Autre;India;Varanasi;VIBN;5.5;N;Asia/Calcutta;INR;IN
+IXB;Bagdogra;IXB;Autre;Autre;India;Bagdogra Airport;;5.5;N;Asia/Calcutta;INR;IN
+QJU;Kanpur;QJU;Autre;Autre;India;Kanpur Airport;;5.5;N;Asia/Calcutta;INR;IN
+QNB;Anand;QNB;Autre;Autre;India;Anand Airport;;5.5;N;Asia/Calcutta;INR;IN
+DJB;Jambi;DJB;Autre;Autre;Indonesia;Sultan Taha Syarifudn Airport;WIPA;7;U;Asia/Jakarta;IDR;ID
+DPS;Denpasar;DPS;Autre;Autre;Indonesia;Bali Ngurah Rai;WADD;8;U;Asia/Makassar;IDR;ID
+CGK;Jakarta;JKT;Autre;Autre;Indonesia;Soekarno Hatta Intl;WIII;7;U;Asia/Jakarta;IDR;ID
+HLP;Jakarta;JKT;Autre;Autre;Indonesia;Halim Perdanakusuma International Airport;WIHH;7;U;Asia/Jakarta;IDR;ID
+LOP;Praya;LOP;Autre;Autre;Indonesia;Lombok International Airport;WADL;8;N/A;Asia/Makassar;IDR;ID
+MDC;Manado;MDC;Autre;Autre;Indonesia;Sam Ratulangi;WAMM;8;U;Asia/Makassar;IDR;ID
+MES;Medan;MES;Autre;Autre;Indonesia;Polonia;WIMM;7;U;Asia/Jakarta;IDR;ID
+PKU;Pekanbaru;PKU;Autre;Autre;Indonesia;Sultan Syarif Kasim II International Airport;WIBB;7;U;Asia/Jakarta;IDR;ID
+SUB;Surabaya;SUB;Autre;Autre;Indonesia;Juanda;WARR;7;U;Asia/Jakarta;IDR;ID
+TOD;Tioman;TOD;Autre;Autre;Indonesia;Pulau Tioman;WMBT;8;U;Asia/Kuala_Lumpur;IDR;ID
+UPG;Ujung Pandang;UPG;Autre;Autre;Indonesia;Hasanuddin;WAAA;8;U;Asia/Makassar;IDR;ID
+JKT;Jakarta - Kemayoran;JKT;Autre;Autre;Indonesia;Jakarta - Kemayoran Airport;;8;U;Asia/Makassar;IDR;ID
+ABD;Abadan;ABD;Autre;Autre;Iran;Abadan;OIAA;4;E;Asia/Tehran;IRR;IR
+IKA; Imam Khomeini;IKA;Autre;Autre;Iran; Imam Khomeini International Airport ;OIIE;3,5;E;Asia/Tehran;IRR;IR
+THR;Teheran;THR;Autre;Autre;Iran;Mehrabad Intl;OIII;4;E;Asia/Tehran;IRR;IR
+BGW;Baghdad;BGW;Autre;Autre;Iraq;Baghdad International Airport;ORBI;3;U;Asia/Baghdad;IRR;IQ
+EBL;Erbil;EBL;Autre;Autre;Iraq;Erbil Airport;ORER;3;U;Asia/Baghdad;IRR;IQ
+NJF;Najaf;NJF;Autre;Autre;Iraq;Najaf Airport;ORNI;3;U;Asia/Baghdad;IRR;IQ
+BSR;Basra, Basrah;BSR;Autre;Autre;Iraq;Basra, Basrah Airport;;3;U;Asia/Baghdad;IRR;IQ
+KIK;Kirkuk;KIK;Autre;Autre;Iraq;Kirkuk Airport;;3;U;Asia/Baghdad;IRR;IQ
+OSM;Mosul;OSM;Autre;Autre;Iraq;Mosul Airport;;3;U;Asia/Baghdad;IRR;IQ
+SDA;Bagdad, Saddam International;SDA;Autre;Autre;Iraq;Bagdad, Saddam International Airport;;3;U;Asia/Baghdad;IRR;IQ
+CFN;Carrickfinn;CFN;Autre;Autre;Ireland;Donegal Airport;EIDL;0;E;Europe/Dublin;EUR;IE
+DUB;Dublin;DUB;Autre;Autre;Ireland;Dublin;EIDW;0;E;Europe/Dublin;EUR;IE
+GWY;Galway;GWY;Autre;Autre;Ireland;Galway;EICM;0;E;Europe/Dublin;EUR;IE
+KIR;Kerry;KIR;Autre;Autre;Ireland;Kerry;EIKY;0;E;Europe/Dublin;EUR;IE
+NOC;Connaught;NOC;Autre;Autre;Ireland;Connaught;EIKN;0;E;Europe/Dublin;EUR;IE
+ORK;Cork;ORK;Autre;Autre;Ireland;Cork;EICK;0;E;Europe/Dublin;EUR;IE
+SNN;Shannon;SNN;Autre;Autre;Ireland;Shannon;EINN;0;E;Europe/Dublin;EUR;IE
+SXL;Sligo;SXL;Autre;Autre;Ireland;Sligo;EISG;0;E;Europe/Dublin;EUR;IE
+ETH;Elat;ETH;Autre;Autre;Israel;Eilat;LLET;2;U;Asia/Jerusalem;ILS;IL
+HFA;Haifa;HFA;Autre;Autre;Israel;Haifa;LLHA;2;U;Asia/Jerusalem;ILS;IL
+TLV;Tel-aviv;TLV;Autre;Autre;Israel;Ben Gurion;LLBG;2;U;Asia/Tel_Aviv;ILS;IL
+VDA;Ovda;VDA;Autre;Autre;Israel;Ovda;LLOV;2;U;Asia/Jerusalem;ILS;IL
+JRS;Jerusalem;JRS;Autre;Autre;Israel;Jerusalem Airport;;2;U;Asia/Jerusalem;ILS;IL
+AHO;Alghero;AHO;Autre;Autre;Italy;Alghero;LIEA;1;E;Europe/Rome;EUR;IT
+AOI;Ancona;AOI;Autre;Autre;Italy;Falconara;LIPY;1;E;Europe/Rome;EUR;IT
+BDS;Brindisi;BDS;Autre;Autre;Italy;Casale;LIBR;1;E;Europe/Rome;EUR;IT
+BGY;Bergamo;BGY;Autre;Autre;Italy;Bergamo Orio Al Serio;LIME;1;E;Europe/Rome;EUR;IT
+BLQ;Bologna;BLQ;Autre;Autre;Italy;Bologna;LIPE;1;E;Europe/Rome;EUR;IT
+BRI;Bari;BRI;Autre;Autre;Italy;Bari;LIBD;1;E;Europe/Rome;EUR;IT
+CAG;Cagliari;CAG;Autre;Autre;Italy;Elmas;LIEE;1;E;Europe/Rome;EUR;IT
+CIY;Comiso;CIY;Autre;Autre;Italy;Vincenzo Magliocco Airport;LICB;1;E;Europe/Rome;EUR;IT
+CTA;Catania;CTA;Autre;Autre;Italy;Catania Fontanarossa;LICC;1;E;Europe/Rome;EUR;IT
+FLR;Firenze;FLR;Autre;Autre;Italy;Firenze;LIRQ;1;E;Europe/Rome;EUR;IT
+GOA;Genoa;GOA;Autre;Autre;Italy;Genova Sestri;LIMJ;1;E;Europe/Rome;EUR;IT
+LIN;Milan;LIN;Autre;Autre;Italy;Linate;LIML;1;E;Europe/Rome;EUR;IT
+LMP;Lampedusa;LMP;Autre;Autre;Italy;Lampedusa;LICD;1;E;Europe/Rome;EUR;IT
+MXP;Milano;MXP;Autre;Autre;Italy;Malpensa;LIMC;1;E;Europe/Rome;EUR;IT
+NAP;Naples;NAP;Autre;Autre;Italy;Capodichino;LIRN;1;E;Europe/Rome;EUR;IT
+OLB;Olbia;OLB;Autre;Autre;Italy;Olbia Costa Smeralda;LIEO;1;E;Europe/Rome;EUR;IT
+PEG;Perugia;PEG;Autre;Autre;Italy;Perugia;LIRZ;1;E;Europe/Rome;EUR;IT
+PMO;Palermo;PMO;Autre;Autre;Italy;Palermo;LICJ;1;E;Europe/Rome;EUR;IT
+PNL;Pantelleria;PNL;Autre;Autre;Italy;Pantelleria;LICG;1;E;Europe/Rome;EUR;IT
+PSA;Pisa;PSA;Autre;Autre;Italy;Pisa;LIRP;1;E;Europe/Rome;EUR;IT
+PSR;Pescara;PSR;Autre;Autre;Italy;Pescara;LIBP;1;E;Europe/Rome;EUR;IT
+REG;Reggio Calabria;REG;Autre;Autre;Italy;Reggio Calabria;LICR;1;E;Europe/Rome;EUR;IT
+RMI;Rimini;RMI;Autre;Autre;Italy;Rimini;LIPR;1;E;Europe/Rome;EUR;IT
+CIA;Rome;ROM;Autre;Autre;Italy;Ciampino;LIRA;1;E;Europe/Rome;EUR;IT
+FCO;Rome;ROM;Autre;Autre;Italy;Fiumicino;LIRF;1;E;Europe/Rome;EUR;IT
+SUF;Lamezia;SUF;Autre;Autre;Italy;Lamezia Terme;LICA;1;E;Europe/Rome;EUR;IT
+TPS;Trapani;TPS;Autre;Autre;Italy;Trapani Birgi;LICT;1;E;Europe/Rome;EUR;IT
+TRN;Torino;TRN;Autre;Autre;Italy;Torino;LIMF;1;E;Europe/Rome;EUR;IT
+TRS;Ronchi De Legionari;TRS;Autre;Autre;Italy;Ronchi Dei Legionari;LIPQ;1;E;Europe/Rome;EUR;IT
+TSF;Treviso;TSF;Autre;Autre;Italy;Treviso;LIPH;1;E;Europe/Rome;EUR;IT
+VCE;Venice;VCE;Autre;Autre;Italy;Venezia Tessera;LIPZ;1;E;Europe/Rome;EUR;IT
+VRN;Villafranca;VRN;Autre;Autre;Italy;Villafranca;LIPX;1;E;Europe/Rome;EUR;IT
+MIL;Milan;MIL;Autre;Autre;Italy;Milan Airport;;1;E;Europe/Rome;EUR;IT
+ROM;Rome;ROM;Autre;Autre;Italy;Rome Airport;;1;E;Europe/Rome;EUR;IT
+VBS;Brescia, Montichiari;VBS;Autre;Autre;Italy;Brescia, Montichiari Airport;;1;E;Europe/Rome;EUR;IT
+ABJ;Abidjan;ABJ;Autre;Autre;Ivory Coast;Abidjan Felix Houphouet Boigny Intl;DIAP;0;N;Africa/Abidjan;XOF;CI
+ASK;Yamoussoukro;ASK;Autre;Autre;Ivory Coast;Yamoussoukro;DIYO;0;N;Africa/Abidjan;XOF;CI
+BYK;Bouake;BYK;Autre;Autre;Ivory Coast;Bouake;DIBK;0;N;Africa/Abidjan;XOF;CI
+DJO;Daloa;DJO;Autre;Autre;Ivory Coast;Daloa;DIDL;0;N;Africa/Abidjan;XOF;CI
+HGO;Korhogo;HGO;Autre;Autre;Ivory Coast;Korhogo;DIKO;0;N;Africa/Abidjan;XOF;CI
+MJC;Man;MJC;Autre;Autre;Ivory Coast;Man;DIMN;0;N;Africa/Abidjan;XOF;CI
+SPY;San Pedro;SPY;Autre;Autre;Ivory Coast;San Pedro;DISP;0;N;Africa/Abidjan;XOF;CI
+XMB;M'Bahiakro;XMB;Autre;Autre;Ivory Coast;M'Bahiakro Airport;N/A;0;N;Africa/Abidjan;XOF;CI
+ZSS;Sassandra;ZSS;Autre;Autre;Ivory Coast;Sassandra Airport;;0;N;Africa/Abidjan;XOF;CI
+KIN;Kingston;KIN;Autre;Autre;Jamaica;Norman Manley Intl;MKJP;-5;U;America/Jamaica;JMD;JM
+MBJ;Montego Bay;MBJ;Autre;Autre;Jamaica;Sangster Intl;MKJS;-5;U;America/Jamaica;JMD;JM
+ASJ;Amami;ASJ;Autre;Autre;Japan;Amami;RJKA;9;U;Asia/Tokyo;JPY;JP
+FUK;Fukuoka;FUK;Autre;Autre;Japan;Fukuoka;RJFF;9;U;Asia/Tokyo;JPY;JP
+HAC;Hachijojima;HAC;Autre;Autre;Japan;Hachijojima;RJTH;9;U;Asia/Tokyo;JPY;JP
+HKD;Hakodate;HKD;Autre;Autre;Japan;Hakodate;RJCH;9;U;Asia/Tokyo;JPY;JP
+ISG;Ishigaki;ISG;Autre;Autre;Japan;Ishigaki Airport;ROIG;9;N;Asia/Tokyo;JPY;JP
+ITM;Osaka;ITM;Autre;Autre;Japan;Osaka International Airport;RJOO;9;U;Asia/Tokyo;JPY;JP
+KCZ;Kochi;KCZ;Autre;Autre;Japan;Kochi;RJOK;9;U;Asia/Tokyo;JPY;JP
+KIJ;Niigata;KIJ;Autre;Autre;Japan;Niigata;RJSN;9;U;Asia/Tokyo;JPY;JP
+KMJ;Kumamoto;KMJ;Autre;Autre;Japan;Kumamoto;RJFT;9;U;Asia/Tokyo;JPY;JP
+KOJ;Kagoshima;KOJ;Autre;Autre;Japan;Kagoshima;RJFK;9;U;Asia/Tokyo;JPY;JP
+MMY;Miyako;MMY;Autre;Autre;Japan;Miyako;ROMY;9;U;Asia/Tokyo;JPY;JP
+MYJ;Matsuyama;MYJ;Autre;Autre;Japan;Matsuyama;RJOM;9;U;Asia/Tokyo;JPY;JP
+NGO;Nagoya;NGO;Autre;Autre;Japan;Chubu Centrair Intl;RJGG;9;U;Asia/Tokyo;JPY;JP
+NGS;Nagasaki;NGS;Autre;Autre;Japan;Nagasaki;RJFU;9;U;Asia/Tokyo;JPY;JP
+OIT;Oita;OIT;Autre;Autre;Japan;Oita;RJFO;9;U;Asia/Tokyo;JPY;JP
+OKA;Okinawa;OKA;Autre;Autre;Japan;Naha;ROAH;9;N;Asia/Tokyo;JPY;JP
+KIX;Osaka;OSA;Autre;Autre;Japan;Kansai;RJBB;9;U;Asia/Tokyo;JPY;JP
+SDJ;Sendai;SDJ;Autre;Autre;Japan;Sendai;RJSS;9;U;Asia/Tokyo;JPY;JP
+CTS;Sapporo;SPK;Autre;Autre;Japan;New Chitose;RJCC;9;U;Asia/Tokyo;JPY;JP
+SPK;Chitose;SPK;Autre;Autre;Japan;Chitose;RJCJ;9;U;Asia/Tokyo;JPY;JP
+TAK;Takamatsu;TAK;Autre;Autre;Japan;Takamatsu;RJOT;9;U;Asia/Tokyo;JPY;JP
+TKS;Tokushima;TKS;Autre;Autre;Japan;Tokushima;RJOS;9;U;Asia/Tokyo;JPY;JP
+HND;Tokyo;TYO;Autre;Autre;Japan;Tokyo Intl;RJTT;9;U;Asia/Tokyo;JPY;JP
+NRT;Tokyo;TYO;Autre;Autre;Japan;Narita Intl;RJAA;9;U;Asia/Tokyo;JPY;JP
+UKB;Kobe;UKB;Autre;Autre;Japan;Kobe;RJBE;9;U;Asia/Tokyo;JPY;JP
+UKY;Kyoto;UKY;Autre;Autre;Japan;Kyoto;N/A;9;N;Asia/Tokyo;JPY;JP
+AOJ;Aomori;AOJ;Autre;Autre;Japan;Aomori Airport;;9;U;Asia/Tokyo;JPY;JP
+AXT;Akita;AXT;Autre;Autre;Japan;Akita Airport;;9;U;Asia/Tokyo;JPY;JP
+FKS;Fukushima-shi, Fukushima Airport;FKS;Autre;Autre;Japan;Fukushima-shi, Fukushima Airport Airport;;9;U;Asia/Tokyo;JPY;JP
+GAJ;Yamagata, Junmachi;GAJ;Autre;Autre;Japan;Yamagata, Junmachi Airport;;9;U;Asia/Tokyo;JPY;JP
+HIJ;Hiroshima International;HIJ;Autre;Autre;Japan;Hiroshima International Airport;;9;U;Asia/Tokyo;JPY;JP
+HNA;Morioka, Hanamaki;HNA;Autre;Autre;Japan;Morioka, Hanamaki Airport;;9;U;Asia/Tokyo;JPY;JP
+KMI;Miyazaki;KMI;Autre;Autre;Japan;Miyazaki Airport;;9;U;Asia/Tokyo;JPY;JP
+KMQ;Komatsu;KMQ;Autre;Autre;Japan;Komatsu Airport;;9;U;Asia/Tokyo;JPY;JP
+KUH;Kushiro;KUH;Autre;Autre;Japan;Kushiro Airport;;9;U;Asia/Tokyo;JPY;JP
+LSG;Ishigaki;LSG;Autre;Autre;Japan;Ishigaki Airport;;9;U;Asia/Tokyo;JPY;JP
+MMJ;Matsumoto, Nagano;MMJ;Autre;Autre;Japan;Matsumoto, Nagano Airport;;9;U;Asia/Tokyo;JPY;JP
+OKD;Sapporo - Okadama;OKD;Autre;Autre;Japan;Sapporo - Okadama Airport;;9;U;Asia/Tokyo;JPY;JP
+OKJ;Okayama;OKJ;Autre;Autre;Japan;Okayama Airport;;9;U;Asia/Tokyo;JPY;JP
+OSA;Osaka, Metropolitan Area;OSA;Autre;Autre;Japan;Osaka, Metropolitan Area Airport;;9;U;Asia/Tokyo;JPY;JP
+QCB;Chiba City;QCB;Autre;Autre;Japan;Chiba City Airport;;9;U;Asia/Tokyo;JPY;JP
+SDS;Sado Shima;SDS;Autre;Autre;Japan;Sado Shima Airport;;9;U;Asia/Tokyo;JPY;JP
+TOY;Toyama;TOY;Autre;Autre;Japan;Toyama Airport;;9;U;Asia/Tokyo;JPY;JP
+TYO;Tokyo;TYO;Autre;Autre;Japan;Tokyo Airport;;9;U;Asia/Tokyo;JPY;JP
+YOK;Yokohama;YOK;Autre;Autre;Japan;Yokohama Airport;;9;U;Asia/Tokyo;JPY;JP
+AMM;Amman;AMM;Autre;Autre;Jordan;Queen Alia Intl;OJAI;2;E;Asia/Amman;JOD;JO
+AQJ;Aqaba;AQJ;Autre;Autre;Jordan;Aqaba King Hussein Intl;OJAQ;2;E;Asia/Amman;JOD;JO
+ADJ;Amman, Civil - Marka Airport;ADJ;Autre;Autre;Jordan;Amman, Civil - Marka Airport Airport;;2;E;Asia/Amman;JOD;JO
+ADX;Leuchars;ADX;Autre;Autre;Kasachstan;Leuchars;EGQL;0;E;Europe/London;KZT;KZ
+ALA;Alma-ata;ALA;Autre;Autre;Kasachstan;Almaty;UAAA;6;U;Asia/Qyzylorda;KZT;KZ
+KGF;Waraghandy;KGF;Autre;Autre;Kazakhstan;Karagandy International Airport;N/A;N/A;N/A;N/A;N/A;KZ
+KSN;Kustanay;KSN;Autre;Autre;Kazakhstan;Kustanay airport;N/A;N/A;N/A;N/A;N/A;KZ
+SCO;Aqtan;SCO;Autre;Autre;Kazakhstan;Aktau International Airport;N/A;N/A;N/A;N/A;N/A;KZ
+MBA;Mombasa;MBA;Autre;Autre;Kenya;Mombasa Moi Intl;HKMO;3;U;Africa/Nairobi;KES;KE
+MYD;Malindi;MYD;Autre;Autre;Kenya;Malindi Airport;HKML;3;U;Africa/Nairobi;KES;KE
+NBO;Nairobi;NBO;Autre;Autre;Kenya;Jomo Kenyatta International;HKJK;3;N;Africa/Nairobi;KES;KE
+KNS;King Island;KNS;Autre;Autre;King Island;King Island Airport;;;;Australia/Melbourne;AUD;AU
+TRW;Tarawa;TRW;Autre;Autre;Kiribati;Bonriki Airport;NGTA;12;U;Pacific/Tarawa;AUD;KI
+KWI;Kuwait;KWI;Autre;Autre;Kuwait;Kuwait Intl;OKBK;3;U;Asia/Kuwait;KWD;KW
+FRU;Bishkek;FRU;Autre;Autre;Kyrgyzstan;Bishkek Airport;UAFM;6;N/A;Asia/Bishkek;KGS;KG
+VTE;Vientiane;VTE;Autre;Autre;Laos;Wattay Intl;VLVT;7;U;Asia/Vientiane;LAK;LA
+PLQ;Palanga;PLQ;Autre;Autre;Latvia;Palanga International Airport;EYPA;2;E;Europe/Vilnius;EUR;LV
+RIX;Riga;RIX;Autre;Autre;Latvia;Riga Intl;EVRA;2;E;Europe/Riga;EUR;LV
+BEY;Beirut;BEY;Autre;Autre;Lebanon;Rafic Hariri Intl;OLBA;2;E;Asia/Beirut;LBP;LB
+GJN;Jounieh;GJN;Autre;Autre;Lebanon;Jounieh Airport;;2;E;Asia/Beirut;LBP;LB
+MSU;Maseru;MSU;Autre;Autre;Lesotho;Moshoeshoe I Intl;FXMM;2;U;Africa/Maseru;LSL;LS
+MLW;Monrovia;MLW;Autre;Autre;Liberia;Monrovia Spriggs Payne;GLMR;0;N;Africa/Monrovia;LRD;LR
+ROB;Monrovia;ROB;Autre;Autre;Liberia;Roberts International Airport;GLRB;0;N;Africa/Monrovia;LRD;LR
+MJI;Milaga;MJI;Autre;Autre;Libya;Mitiga International Airport;HLLM;1;N;Africa/Tripoli;LYD;LY
+BEN;Benghazi;BEN;Autre;Autre;Libya;Benina;HLLB;1;N;Africa/Tripoli;LYD;LY
+SEB;Sebha;SEB;Autre;Autre;Libya;Sebha;HLLS;1;N;Africa/Tripoli;LYD;LY
+TIP;Tripoli;TIP;Autre;Autre;Libya;Tripoli Intl;HLLT;1;N;Africa/Tripoli;LYD;LY
+KUN;Kaunas;KUN;Autre;Autre;Lithuania;Kaunas Airport;EYKA;2;E;Europe/Vilnius;EUR;LT
+VNO;Vilnius;VNO;Autre;Autre;Lithuania;Vilnius Intl;EYVI;2;E;Europe/Vilnius;EUR;LT
+LIF;Lifou;LIF;Autre;Autre;Loyaute, Pazifik;Lifou;NWWL;11;U;Pacific/Noumea;EUR;N/A
+LUX;Luxemburg;LUX;Autre;Autre;Luxemburg;Luxembourg;ELLX;1;E;Europe/Luxembourg;EUR;LU
+OHD;Ohrid;OHD;Autre;Autre;Macedonia;Ohrid;LWOH;1;E;Europe/Skopje;MKD;N/A
+SKP;Skopje;SKP;Autre;Autre;Macedonia;Skopje;LWSK;1;E;Europe/Skopje;MKD;N/A
+ANM; Antalaha;ANM;Autre;Autre;Madagascar; Antsirabato ;FMNH;3;U;Indian/Antananarivo;MGA;MG
+DIE;Antsiranana;DIE;Autre;Autre;Madagascar;Antsiranana/Arrachart Airport;FMNA;3;U;Indian/Antananarivo;MGA;MG
+FTU;FortDauphin;FTU;Autre;Autre;Madagascar;Marillac Airport;FMSD;3;U;Indian/Antananarivo;MGA;MG
+MJN;Mahajanga;MJN;Autre;Autre;Madagascar;Philibert Tsiranana;FMNM;3;U;Indian/Antananarivo;MGA;MG
+MOQ;Morondava;MOQ;Autre;Autre;Madagascar;Morondava Airport;FMMV;3;U;Indian/Antananarivo;MGA;MG
+NOS;Nossi-be;NOS;Autre;Autre;Madagascar;Fascene Airport;FMNN;3;U;Indian/Antananarivo;MGA;MG
+RLR;Isalo;RLR;Autre;Autre;Madagascar;Relais de la reine airport;N/A;N/A;N/A;Indian/Antananarivo;MGA;MG
+SMS;SainteMarie;SMS;Autre;Autre;Madagascar;Sainte Marie Airport;FMMS;3;U;Indian/Antananarivo;MGA;MG
+SVB;Sambava;SVB;Autre;Autre;Madagascar;Sambava Airport;FMNS;3;U;Indian/Antananarivo;MGA;MG
+TLE;Tulear;TLE;Autre;Autre;Madagascar;Tulear Airport;FMST;3;U;Indian/Antananarivo;MGA;MG
+TMM;Tamatave;TMM;Autre;Autre;Madagascar;Tamatave Airport;FMMT;3;U;Indian/Antananarivo;MGA;MG
+TNR;Antananarivo;TNR;Autre;Autre;Madagascar;Ivato;FMMI;3;U;Indian/Antananarivo;MGA;MG
+WMN;Maroantsetra;WMN;Autre;Autre;Madagascar;Maroantsetra Airport;FMNR;3;U;Indian/Antananarivo;MGA;MG
+BLZ;Blantyre;BLZ;Autre;Autre;Malawi;Chileka Intl;FWCL;2;U;Africa/Blantyre;MWK;MW
+LLW;Lilongwe;LLW;Autre;Autre;Malawi;Kamuzu Intl;FWKI;2;U;Africa/Blantyre;MWK;MW
+BKI;Kota Kinabalu;BKI;Autre;Autre;Malaysia;Kota Kinabalu Intl;WBKK;8;U;Asia/Kuala_Lumpur;MYR;MY
+BTU;Bintulu;BTU;Autre;Autre;Malaysia;Bintulu;WBGB;8;U;Asia/Kuala_Lumpur;MYR;MY
+JHB;Johor Bahru;JHB;Autre;Autre;Malaysia;Sultan Ismail;WMKJ;8;U;Asia/Kuala_Lumpur;MYR;MY
+KCH;Kuching;KCH;Autre;Autre;Malaysia;Kuching Intl;WBGG;8;U;Asia/Kuala_Lumpur;MYR;MY
+KUA;Kuantan;KUA;Autre;Autre;Malaysia;Kuantan;WMKD;8;U;Asia/Kuala_Lumpur;MYR;MY
+KUL;Kuala Lumpur;KUL;Autre;Autre;Malaysia;Kuala Lumpur Intl;WMKK;8;U;Asia/Kuala_Lumpur;MYR;MY
+SZB;Kuala Lumpur;KUL;Autre;Autre;Malaysia;Sultan Abdul Aziz Shah Intl;WMSA;8;U;Asia/Kuala_Lumpur;MYR;MY
+LBU;Labuan;LBU;Autre;Autre;Malaysia;Labuan;WBKL;8;U;Asia/Kuala_Lumpur;MYR;MY
+LGK;Pulau;LGK;Autre;Autre;Malaysia;Langkawi Intl;WMKL;8;U;Asia/Kuala_Lumpur;MYR;MY
+MYY;Miri;MYY;Autre;Autre;Malaysia;Miri;WBGR;8;U;Asia/Kuala_Lumpur;MYR;MY
+PEN;Penang;PEN;Autre;Autre;Malaysia;Penang Intl;WMKP;8;U;Asia/Kuala_Lumpur;MYR;MY
+SBW;Sibu;SBW;Autre;Autre;Malaysia;Sibu;WBGS;8;U;Asia/Kuala_Lumpur;MYR;MY
+TWU;Tawau;TWU;Autre;Autre;Malaysia;Tawau;WBKW;8;U;Asia/Kuala_Lumpur;MYR;MY
+MLE;Male;MLE;Autre;Autre;Maledives;Male Intl;VRMM;5;U;Indian/Maldives;MVR;MV
+BKO;Bamako;BKO;Autre;Autre;Mali;Senou;GABS;0;N;Africa/Bamako;XOF;ML
+KYS;Kayes;KYS;Autre;Autre;Mali;Kayes Airport;GAKY;0;N;Africa/Bamako;XOF;ML
+MLA;Malta;MLA;Autre;Autre;Malta;Luqa;LMML;1;E;Europe/Malta;EUR;MT
+NDB;Nouadhibou;NDB;Autre;Autre;Mauritania;Nouadhibou;GQPP;0;N;Africa/Nouakchott;MRO;MR
+NKC;Nouakschott;NKC;Autre;Autre;Mauritania;Nouakchott;GQNN;0;N;Africa/Nouakchott;MRO;MR
+OUZ;Zouerate;OUZ;Autre;Autre;Mauritania;Zouerate Airport;GQPZ;0;N;Africa/Nouakchott;MRO;MR
+MRU;Plaisance;MRU;Autre;Autre;Mauritius;Sir Seewoosagur Ramgoolam Intl;FIMP;4;S;Indian/Mauritius;MUR;MU
+RRG;Rodriguez Island;RRG;Autre;Autre;Mauritius;Plaine Corail;FIMR;4;S;Indian/Mauritius;MUR;MU
+ACA;Acapulco;ACA;Autre;Autre;Mexico;General Juan N Alvarez Intl;MMAA;-6;S;America/Mexico_City;MXN;MX
+AGU;Aguascalientes;AGU;Autre;Autre;Mexico;Jesus Teran Intl;MMAS;-6;S;America/Mexico_City;MXN;MX
+BJX;Del Bajio;BJX;Autre;Autre;Mexico;Guanajuato Intl;MMLO;-6;S;America/Mexico_City;MXN;MX
+CEN;Ciudad Obregon;CEN;Autre;Autre;Mexico;Ciudad Obregon Intl;MMCN;-7;S;America/Hermosillo;MXN;MX
+CJS;Ciudad Juarez;CJS;Autre;Autre;Mexico;Abraham Gonzalez Intl;MMCS;-6;S;America/Mazatlan;MXN;MX
+CLQ;Colima;CLQ;Autre;Autre;Mexico;Colima;MMIA;-6;S;America/Mexico_City;MXN;MX
+CME;Ciudad Del Carmen;CME;Autre;Autre;Mexico;Ciudad Del Carmen Intl;MMCE;-6;S;America/Mexico_City;MXN;MX
+CUL;Culiacan;CUL;Autre;Autre;Mexico;Culiacan Intl;MMCL;-7;S;America/Mazatlan;MXN;MX
+CUN;Cancun;CUN;Autre;Autre;Mexico;Cancun Intl;MMUN;-6;S;America/Mexico_City;MXN;MX
+CVM;Ciudad Victoria;CVM;Autre;Autre;Mexico;General Pedro Jose Mendez Intl;MMCV;-6;S;America/Mexico_City;MXN;MX
+CZM;Cozumel;CZM;Autre;Autre;Mexico;Cozumel Intl;MMCZ;-6;S;America/Mexico_City;MXN;MX
+DGO;Durango;DGO;Autre;Autre;Mexico;Guadalupe Victoria Airport;MMDO;-6;S;America/Mexico_City;MXN;MX
+GDL;Guadalajara;GDL;Autre;Autre;Mexico;Don Miguel Hidalgo Y Costilla Intl;MMGL;-6;S;America/Mexico_City;MXN;MX
+HMO;Hermosillo;HMO;Autre;Autre;Mexico;General Ignacio P Garcia Intl;MMHO;-7;S;America/Hermosillo;MXN;MX
+HUX;Bahias Dehuatulco;HUX;Autre;Autre;Mexico;Bahias De Huatulco Intl;MMBT;-6;S;America/Mexico_City;MXN;MX
+LAP;La Paz;LAP;Autre;Autre;Mexico;General Manuel Marquez De Leon Intl;MMLP;-7;S;America/Mazatlan;MXN;MX
+LMM;Los Mochis;LMM;Autre;Autre;Mexico;Valle Del Fuerte Intl;MMLM;-7;S;America/Mazatlan;MXN;MX
+LTO;Loreto;LTO;Autre;Autre;Mexico;Loreto Intl;MMLT;-7;S;America/Mazatlan;MXN;MX
+LZC;Lazard Cardenas;LZC;Autre;Autre;Mexico;Lazaro Cardenas;MMLC;-6;S;America/Mexico_City;MXN;MX
+MEX;Mexico City;MEX;Autre;Autre;Mexico;Licenciado Benito Juarez Intl;MMMX;-6;S;America/Mexico_City;MXN;MX
+MID;Merida;MID;Autre;Autre;Mexico;Licenciado Manuel Crescencio Rejon Int;MMMD;-6;S;America/Mexico_City;MXN;MX
+MLM;Morelia;MLM;Autre;Autre;Mexico;General Francisco J Mujica Intl;MMMM;-6;S;America/Mexico_City;MXN;MX
+MTT;Minatitlan;MTT;Autre;Autre;Mexico;Minatitlan;MMMT;-6;S;America/Mexico_City;MXN;MX
+MTY;Monterrey;MTY;Autre;Autre;Mexico;General Mariano Escobedo Intl;MMMY;-6;S;America/Mexico_City;MXN;MX
+NTR;Monterrey;MTY;Autre;Autre;Mexico;Del Norte Intl;MMAN;-6;S;America/Mexico_City;MXN;MX
+MXL;Mexicali;MXL;Autre;Autre;Mexico;General Rodolfo Sanchez Taboada Intl;MMML;-8;S;America/Tijuana;MXN;MX
+MZT;Mazatlan;MZT;Autre;Autre;Mexico;General Rafael Buelna Intl;MMMZ;-7;S;America/Mazatlan;MXN;MX
+NLD;Nuevo Laredo;NLD;Autre;Autre;Mexico;Quetzalcoatl Intl;MMNL;-6;S;America/Mexico_City;MXN;MX
+OAX;Oaxaca;OAX;Autre;Autre;Mexico;Xoxocotlan Intl;MMOX;-6;S;America/Mexico_City;MXN;MX
+PBC;Puebla;PBC;Autre;Autre;Mexico;Hermanos Serdan Intl;MMPB;-6;S;America/Mexico_City;MXN;MX
+PVR;Puerto Vallarta;PVR;Autre;Autre;Mexico;Licenciado Gustavo Diaz Ordaz Intl;MMPR;-6;S;America/Mexico_City;MXN;MX
+PXM;Puerto Escondido;PXM;Autre;Autre;Mexico;Puerto Escondido Intl;MMPS;-6;S;America/Mexico_City;MXN;MX
+QRO;Queretaro;QRO;Autre;Autre;Mexico;Queretaro Airport;MMQT;-6;S;America/Mexico_City;MXN;MX
+SJD;San Jose Del Cabo;SJD;Autre;Autre;Mexico;Los Cabos Intl;MMSD;-7;S;America/Mazatlan;MXN;MX
+SLP;San Luis Potosi;SLP;Autre;Autre;Mexico;Ponciano Arriaga Intl;MMSP;-6;S;America/Mexico_City;MXN;MX
+TAM;Tampico;TAM;Autre;Autre;Mexico;General Francisco Javier Mina Intl;MMTM;-6;S;America/Mexico_City;MXN;MX
+TGZ;Tuxtla Gutierrez;TGZ;Autre;Autre;Mexico;Angel Albino Corzo;MMTG;-6;S;America/Mexico_City;MXN;MX
+TIJ;Tijuana;TIJ;Autre;Autre;Mexico;General Abelardo L Rodriguez Intl;MMTJ;-8;S;America/Tijuana;MXN;MX
+VER;Vera Cruz;VER;Autre;Autre;Mexico;General Heriberto Jara Intl;MMVR;-6;S;America/Mexico_City;MXN;MX
+VSA;Villahermosa;VSA;Autre;Autre;Mexico;C P A Carlos Rovirosa Intl;MMVA;-6;S;America/Mexico_City;MXN;MX
+ZCL;Zacatecas;ZCL;Autre;Autre;Mexico;General Leobardo C Ruiz Intl;MMZC;-6;S;America/Mexico_City;MXN;MX
+ZIH;Zihuatanejo;ZIH;Autre;Autre;Mexico;Ixtapa Zihuatanejo Intl;MMZH;-6;S;America/Mexico_City;MXN;MX
+ZLO;Manzanillo;ZLO;Autre;Autre;Mexico;Playa De Oro Intl;MMZO;-6;S;America/Mexico_City;MXN;MX
+CUU;Chihuahua, Gen Fierro Villalobos;CUU;Autre;Autre;Mexico;Chihuahua, Gen Fierro Villalobos Airport;;-6;S;America/Mexico_City;MXN;MX
+CZA;Chichen Itza;CZA;Autre;Autre;Mexico;Chichen Itza Airport;;-6;S;America/Mexico_City;MXN;MX
+SRL;Santa Rosalia;SRL;Autre;Autre;Mexico;Santa Rosalia Airport;;-6;S;America/Mexico_City;MXN;MX
+PNI;Pohnpei;PNI;Autre;Autre;Micronesia;Pohnpei Airport;;;;Pacific/Ponape;USD;FM
+KIV;Chisinau;KIV;Autre;Autre;Moldova;Chisinau International Airport;N/A;N/A;N/A;N/A;MDA;MD
+ULN;Ulan Bator;ULN;Autre;Autre;Mongolia;Chinggis Khaan Intl;ZMUB;8;U;Asia/Ulaanbaatar;MNT;MN
+AGA;Agadir;AGA;Autre;Autre;Morocco;Inezgane;GMAA;0;N;Africa/Casablanca;MAD;MA
+AHU;Al Hociema;AHU;Autre;Autre;Morocco;Cherif El Idrissi;GMTA;0;N;Africa/Casablanca;MAD;MA
+CAS;Casablanca;CAS;Autre;Autre;Morocco;Aéroport de Anfa;GMMC;0;N;Africa/Casablanca;MAD;MA
+CMN;Casablanca;CAS;Autre;Autre;Morocco;Mohammed V Intl;GMMN;0;N;Africa/Casablanca;MAD;MA
+ERH;Errachidia;ERH;Autre;Autre;Morocco;Errachidia-Moulay Ali Chérif;GMFK;0;N;Africa/Casablanca;MAD;MA
+ESU;Essaouira Mogador;ESU;Autre;Autre;Morocco;Essaouira Mogador airport;N/A;N/A;N/A;N/A;N/A;MA
+FEZ;Fez;FEZ;Autre;Autre;Morocco;Saiss;GMFF;0;N;Africa/Casablanca;MAD;MA
+NDR;Nador-Al Aroui;NDR;Autre;Autre;Morocco;Nador-Al Aroui airport;N/A;N/A;N/A;N/A;N/A;MA
+OUD;Oujda;OUD;Autre;Autre;Morocco;Angads;GMFO;1;N;Africa/Casablanca;MAD;MA
+OZZ;Ouarzazate;OZZ;Autre;Autre;Morocco;Ouarzazate;GMMZ;0;N;Africa/Casablanca;MAD;MA
+RAK;Marrakech;RAK;Autre;Autre;Morocco;Menara;GMMX;0;N;Africa/Casablanca;MAD;MA
+RBA;Rabat;RBA;Autre;Autre;Morocco;Sale;GMME;0;N;Africa/Casablanca;MAD;MA
+TNG;Tanger;TNG;Autre;Autre;Morocco;Ibn Batouta;GMTT;0;N;Africa/Casablanca;MAD;MA
+VIL;Dakhla;VIL;Autre;Autre;Morocco;Dakhla Airport;GMMH;0;N;Africa/El_Aaiun;MAD;MA
+APL; Nampula;APL;Autre;Autre;Mozambique; Nampula ;FQNP;2;U;Africa/Maputo;MZN;MZ
+BEW;Beira;BEW;Autre;Autre;Mozambique;Beira;FQBR;2;U;Africa/Maputo;MZN;MZ
+MPM;Maputo;MPM;Autre;Autre;Mozambique;Maputo;FQMA;2;U;Africa/Maputo;MZN;MZ
+RGN;Yangon;RGN;Autre;Autre;Myanmar ( Burma );Yangon Intl;VYYY;6.5;U;Asia/Rangoon;NMK;MM
+RNY;N/A;RNY;Autre;Autre;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+RYT;N/A;RYT;Autre;Autre;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+XZZ;N/A;XZZ;Autre;Autre;N/A;N/A;N/A;N/A;N/A;N/A;N/A;VE
+LUD;Luderitz;LUD;Autre;Autre;Namibia;Luderitz Airport;FYLZ;1;S;Africa/Windhoek;NAD;NA
+MPA;Mpacha;MPA;Autre;Autre;Namibia;Katima Mulilo Airport;FYKM;1;S;Africa/Windhoek;NAD;NA
+NDU;Rundu;NDU;Autre;Autre;Namibia;Rundu;FYRU;1;S;Africa/Windhoek;NAD;NA
+OKU;Mokuti Lodge;OKU;Autre;Autre;Namibia;Mokuti Lodge Airport;FYMO;1;S;Africa/Windhoek;NAD;NA
+OMD;Oranjemund;OMD;Autre;Autre;Namibia;Oranjemund Airport;FYOG;1;S;Africa/Windhoek;NAD;NA
+OND;Ondangwa;OND;Autre;Autre;Namibia;Ondangwa Airport;FYOA;1;S;Africa/Windhoek;NAD;NA
+SWP;Swakopmund;SWP;Autre;Autre;Namibia;Swakopmund Airport;FYSM;1;S;Africa/Windhoek;NAD;NA
+TSB;Tsumeb;TSB;Autre;Autre;Namibia;Tsumeb Airport;FYTM;1;U;Africa/Windhoek;NAD;NA
+ERS;Windhoek;WDH;Autre;Autre;Namibia;Eros Airport;FYWE;1;S;Africa/Windhoek;NAD;NA
+WDH;Windhoek;WDH;Autre;Autre;Namibia;Windhoek Hosea Kutako International Airport ;FYWV;1;S;Africa/Windhoek;NAD;NA
+KMP;Keetmanshoop;KMP;Autre;Autre;Namibia;Keetmanshoop Airport;;1;S;Africa/Windhoek;NAD;NA
+KTM;Kathmandu;KTM;Autre;Autre;Nepal;Tribhuvan Intl;VNKT;5.75;N;Asia/Katmandu;NPR;NP
+AMS;Amsterdam;AMS;Autre;Autre;Netherlands;Schiphol;EHAM;1;E;Europe/Amsterdam;EUR;NL
+EIN;Eindhoven;EIN;Autre;Autre;Netherlands;Eindhoven;EHEH;1;E;Europe/Amsterdam;EUR;NL
+MST;Maastricht;MST;Autre;Autre;Netherlands;Maastricht;EHBK;1;E;Europe/Amsterdam;EUR;NL
+RTM;Rotterdam;RTM;Autre;Autre;Netherlands;Rotterdam;EHRD;1;E;Europe/Amsterdam;EUR;NL
+ZYA;Amsterdam;ZYA;Autre;Autre;Netherlands;Amsterdam Central Station;N/A;1;E;Europe/Amsterdam;EUR;NL
+HAG;Den Haag (The Hague);HAG;Autre;Autre;Netherlands;Den Haag (The Hague) Airport;;1;E;Europe/Amsterdam;EUR;NL
+LEY;Lelystad;LEY;Autre;Autre;Netherlands;Lelystad Airport;;1;E;Europe/Amsterdam;EUR;NL
+GLZ;Breda;GLZ;Autre;Autre;Netherlands;Breda Airport;;1;E;Europe/Amsterdam;EUR;NL
+ZYO;Roosendal;ZYO;Autre;Autre;Netherlands;Roosendal station;N/A;1;E;Europe/Amsterdam;EUR;NL
+BON;Kralendijk;BON;Autre;Autre;Netherlands Antilles;Flamingo;TNCB;-4;U;America/Curacao;ANG;N/A
+CUR;Willemstad;CUR;Autre;Autre;Netherlands Antilles;Hato;TNCC;-4;U;America/Curacao;ANG;N/A
+SXM;Philipsburg;SXM;Autre;Autre;Netherlands Antilles;Princess Juliana Intl;TNCM;-4;U;America/Curacao;ANG;N/A
+EUX;SaintEustatius;EUX;Autre;Autre;Netherlands Antilles ;F D Roosevelt Airport;TNCE;-4;N/A;America/Curacao;ANG;N/A
+SAB;Saba;SAB;Autre;Autre;Netherlands Antilles ;J. Yrausquin Airport;TNCS;-4;N/A;America/Curacao;ANG;N/A
+UVE;Ouvea;UVE;Autre;Autre;New Caledonia;Ouvea;NWWV;11;U;Pacific/Noumea;XAF;GA
+MEE;Mare;MEE;Autre;Autre;New Caledonia;Mare;NWWR;11;U;Pacific/Noumea;XPF;NC
+NOU;Noumea;NOU;Autre;Autre;New Caledonia;La Tontouta;NWWW;11;U;Pacific/Noumea;XPF;NC
+TOU;Touho;TOU;Autre;Autre;New Caledonia;Touho;NWWU;11;U;Pacific/Noumea;XPF;NC
+ILP;Ile des Pins;ILP;Autre;Autre;New Caledonia;Ile des Pins Airport;NWWE;11;U;Pacific/Noumea;XPF;NC
+IOU;Ile Ouen;IOU;Autre;Autre;New Caledonia;Ile Ouen Airport;NWWO;11;U;Pacific/Noumea;XPF;NC
+AKL;Auckland;AKL;Autre;Autre;New Zealand;Auckland Intl;NZAA;12;Z;Pacific/Auckland;NZD;NZ
+TUO;Taupo;TUO;Autre;Autre;New Zealand;Taupo Airport;NZAP;12;Z;Pacific/Auckland;NZD;NZ
+BHE;Woodbourne;BHE;Autre;Autre;New Zealand;Woodbourne;NZWB;12;Z;Pacific/Auckland;NZD;NZ
+CHC;Christchurch;CHC;Autre;Autre;New Zealand;Christchurch Intl;NZCH;12;Z;Pacific/Auckland;NZD;NZ
+DUD;Dunedin;DUD;Autre;Autre;New Zealand;Dunedin;NZDN;12;Z;Pacific/Auckland;NZD;NZ
+GTN;Mount Cook;GTN;Autre;Autre;New Zealand;Mount Cook;NZMC;12;Z;Pacific/Auckland;NZD;NZ
+HLZ;Hamilton;HLZ;Autre;Autre;New Zealand;Hamilton International Airport;NZHN;12;Z;Pacific/Auckland;NZD;NZ
+IVC;Invercargill;IVC;Autre;Autre;New Zealand;Invercargill;NZNV;12;Z;Pacific/Auckland;NZD;NZ
+MFN;Milford Sound;MFN;Autre;Autre;New Zealand;Milford Sound Airport;NZMF;12;Z;Pacific/Auckland;NZD;NZ
+NSN;Nelson;NSN;Autre;Autre;New Zealand;Nelson;NZNS;12;Z;Pacific/Auckland;NZD;NZ
+PMR;Palmerston North;PMR;Autre;Autre;New Zealand;Palmerston North;NZPM;12;Z;Pacific/Auckland;NZD;NZ
+ROT;Rotorua;ROT;Autre;Autre;New Zealand;Rotorua;NZRO;12;Z;Pacific/Auckland;NZD;NZ
+TEU;Manapouri;TEU;Autre;Autre;New Zealand;Manapouri;NZMO;12;Z;Pacific/Auckland;NZD;NZ
+WHK;Whakatane;WHK;Autre;Autre;New Zealand;Whakatane;NZWK;12;Z;Pacific/Auckland;NZD;NZ
+WLG;Wellington;WLG;Autre;Autre;New Zealand;Wellington Intl;NZWN;12;Z;Pacific/Auckland;NZD;NZ
+WRE;Whangarei;WRE;Autre;Autre;New Zealand;Whangarei;NZWR;12;Z;Pacific/Auckland;NZD;NZ
+ZQN;Queenstown International;ZQN;Autre;Autre;New Zealand;Queenstown;NZQN;12;Z;Pacific/Auckland;NZD;NZ
+MGA;Managua;MGA;Autre;Autre;Nicaragua;Managua Intl;MNMG;-6;U;America/Managua;NIO;NI
+AJY;Agadez;AJY;Autre;Autre;Niger;Manu Dayak;DRZA;1;N;Africa/Niamey;XOF;NE
+MFQ;Maradi;MFQ;Autre;Autre;Niger;Maradi;DRRM;1;N;Africa/Niamey;XOF;NE
+NIM;Niamey;NIM;Autre;Autre;Niger;Diori Hamani;DRRN;1;N;Africa/Niamey;XOF;NE
+ZND;Zinder;ZND;Autre;Autre;Niger;Zinder;DRZR;1;N;Africa/Niamey;XOF;NE
+RLT;Arlit;RLT;Autre;Autre;Niger;Arlit Airport;;1;N;Africa/Niamey;XOF;NE
+ABV;Abuja;ABV;Autre;Autre;Nigeria;Nnamdi Azikiwe International Airport;DNAA;1;N;Africa/Lagos;NGN;NG
+BNI;Benin City;BNI;Autre;Autre;NIGERIA;Benin City Airport;DNBE;1;N/A;Africa/Lagos;NGN;NG
+CBQ;Calabar;CBQ;Autre;Autre;Nigeria;Calabar Airport;DNCA;1;N/A;Africa/Lagos;NGN;NG
+KAN;Kano;KAN;Autre;Autre;Nigeria;Mallam Aminu Intl;DNKN;1;N;Africa/Lagos;NGN;NG
+LOS;Lagos;LOS;Autre;Autre;Nigeria;Murtala Muhammed;DNMM;1;N;Africa/Lagos;NGN;NG
+PHC;Port Hartcourt;PHC;Autre;Autre;Nigeria;Port Harcourt Intl;DNPO;1;N;Africa/Lagos;NGN;NG
+FNJ;Pyongyang;FNJ;Autre;Autre;North Korea;Pyongyang Intl;ZKPY;9;U;Asia/Pyongyang;KPW;KP
+SPN;Saipan;SPN;Autre;Autre;Northern Mariana Islands;Francisco C Ada Saipan Intl;PGSN;10;U;Pacific/Saipan;USD;MP
+AES;Alesund;AES;Autre;Autre;Norway;Vigra;ENAL;1;E;Europe/Oslo;NOK;NO
+ALF;Alta;ALF;Autre;Autre;Norway;Alta;ENAT;1;E;Europe/Oslo;NOK;NO
+BDU;Bardufoss;BDU;Autre;Autre;Norway;Bardufoss;ENDU;1;E;Europe/Oslo;NOK;NO
+BGO;Bergen;BGO;Autre;Autre;Norway;Flesland;ENBR;1;E;Europe/Oslo;NOK;NO
+BNN;Bronnoysund;BNN;Autre;Autre;Norway;Bronnoy;ENBN;1;E;Europe/Oslo;NOK;NO
+BOO;Bodo;BOO;Autre;Autre;Norway;Bodo;ENBO;1;E;Europe/Oslo;NOK;NO
+EVE;Harstad/Narvik;EVE;Autre;Autre;Norway;Evenes;ENEV;1;E;Europe/Oslo;NOK;NO
+FRO;Floro;FRO;Autre;Autre;Norway;Floro;ENFL;1;E;Europe/Oslo;NOK;NO
+HAU;Haugesund;HAU;Autre;Autre;Norway;Karmoy;ENHD;1;E;Europe/Oslo;NOK;NO
+HFT;Hammerfest;HFT;Autre;Autre;Norway;Hammerfest Airport;ENHF;1;E;Europe/Oslo;NOK;NO
+KKN;Kirkenes;KKN;Autre;Autre;Norway;Hoybuktmoen;ENKR;1;E;Europe/Oslo;NOK;NO
+KRS;Kristiansand;KRS;Autre;Autre;Norway;Kjevik;ENCN;1;E;Europe/Oslo;NOK;NO
+KSU;Kristiansund;KSU;Autre;Autre;Norway;Kvernberget;ENKB;1;E;Europe/Oslo;NOK;NO
+LKL;Lakselv;LKL;Autre;Autre;Norway;Banak;ENNA;1;E;Europe/Oslo;NOK;NO
+MOL;Molde;MOL;Autre;Autre;Norway;Aéroport de Molde;ENML;1;E;Europe/Oslo;NOK;NO
+FBU;Oslo;OSL;Autre;Autre;Norway;Fornebu;ENFB;1;E;Europe/Oslo;NOK;NO
+OSL;Oslo;OSL;Autre;Autre;Norway;Gardermoen;ENGM;1;E;Europe/Oslo;NOK;NO
+TRF;Sandefjord;OSL;Autre;Autre;Norway;Torp;ENTO;1;E;Europe/Oslo;NOK;NO
+SOG;Sogndal;SOG;Autre;Autre;Norway;Sogndal Airport;ENSG;1;E;Europe/Oslo;NOK;NO
+SSJ;Sandnessjoen;SSJ;Autre;Autre;Norway;Sandnessjoen Airport;ENST;1;E;Europe/Oslo;NOK;NO
+SVG;Stavanger;SVG;Autre;Autre;Norway;Sola;ENZV;1;E;Europe/Oslo;NOK;NO
+TOS;Tromso;TOS;Autre;Autre;Norway;Langnes;ENTC;1;E;Europe/Oslo;NOK;NO
+TRD;Trondheim;TRD;Autre;Autre;Norway;Vaernes;ENVA;1;E;Europe/Oslo;NOK;NO
+MCT;Muscat;MCT;Autre;Autre;Oman;Seeb Intl;OOMS;4;U;Asia/Muscat;OMR;OM
+SLL;Salalah;SLL;Autre;Autre;Oman;Salalah;OOSA;4;U;Asia/Muscat;OMR;OM
+BHV;Bahawalpur;BHV;Autre;Autre;Pakistan;Bahawalpur Airport;OPBW;5;U;Asia/Karachi;PKR;PK
+BNP;Bannu;BNP;Autre;Autre;Pakistan;Bannu Airport;OPBN;5;U;Asia/Karachi;PKR;PK
+CJL;Chitral;CJL;Autre;Autre;Pakistan;Chitral Airport;OPCH;5;U;Asia/Karachi;PKR;PK
+DSK;Dera Ismael Khan;DSK;Autre;Autre;Pakistan;Dera Ismael Khan Airport;OPDI;5;U;Asia/Karachi;PKR;PK
+GIL;Gilgit;GIL;Autre;Autre;Pakistan;Gilgit;OPGT;5;U;Asia/Karachi;PKR;PK
+GWD;Gwadar;GWD;Autre;Autre;Pakistan;Gwadar;OPGD;5;U;Asia/Karachi;PKR;PK
+HDD;Hyderabad;HDD;Autre;Autre;Pakistan;Hyderabad Airport;OPKD;5;U;Asia/Karachi;PKR;PK
+ISB;Islamabad;ISB;Autre;Autre;Pakistan;Chaklala;OPRN;5;U;Asia/Karachi;PKR;PK
+JIW;Jiwani;JIW;Autre;Autre;Pakistan;Jiwani Airport;OPJI;5;U;Asia/Karachi;PKR;PK
+KDD;Khuzdar;KDD;Autre;Autre;Pakistan;Khuzdar Airport;OPKH;5;U;Asia/Karachi;PKR;PK
+KDU;Skardu;KDU;Autre;Autre;Pakistan;Skardu Airport;OPSD;5;U;Asia/Karachi;PKR;PK
+KHI;Karachi;KHI;Autre;Autre;Pakistan;Jinnah Intl;OPKC;5;U;Asia/Karachi;PKR;PK
+LHE;Lahore;LHE;Autre;Autre;Pakistan;Allama Iqbal Intl;OPLA;5;U;Asia/Karachi;PKR;PK
+LYP;Faisalabad;LYP;Autre;Autre;Pakistan;Faisalabad Intl;OPFA;5;U;Asia/Karachi;PKR;PK
+MFG;Muzaffarabad;MFG;Autre;Autre;Pakistan;Muzaffarabad;OPMF;5;U;Asia/Karachi;PKR;PK
+MJD;Moenjodaro;MJD;Autre;Autre;Pakistan;Moenjodaro;OPMJ;5;U;Asia/Karachi;PKR;PK
+MUX;Multan;MUX;Autre;Autre;Pakistan;Multan Intl;OPMT;5;U;Asia/Karachi;PKR;PK
+PEW;Peshawar;PEW;Autre;Autre;Pakistan;Peshawar Intl;OPPS;5;U;Asia/Karachi;PKR;PK
+PJG;Panjgur;PJG;Autre;Autre;Pakistan;Panjgur;OPPG;5;U;Asia/Karachi;PKR;PK
+PSI;Pasni;PSI;Autre;Autre;Pakistan;Pasni;OPPI;5;U;Asia/Karachi;PKR;PK
+PZH;Zhob;PZH;Autre;Autre;Pakistan;Zhob;OPZB;5;U;Asia/Karachi;PKR;PK
+RAZ;Rawala Kot;RAZ;Autre;Autre;Pakistan;Rawalakot;OPRT;5;U;Asia/Karachi;PKR;PK
+RYK;Rahim Yar Khan;RYK;Autre;Autre;Pakistan;Sheikh Zayed;OPRK;5;U;Asia/Karachi;PKR;PK
+SDT;Saidu Sharif;SDT;Autre;Autre;Pakistan;Saidu Sharif;OPSS;5;U;Asia/Karachi;PKR;PK
+SKZ;Sukkur;SKZ;Autre;Autre;Pakistan;Sukkur;OPSK;5;U;Asia/Karachi;PKR;PK
+SUL;Sui;SUL;Autre;Autre;Pakistan;Sui;OPSU;5;U;Asia/Karachi;PKR;PK
+TUK;Turbat;TUK;Autre;Autre;Pakistan;Turbat International Airport;OPTU;5;U;Asia/Karachi;PKR;PK
+UET;Quetta;UET;Autre;Autre;Pakistan;Quetta;OPQT;5;U;Asia/Karachi;PKR;PK
+WNS;Nawabshah;WNS;Autre;Autre;Pakistan;Nawabshah;OPNH;5;U;Asia/Karachi;PKR;PK
+JAG;Jacobabad;JAG;Autre;Autre;Pakistan;Jacobabad Airport;;5;U;Asia/Karachi;PKR;PK
+MPD;Sindhri;MPD;Autre;Autre;Pakistan;Sindhri Airport;;5;U;Asia/Karachi;PKR;PK
+MWD;Mianwali;MWD;Autre;Autre;Pakistan;Mianwali Airport;;5;U;Asia/Karachi;PKR;PK
+OHT;Kohat;OHT;Autre;Autre;Pakistan;Kohat Airport;;5;U;Asia/Karachi;PKR;PK
+QML;Mirpur;QML;Autre;Autre;Pakistan;Mirpur Airport;;5;U;Asia/Karachi;PKR;PK
+RWP;Rawalpindi;RWP;Autre;Autre;Pakistan;Rawalpindi Airport;;5;U;Asia/Karachi;PKR;PK
+ROR;Koror;ROR;Autre;Autre;Palau;Airai Airport;PTRO;9;U;Pacific/Palau;USD;PW
+HOW;Howard Afb;HOW;Autre;Autre;Panama;Howard Afb;N/A;-5;U;America/Panama;PAB;PA
+PTY;Panama;PTY;Autre;Autre;Panama;Tocumen Intl;MPTO;-5;U;America/Panama;PAB;PA
+RIT;Rio Tigre;RIT;Autre;Autre;Panama;Rio Tigre Airport ;N/A;-5;U;America/Panama;PAB;PA
+LAE;Nadzab;LAE;Autre;Autre;Papua New Guinea;Nadzab;AYNZ;10;U;Pacific/Port_Moresby;PGK;PG
+POM;Port Moresby;POM;Autre;Autre;Papua New Guinea;Port Moresby Jacksons Intl;AYPY;10;U;Pacific/Port_Moresby;PGK;PG
+MFO;Manguna;MFO;Autre;Autre;Papua New Guinea;Manguna Airport;;10;U;Pacific/Port_Moresby;PGK;PG
+ASU;Asuncion;ASU;Autre;Autre;Paraguay;Silvio Pettirossi Intl;SGAS;-4;S;America/Asuncion;PYG;PY
+CUZ;Cusco;CUZ;Autre;Autre;Peru;Coronel Francisco Secada Vignetta Intl;SPQT;-5;U;America/Lima;PEN;PE
+IQT;Iquitos;IQT;Autre;Autre;Peru;Alejandro Velasco Astete International Airport;SPZO;-5;U;America/Lima;PEN;PE
+LIM;Lima;LIM;Autre;Autre;Peru;Jorge Chavez Intl;SPIM;-5;U;America/Lima;PEN;PE
+JAE;Jaen;JAE;Autre;Autre;Peru;Shumba Airport;SPJE;-5;U;America/Lima;PEN;PE
+WNP;Naga ;WNP;Autre;Autre;Philippines;Naga Airport;RPUN;8;U;Asia/Manila;PHP;PH
+CEB;Cebu;CEB;Autre;Autre;Philippines;Mactan Cebu Intl;RPVM;8;U;Asia/Manila;PHP;PH
+MNL;Manila;MNL;Autre;Autre;Philippines;Ninoy Aquino Intl;RPLL;8;U;Asia/Manila;PHP;PH
+MPH;Caticlan;MPH;Autre;Autre;Philippines;Malay Airport;RPWY;8;U;Asia/Manila;PHP;PH
+CBU;Cebu;CBU;Autre;Autre;Philippines;Cebu Airport;;8;U;Asia/Manila;PHP;PH
+NOP;Mactan Island - Nab;NOP;Autre;Autre;Philippines;Mactan Island - Nab Airport;;8;U;Asia/Manila;PHP;PH
+GDN;Gdansk;GDN;Autre;Autre;Poland;Lech Walesa;EPGD;1;E;Europe/Warsaw;PLN;PL
+KRK;Krakow;KRK;Autre;Autre;Poland;Balice;EPKK;1;E;Europe/Warsaw;PLN;PL
+KTW;Katowice;KTW;Autre;Autre;Poland;Katowice Airport;EPKT;1;E;Europe/Warsaw;PLN;PL
+POZ;Poznan;POZ;Autre;Autre;Poland;Lawica Airport;EPPO;1;E;Europe/Warsaw;PLN;PL
+RZE;Jasionka;RZE;Autre;Autre;Poland;Rzeszow–Jasionka Airport;EPRZ;1;E;Europe/Warsaw;PLN;PL
+SZZ;Szczechin;SZZ;Autre;Autre;Poland;Goleniow;EPSC;1;E;Europe/Warsaw;PLN;PL
+WAW;Warsaw;WAW;Autre;Autre;Poland;Okecie;EPWA;1;E;Europe/Warsaw;PLN;PL
+WRO;Wroclaw;WRO;Autre;Autre;Poland;Aéroport Nicolas-Copernic;EPWR;1;E;Europe/Warsaw;PLN;PL
+FAO;Faro;FAO;Autre;Autre;Portugal;Faro;LPFR;0;E;Europe/Lisbon;EUR;PT
+FNC;Funchal;FNC;Autre;Autre;Portugal;Madeira;LPMA;0;E;Europe/Lisbon;EUR;PT
+HOR;Horta;HOR;Autre;Autre;Portugal;Horta;LPHR;-1;E;Atlantic/Azores;EUR;PT
+LIS;Lisbon;LIS;Autre;Autre;Portugal;Lisboa;LPPT;0;E;Europe/Lisbon;EUR;PT
+OPO;Porto;OPO;Autre;Autre;Portugal;Porto;LPPR;0;E;Europe/Lisbon;EUR;PT
+PDL;Ponta Delgada;PDL;Autre;Autre;Portugal;Ponta Delgada;LPPD;-1;E;Atlantic/Azores;EUR;PT
+PXO;Porto Santo;PXO;Autre;Autre;Portugal;Porto Santo;LPPS;0;E;Europe/Lisbon;EUR;PT
+SJZ;Sao Jorge;SJZ;Autre;Autre;Portugal;Sao Jorge Airport;LPSJ;-1;E;Atlantic/Azores;EUR;PT
+SMA;Santa Maria (island);SMA;Autre;Autre;Portugal;Santa Maria;LPAZ;-1;E;Atlantic/Azores;EUR;PT
+TER;Lajes (terceira Island);TER;Autre;Autre;Portugal;Lajes;LPLA;-1;E;Atlantic/Azores;EUR;PT
+BQN;Aguadilla;BQN;Autre;Autre;Puerto Rico;Rafael Hernandez;TJBQ;-4;U;America/Puerto_Rico;USD;PR
+MAZ;Mayaguez;MAZ;Autre;Autre;Puerto Rico;Eugenio Maria De Hostos;TJMZ;-4;U;America/Puerto_Rico;USD;PR
+PSE;Ponce;PSE;Autre;Autre;Puerto Rico;Mercedita;TJPS;-4;U;America/Puerto_Rico;USD;PR
+SJU;San Juan;SJU;Autre;Autre;Puerto Rico;Luis Munoz Marin Intl;TJSJ;-4;U;America/Puerto_Rico;USD;PR
+DOH;Doha;DOH;Autre;Autre;Qatar;Doha Intl;OTBD;4;U;Asia/Qatar;QAR;QA
+FBM;Lubumashi;FBM;Autre;Autre;RDC;Lubumbashi Intl;FZQA;2;U;Africa/Lubumbashi;XAF;CD
+FKI;Kisangani;FKI;Autre;Autre;RDC;Kisangani Simisini;FZIA;2;U;Africa/Lubumbashi;XAF;CD
+BAY;Baia Mare;BAY;Autre;Autre;Romania;Baia Mare airport;N/A;2;E;Europe/Bucharest;RON;RO
+BBU;Baneasa;BBU;Autre;Autre;Romania;Aéroport international Aurel-Vlaicu;LRBS;2;E;Europe/Bucharest;RON;RO
+BUH;Buchloe;BUH;Autre;Autre;Romania;Buchloe BF;BUCH;2;E;Europe/Berlin;RON;RO
+OTP;Bucharest;BUH;Autre;Autre;Romania;Henri Coanda;LROP;2;E;Europe/Bucharest;RON;RO
+CND;Constanta;CND;Autre;Autre;Romania;Mihail Kogalniceanu;LRCK;2;E;Europe/Bucharest;RON;RO
+IAS;Iasi;IAS;Autre;Autre;Romania;Lasi International Airport;N/A;N/A;N/A;Europe/Bucharest;RON;RO
+OMR;Oradea;OMR;Autre;Autre;Romania;Oradea Airport;LROD;2;E;Europe/Bucharest;RON;RO
+SCV;Suceava;SCV;Autre;Autre;Romania;Salcea Airport;LRSV;2;E;Europe/Bucharest;RON;RO
+TGM;TirguMures;TGM;Autre;Autre;Romania;Tirgu Mures Airport;LRTM;2;E;Europe/Bucharest;RON;RO
+TSE;Astana;TSE;Autre;Autre;Romania;Astana International Airport;N/A;2;E;Europe/Bucharest;RON;RO
+TSR;Giarmata;TSR;Autre;Autre;Romania;Traian-Vuia International Airport;N/A;2;E;Europe/Bucharest;RON;RO
+AER;Sochi;AER;Autre;Autre;Russia;Sochi;URSS;4;N;Europe/Moscow;RUB;RU
+ARH;Arkhangelsk;ARH;Autre;Autre;Russia;Aéroport Talagi;ULAA;4;N;Europe/Moscow;RUB;RU
+CEK; Chelyabinsk ;CEK;Autre;Autre;Russia; Chelyabinsk ;KCEK;2;N;Asia/Yekaterinburg;RUB;RU
+CHT;Chatham Island;CHT;Autre;Autre;Russia;Chatham Islands;NZCI;13;Z;Pacific/Chatham;RUB;RU
+DYR;Anadyr;DYR;Autre;Autre;Russia;Anadyr;UHMA;12;N/A;Asia/Magadan;RUB;RU
+GOJ;NizhniyNovgorod;GOJ;Autre;Autre;Russia;Nizhniy Novgorod Airport;UWGG;4;N/A;Europe/Moscow;RUB;RU
+IKT;Irkutsk;IKT;Autre;Autre;Russia;Irkutsk;UIII;9;N;Asia/Irkutsk;RUB;RU
+KGD;Kaliningrad;KGD;Autre;Autre;Russia;Kaliningrad Airport;UMKK;3;N/A;Europe/Kaliningrad;RUB;RU
+KUF;Samara;KGF;Autre;Autre;Russia;Samara airport;N/A;N/A;N/A;N/A;RUB;RU
+KHV;Khabarovsk;KHV;Autre;Autre;Russia;Novy;UHHH;11;N;Asia/Vladivostok;RUB;RU
+KJA;Krasnojarsk;KJA;Autre;Autre;Russia;Krasnojarsk Airport;UNKK;7;N;Asia/Krasnoyarsk;RUB;RU
+KRR;Krasnodar;KRR;Autre;Autre;Russia;Aéroport International de Krasnodar;URKK;3;N;Europe/Moscow;RUB;RU
+KZN;Kazan;KZN;Autre;Autre;Russia;Kazan;UWKD;4;N;Europe/Moscow;RUB;RU
+LED;St. Petersburg;LED;Autre;Autre;Russia;Pulkovo;ULLI;4;N;Europe/Moscow;RUB;RU
+MMK;Murmansk;MMK;Autre;Autre;Russia;Murmansk;ULMM;4;N;Europe/Moscow;RUB;RU
+DME;Moscow;MOW;Autre;Autre;Russia;Domododevo;UUDD;4;N;Europe/Moscow;RUB;RU
+MOW;Moscow;MOW;Autre;Autre;Russia;MOW;N/A;4;N;Europe/Moscow;RUB;RU
+SVO;Moscow;MOW;Autre;Autre;Russia;Sheremetyevo;UUEE;4;N;Europe/Moscow;RUB;RU
+VKO;Moscow;MOW;Autre;Autre;Russia;Vnukovo;UUWW;4;N;Europe/Moscow;RUB;RU
+MRV;Mineralnye Vody;MRV;Autre;Autre;Russia;Mineralnyye Vody;URMM;4;N;Europe/Moscow;RUB;RU
+ODS;Odessa;ODS;Autre;Autre;Russia;Odesa Intl;UKOO;2;E;Europe/Kiev;RUB;RU
+OMS;Omsk;OMS;Autre;Autre;Russia;Tsentralny Airport;UNOO;7;N;Asia/Omsk;RUB;RU
+OVB;Novosibirsk;OVB;Autre;Autre;Russia;Tolmachevo;UNNT;7;N;Asia/Omsk;RUB;RU
+PEE;Perm;PEE;Autre;Autre;Russia;Perm International Airport;USPP;5;N;Asia/Yekaterinburg;RUB;RU
+ROV;Rostov;ROV;Autre;Autre;Russia;Rostov Airport;N/A;N/A;N/A;Europe/Volgograd;RUB;RU
+STW;Stavropol;STW;Autre;Autre;Russia;Stavropol Shpakovskoye Airport ;URMT;N/A;N/A;Europe/Volgograd;RUB;RU
+SVX;Ekaterinburg;SVX;Autre;Autre;Russia;Koltsovo airport;N/A;5;N/A;Asia/Yekaterinburg;RUB;RU
+TJM;Tyumen;TJM;Autre;Autre;Russia;Roshchino International Airport;N/A;5;N/A;Asia/Yekaterinburg;RUB;RU
+ULU;Gulu;ULU;Autre;Autre;Russia;Gulu Airport;HUGU;3;U;Africa/Kampala;RUB;RU
+VOZ;Voronezh;VOZ;Autre;Autre;Russia;Voronezh-Chertovitskoye International Airport;UUOO;3;N;Europe/Moscow;RUB;RU
+VVO;Vladivostok;VVO;Autre;Autre;Russia;Aéroport international de Vladivostok;UHWW;4;N;Europe/Vladivostok;RUB;RU
+HTA;Chita (Tschita);HTA;Autre;Autre;Russia;Chita (Tschita) Airport;;;;Asia/Yakutsk;RUB;RU
+UUD;Ulan-Ude;UUD;Autre;Autre;Russia;Ulan-Ude Airport;;;;Asia/Irkutsk;RUB;RU
+VLU;Velikiye Luki (Welikije Luki);VLU;Autre;Autre;Russia;Velikiye Luki (Welikije Luki) Airport;;;;Europe/Moscow;RUB;RU
+YKS;Yakutsk;YKS;Autre;Autre;Russia;Yakutsk Airport;;;;Asia/Yakutsk;RUB;RU
+KGL;Kigali;KGL;Autre;Autre;Rwanda;Kigali Intl;HRYR;2;U;Africa/Kigali;RWF;RW
+NEV;Charlestown;NEV;Autre;Autre;Saint Kitts and Nevis;Vance Winkworth Amory International Airport;TKPN;-4;U;America/St_Kitts;XCD;KN
+TMS;Sao Tome;TMS;Autre;Autre;Sao Tome & Principe;Sao Tome Intl;FPST;0;N;Africa/Sao_Tome;STD;ST
+AHB;Abha;AHB;Autre;Autre;Saudi Arabia;Abha;OEAB;3;U;Asia/Riyadh;SAR;SA
+DHA;Dhahran;DHA;Autre;Autre;Saudi Arabia;King Abdulaziz Ab;OEDR;3;U;Asia/Riyadh;SAR;SA
+GIZ;Jizan;GIZ;Autre;Autre;Saudi Arabia;King Abdullah Bin Abdulaziz Airport;OEGN;3;U;Asia/Riyadh;SAR;SA
+DMM;Dammam;DMM;Autre;Autre;Saudi Arabia;King Fahad International Airport;OEDF;3;U;Asia/Riyadh;SAR;SA
+HAS;Ha'il;HAS;Autre;Autre;Saudi Arabia;Ha'il Regional Airport;OEHL;3;U;Asia/Riyadh;SAR;SA
+JED;Jeddah;JED;Autre;Autre;Saudi Arabia;King Abdulaziz Intl;OEJN;3;U;Asia/Riyadh;SAR;SA
+MED;Madinah;MED;Autre;Autre;Saudi Arabia;Prince Mohammad Bin Abdulaziz;OEMA;3;U;Asia/Riyadh;SAR;SA
+RUH;Riyadh;RUH;Autre;Autre;Saudi Arabia;King Khaled Intl;OERK;3;U;Asia/Riyadh;SAR;SA
+TIF;Taif;TIF;Autre;Autre;Saudi Arabia;Taif;OETF;3;U;Asia/Riyadh;SAR;SA
+TUU;Tabuk;TUU;Autre;Autre;Saudi Arabia;Tabuk;OETB;3;U;Asia/Riyadh;SAR;SA
+YNB;Yenbo;YNB;Autre;Autre;Saudi Arabia;Yenbo;OEYN;3;U;Asia/Riyadh;SAR;SA
+CSK;CapSkirring;CSK;Autre;Autre;Senegal;Cap Skirring Airport;GOGS;0;N;Africa/Dakar;XOF;SN
+DSS;Dakar Thies;DKR;Autre;Autre;Senegal;Blaise Diagne Intl;GOBD;0;N;Africa/Dakar;XOF;SN
+DKR;Dakar;DKR;Autre;Autre;Senegal;Leopold Sedar Senghor Intl;GOOY;0;N;Africa/Dakar;XOF;SN
+ZIG;Ziguinchor;ZIG;Autre;Autre;Senegal;Ziguinchor Airport;GOGG;0;N;Africa/Dakar;XOF;SN
+XLS;Saint Louis;XLS;Autre;Autre;Senegal;Saint Louis station;;0;N;Africa/Dakar;XOF;SN
+PRI;PraslinIsland;PRI;Autre;Autre;Seychelles;Praslin Island Airport;FSPP;4;U;Indian/Mahe;SCR;SC
+SEZ;Mahe;SEZ;Autre;Autre;Seychelles;Seychelles Intl;FSIA;4;U;Indian/Mahe;SCR;SC
+FNA;Freetown;FNA;Autre;Autre;Sierra Leone;Freetown Lungi;GFLL;0;N;Africa/Freetown;SLL;SL
+SIN;Singapore;SIN;Autre;Autre;Singapore;Changi Intl;WSSS;8;U;Asia/Singapore;SGD;SG
+QPG;Singapore - Paya Lebar;QPG;Autre;Autre;Singapore;Singapore - Paya Lebar Airport;;8;U;Asia/Singapore;SGD;SG
+BTS;Bratislava;BTS;Autre;Autre;Slovakia;M R Stefanik;LZIB;1;E;Europe/Bratislava;EUR;SK
+KSC;Kosice;KSC;Autre;Autre;Slovakia;Kosice-Barca;LZKZ;1;E;Europe/Bratislava;EUR;SK
+LJU;Ljubliana;LJU;Autre;Autre;Slovenia;Ljubljana;LJLJ;1;E;Europe/Ljubljana;EUR;SI
+MBX;Maribor;MBX;Autre;Autre;Slovenia;Maribor;LJMB;1;E;Europe/Ljubljana;EUR;SI
+GSI;Guadalcanal;GSI;Autre;Autre;Solomon Islands;Guadalcanal Airport;;1;E;Europe/Ljubljana;EUR;SI
+MGQ;Mogadishu;MGQ;Autre;Autre;Somalia;Aden Adde International Airport;HCMM;3;U;Africa/Mogadishu;SOS;SO
+JUB;Djouba;JUB;Autre;Autre;Soudan du Sud;Aéroport de Djouba;HSSJ;3;N/A;Africa/Khartoum;SSP;SD
+AGZ;Aggeneys;AGZ;Autre;Autre;South Africa;Aggeneys;FAAG;2;U;Africa/Johannesburg;ZAR;ZA
+ALJ;Alexander Bay;ALJ;Autre;Autre;South Africa;Alexander Bay;FAAB;2;U;Africa/Johannesburg;ZAR;ZA
+BFN;Bloemfontein;BFN;Autre;Autre;South Africa;Bloemfontein Intl;FABL;2;U;Africa/Johannesburg;ZAR;ZA
+CPT;Cape Town;CPT;Autre;Autre;South Africa;Cape Town Intl;FACT;2;U;Africa/Johannesburg;ZAR;ZA
+DUR;Durban;DUR;Autre;Autre;South Africa;Durban Intl;FADN;2;U;Africa/Johannesburg;ZAR;ZA
+ELS;East London;ELS;Autre;Autre;South Africa;East London;FAEL;2;U;Africa/Johannesburg;ZAR;ZA
+GRJ;George;GRJ;Autre;Autre;South Africa;George;FAGG;2;U;Africa/Johannesburg;ZAR;ZA
+HLA;Johannesburg;HLA;Autre;Autre;South Africa;Lanseria;FALA;2;U;Africa/Johannesburg;ZAR;ZA
+JNB;Johannesburg;JNB;Autre;Autre;South Africa;Johannesburg Intl;FAJS;2;U;Africa/Johannesburg;ZAR;ZA
+KIM;Kimberley;KIM;Autre;Autre;South Africa;Kimberley;FAKM;2;U;Africa/Johannesburg;ZAR;ZA
+KLZ;Kleinsee;KLZ;Autre;Autre;South Africa;Kleinsee;FAKZ;2;U;Africa/Johannesburg;ZAR;ZA
+MEZ;Messina;MEZ;Autre;Autre;South Africa;Morningside Farm;FAMS;2;U;Africa/Johannesburg;ZAR;ZA
+MGH;Margate;MGH;Autre;Autre;South Africa;Margate;FAMG;2;U;Africa/Johannesburg;ZAR;ZA
+MQP;Mpumalanga;MQP;Autre;Autre;South Africa;Kruger Mpumalanga International Airport;FAKN;2;U;Africa/Johannesburg;ZAR;ZA
+NCS;Newcastle;NCS;Autre;Autre;South Africa;Newcastle;FANC;2;U;Africa/Johannesburg;ZAR;ZA
+NLP;Nelspruit;NLP;Autre;Autre;South Africa;Nelspruit Airport;FANS;2;U;Africa/Johannesburg;ZAR;ZA
+NTY;Pilanesberg;NTY;Autre;Autre;South Africa;Pilanesberg Intl;FAPN;2;U;Africa/Johannesburg;ZAR;ZA
+PHW;Phalaborwa;PHW;Autre;Autre;South Africa;Phalaborwa;FAPH;2;U;Africa/Johannesburg;ZAR;ZA
+PLZ;Port Elizabeth;PLZ;Autre;Autre;South Africa;Port Elizabeth Intl;FAPE;2;U;Africa/Johannesburg;ZAR;ZA
+PRY;Pretoria;PRY;Autre;Autre;South Africa;Wonderboom;FAWB;2;U;Africa/Johannesburg;ZAR;ZA
+PTG;Pietersburg;PTG;Autre;Autre;South Africa;Pietersburg;FAPI;2;U;Africa/Johannesburg;ZAR;ZA
+PZB;Pietermaritzburg;PZB;Autre;Autre;South Africa;Pietermaritzburg;FAPM;2;U;Africa/Johannesburg;ZAR;ZA
+RCB;Richard's Bay;RCB;Autre;Autre;South Africa;Richards Bay;FARB;2;U;Africa/Johannesburg;ZAR;ZA
+SBU;Springbok;SBU;Autre;Autre;South Africa;Springbok;FASB;2;U;Africa/Johannesburg;ZAR;ZA
+SIS;Sishen;SIS;Autre;Autre;South Africa;Sishen;FASS;2;U;Africa/Johannesburg;ZAR;ZA
+SZK;Skukuza;SZK;Autre;Autre;South Africa;Skukuza;FASZ;2;U;Africa/Johannesburg;ZAR;ZA
+ULD;Ulundi;ULD;Autre;Autre;South Africa;Prince Mangosuthu Buthelezi;FAUL;2;U;Africa/Johannesburg;ZAR;ZA
+UTN;Upington;UTN;Autre;Autre;South Africa;Upington;FAUP;2;U;Africa/Johannesburg;ZAR;ZA
+UTT;Umtata;UTT;Autre;Autre;South Africa;Mthatha;FAUT;2;U;Africa/Johannesburg;ZAR;ZA
+WEL;Welkom;WEL;Autre;Autre;South Africa;Welkom;FAWM;2;U;Africa/Johannesburg;ZAR;ZA
+WVB;Walvis Bay;WVB;Autre;Autre;South Africa;Walvis Bay Airport;FYWB;2;U;Africa/Johannesburg;ZAR;ZA
+ADY;Alldays;ADY;Autre;Autre;South Africa;Alldays Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+ELL;Ellisras;ELL;Autre;Autre;South Africa;Ellisras Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+LUJ;Lusisiki;LUJ;Autre;Autre;South Africa;Lusisiki Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+MBM;Mkambati;MBM;Autre;Autre;South Africa;Mkambati Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+MZF;Mzamba;MZF;Autre;Autre;South Africa;Mzamba Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+OUH;Oudtshoorn;OUH;Autre;Autre;South Africa;Oudtshoorn Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+PBZ;Plettenberg Bay;PBZ;Autre;Autre;South Africa;Plettenberg Bay Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+TCU;Thaba'Nchu;TCU;Autre;Autre;South Africa;Thaba'Nchu Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+VYD;Vryheid;VYD;Autre;Autre;South Africa;Vryheid Airport;;2;U;Africa/Johannesburg;ZAR;ZA
+GMP;Séoul-Gimpo;GMP;Autre;Autre;South Korea;Gimpo International Airport;N/A;N/A;N/A;N/A;KRW;KR
+PUS;Busan;PUS;Autre;Autre;South Korea;Gimhae Intl;RKPK;9;U;Asia/Seoul;KRW;KR
+ICN;Seoul;SEL;Autre;Autre;South Korea;Incheon Intl;RKSI;9;U;Asia/Seoul;KRW;KR
+SEL;Seoul;SEL;Autre;Autre;South Korea;Gimpo International Airpot;N/A;9;N;Asia/Seoul;KRW;KR
+USN;Ulsan;USN;Autre;Autre;South Korea;Ulsan Airport;RKPU;9;U;Asia/Seoul;KRW;KR
+ACE;Las Palmas;ACE;Autre;Autre;Spain;Lanzarote;GCRR;0;E;Atlantic/Canary;EUR;ES
+AGP;Malaga;AGP;Autre;Autre;Spain;Malaga;LEMG;2;E;Europe/Madrid;EUR;ES
+ALC;Alicante;ALC;Autre;Autre;Spain;Alicante;LEAL;2;E;Europe/Madrid;EUR;ES
+BCN;Barcelona;BCN;Autre;Autre;Spain;Barcelona;LEBL;2;E;Europe/Madrid;EUR;ES
+YJB;Barcelona;BCN;Autre;Autre;Spain;Barcelona;;2;E;Europe/Madrid;EUR;ES
+BIO;Bilbao;BIO;Autre;Autre;Spain;Bilbao;LEBB;2;E;Europe/Madrid;EUR;ES
+BJZ;Badajoz;BJZ;Autre;Autre;Spain;Talavera La Real;LEBZ;2;E;Europe/Madrid;EUR;ES
+EAS;San Sebastian;EAS;Autre;Autre;Spain;San Sebastian;LESO;2;E;Europe/Madrid;EUR;ES
+FUE;Fuerteventura;FUE;Autre;Autre;Spain;Fuerteventura;GCFV;0;E;Atlantic/Canary;EUR;ES
+GRO;Gerona;GRO;Autre;Autre;Spain;Girona;LEGE;2;E;Europe/Madrid;EUR;ES
+GRX;Granada;GRX;Autre;Autre;Spain;Granada;LEGR;2;E;Europe/Madrid;EUR;ES
+IBZ;Ibiza;IBZ;Autre;Autre;Spain;Ibiza;LEIB;2;E;Europe/Madrid;EUR;ES
+LCG;La Coruna;LCG;Autre;Autre;Spain;A Coruna;LECO;2;E;Europe/Madrid;EUR;ES
+LEI;Almeria;LEI;Autre;Autre;Spain;Almeria;LEAM;2;E;Europe/Madrid;EUR;ES
+LPA;Gran Canaria;LPA;Autre;Autre;Spain;Gran Canaria;GCLP;0;E;Atlantic/Canary;EUR;ES
+MAD;Madrid;MAD;Autre;Autre;Spain;Barajas;LEMD;2;E;Europe/Madrid;EUR;ES
+MLN;Melilla;MLN;Autre;Autre;Spain;Melilla;GEML;2;E;Europe/Madrid;EUR;ES
+MAH;Menorca;MAH;Autre;Autre;Spain;Menorca;LEMH;2;E;Europe/Madrid;EUR;ES
+MJV;Murcia;MJV;Autre;Autre;Spain;Murcia San Javier;LELC;2;E;Europe/Madrid;EUR;ES
+ODB;Cordoba;ODB;Autre;Autre;Spain;Cordoba;LEBA;2;E;Europe/Madrid;EUR;ES
+OVD;Aviles;OVD;Autre;Autre;Spain;Asturias;LEAS;2;E;Europe/Madrid;EUR;ES
+PMI;Palma de Mallorca;PMI;Autre;Autre;Spain;Son Sant Joan;LEPA;2;E;Europe/Madrid;EUR;ES
+REU;Reus;REU;Autre;Autre;Spain;Reus;LERS;2;E;Europe/Madrid;EUR;ES
+SCQ;Santiago;SCQ;Autre;Autre;Spain;Santiago;LEST;2;E;Europe/Madrid;EUR;ES
+SDR;Santander;SDR;Autre;Autre;Spain;Santander;LEXJ;2;E;Europe/Madrid;EUR;ES
+SPC;Santa Cruz De La Palma;SPC;Autre;Autre;Spain;La Palma;GCLA;0;E;Atlantic/Canary;EUR;ES
+SVQ;Sevilla;SVQ;Autre;Autre;Spain;Sevilla;LEZL;2;E;Europe/Madrid;EUR;ES
+VDE;Hierro;VDE;Autre;Autre;Spain;Hierro;GCHI;0;E;Atlantic/Canary;EUR;ES
+VGO;Vigo;VGO;Autre;Autre;Spain;Vigo;LEVX;2;E;Europe/Madrid;EUR;ES
+VIT;Vitoria;VIT;Autre;Autre;Spain;Vitoria;LEVT;2;E;Europe/Madrid;EUR;ES
+VLC;Valencia;VLC;Autre;Autre;Spain;Valencia;LEVC;2;E;Europe/Madrid;EUR;ES
+VLL;Valladolid;VLL;Autre;Autre;Spain;Valladolid;LEVD;2;E;Europe/Madrid;EUR;ES
+XRY;Jerez;XRY;Autre;Autre;Spain;Jerez;LEJR;2;E;Europe/Madrid;EUR;ES
+ZAZ;Zaragoza;ZAZ;Autre;Autre;Spain;Zaragoza Ab;LEZG;2;E;Europe/Madrid;EUR;ES
+TCI;Tenerife;TCI;Autre;Autre;Spain;Tenerife Airport;;2;E;Europe/Madrid;EUR;ES
+QGN;Tarragona;QGN;Autre;Autre;Spain;Tarragona station;;2;E;Europe/Madrid;EUR;ES
+CMB;Colombo;CMB;Autre;Autre;Sri Lanka;Bandaranaike Intl Colombo;VCBI;6;U;Asia/Colombo;LKR;LK
+SKB;Basse Terre;SKB;Autre;Autre;St. Kitts And Nevis;Robert L Bradshaw;TKPK;-4;U;America/St_Kitts;XCD;KN
+SLU;Castries;SLU;Autre;Autre;St. Lucia;George F L Charles;TLPC;-4;U;America/St_Lucia;XCD;LC
+UVF;Hewandorra;UVF;Autre;Autre;St. Lucia;Hewanorra Intl;TLPL;-4;U;America/St_Lucia;XCD;LC
+SFG;St. Martin;SFG;Autre;Autre;St. Martin;Grand Case;TFFG;-4;U;America/Guadeloupe;EUR;MF
+SVD;Kingstown;SVD;Autre;Autre;St. Vincent;E T Joshua;TVSV;-4;U;America/St_Vincent;XCD;VC
+CIW;Canouan;CIW;Autre;Autre;St. Vincent and the Grenadines;Canouan Island Airport;TVSC;-4;N/A;America/St_Vincent;XCD;VC
+KRT;Khartoum;KRT;Autre;Autre;Sudan;Khartoum;HSSS;2;U;Africa/Khartoum;SDG;SD
+KSL;Kassala;KSL;Autre;Autre;Sudan;Kassala;HSKA;2;U;Africa/Khartoum;SDG;SD
+PBM;Zandery;PBM;Autre;Autre;Suriname;Johan A Pengel Intl;SMJP;-3;U;America/Paramaribo;SRD;SR
+LYR;Svalbard;LYR;Autre;Autre;Svalbard/Norway;Longyear;ENSB;1;E;Arctic/Longyearbyen;NOK;NO
+MTS;Manzini;MTS;Autre;Autre;Swaziland;Matsapha;FDMS;2;U;Africa/Mbabane;SZL;SZ
+GOT;Gothenborg;GOT;Autre;Autre;Sweden;Landvetter;ESGG;2;E;Europe/Stockholm;SEK;SE
+HMA;Khanty-Mansiysk;HMA;Autre;Autre;Sweden;Khanty Mansiysk Airport;USHH;6;N;Asia/Yekaterinburg;SEK;SE
+JHE;Helsingborg;JHE;Autre;Autre;Sweden;Helsingborg Cruise Port;N/A;2;E;Europe/Stockholm;SEK;SE
+JKG;Joenkoeping;JKG;Autre;Autre;Sweden;Jonkoping;ESGJ;2;E;Europe/Stockholm;SEK;SE
+KID;Kristianstad;KID;Autre;Autre;Sweden;Kristianstad;ESMK;2;E;Europe/Stockholm;SEK;SE
+KLR;Kalkmar;KLR;Autre;Autre;Sweden;Kalmar;ESMQ;2;E;Europe/Stockholm;SEK;SE
+KRN;Kiruna;KRN;Autre;Autre;Sweden;Kiruna;ESNQ;2;E;Europe/Stockholm;SEK;SE
+KTT;Kittila;KTT;Autre;Autre;Sweden;Kittila;EFKT;2;E;Europe/Helsinki;SEK;SE
+LDK;Lidkoping;LDK;Autre;Autre;Sweden;Lidkoping;ESGL;2;E;Europe/Stockholm;SEK;SE
+LLA;Lulea;LLA;Autre;Autre;Sweden;Kallax;ESPA;2;E;Europe/Stockholm;SEK;SE
+MMA;Malmoe;MMA;Autre;Autre;Sweden;Sturup;ESMS;2;E;Europe/Stockholm;SEK;SE
+MMX;Malmoe;MMX;Autre;Autre;Sweden;Sturup;ESMS;2;E;Europe/Stockholm;SEK;SE
+NRK;Norrkoeping;NRK;Autre;Autre;Sweden;Kungsangen;ESSP;2;E;Europe/Stockholm;SEK;SE
+ORB;Orebro;ORB;Autre;Autre;Sweden;Orebro;ESOE;2;E;Europe/Stockholm;SEK;SE
+RNB;Ronneby;RNB;Autre;Autre;Sweden;Ronneby;ESDF;2;E;Europe/Stockholm;SEK;SE
+SDL;Sundsvall;SDL;Autre;Autre;Sweden;Sundsvall Harnosand;ESNN;2;E;Europe/Stockholm;SEK;SE
+ARN;Stockholm;STO;Autre;Autre;Sweden;Arlanda;ESSA;2;E;Europe/Stockholm;SEK;SE
+BMA;Stockholm;STO;Autre;Autre;Sweden;Bromma;ESSB;2;E;Europe/Stockholm;SEK;SE
+STO;Stockholm;STO;Autre;Autre;Sweden;Stockholm Cruise Port;N/A;2;E;Europe/Stockholm;SEK;SE
+UME;Umea;UME;Autre;Autre;Sweden;Umea airport;N/A;2;E;Europe/Stockholm;SEK;SE
+VBY;Visby;VBY;Autre;Autre;Sweden;Visby;ESSV;2;E;Europe/Stockholm;SEK;SE
+VST;Vasteras;VST;Autre;Autre;Sweden;Vasteras;ESOW;2;E;Europe/Stockholm;SEK;SE
+VXO;Vaxjo;VXO;Autre;Autre;Sweden;Kronoberg;ESMX;2;E;Europe/Stockholm;SEK;SE
+KSD;Karlstad;KSD;Autre;Autre;Sweden;Karlstad Airport;;2;E;Europe/Stockholm;SEK;SE
+AGH;Angelholm;AGH;Autre;Autre;Sweden;Angelholm Airport;;2;E;Europe/Stockholm;SEK;SE
+ACH;Altenrhein;ACH;Autre;Autre;Switzerland;St Gallen Altenrhein;LSZR;2;E;Europe/Zurich;CHF;CH
+BRN;Bern;BRN;Autre;Autre;Switzerland;Bern Belp;LSZB;2;E;Europe/Zurich;CHF;CH
+GVA;Geneva;GVA;Autre;Autre;Switzerland;Geneva Cointrin;LSGG;2;E;Europe/Paris;CHF;CH
+LUG;Lugano;LUG;Autre;Autre;Switzerland;Lugano;LSZA;2;E;Europe/Zurich;CHF;CH
+ZDH;Basel;ZDH;Autre;Autre;Switzerland;Basel SBB station;N/A;2;E;Europe/Zurich;CHF;CH
+ZRH;Zurich;ZRH;Autre;Autre;Switzerland;Zurich;LSZH;2;E;Europe/Zurich;CHF;CH
+ZDJ;Bern;ZDJ;Autre;Autre;Switzerland;Bern Airport;;2;E;Europe/Zurich;CHF;CH
+QLS;Lausanne;QLS;Autre;Autre;Switzerland;Lausanne station;;2;E;Europe/Zurich;CHF;CH
+MLH;Mulhouse;EAP;Autre;Autre;Switzerland/France;EuroAirport;LFSB;2;E;Europe/Paris;CHF;CH
+BSL;Bâle;EAP;Autre;Autre;Switzerland/France;EuroAirport;LSZM;2;E;Europe/Paris;CHF;CH
+ALP;Aleppo;ALP;Autre;Autre;Syria;Aleppo Intl;OSAP;2;E;Asia/Damascus;SYP;SY
+DAM;Damascus;DAM;Autre;Autre;Syria;Damascus Intl;OSDI;2;E;Asia/Damascus;SYP;SY
+DYU;Dushanbe;DYU;Autre;Autre;Tadschikistan;Dushanbe;UTDD;5;U;Asia/Dushanbe;N/A;N/A
+PPT;Papeete;PPT;Autre;Autre;Tahiti;Faa\\'a International;NTAA;-10;U;Pacific/Tahiti;N/A;N/A
+KHH;Kaohsiung;KHH;Autre;Autre;Taiwan;Kaohsiung Intl;RCKH;8;U;Asia/Taipei;TWD;TW
+MZG;Makung;MZG;Autre;Autre;Taiwan;Magong;RCQC;8;U;Asia/Taipei;TWD;TW
+TAY;Tartu-ulenurme;TPE;Autre;Autre;Taiwan;Tartu;EETU;2;E;Europe/Tallinn;TWD;TW
+TPE;Taipei;TPE;Autre;Autre;Taiwan;Taoyuan Intl;RCTP;8;U;Asia/Taipei;TWD;TW
+ARK; Arusha;ARK;Autre;Autre;Tanzania; Arusha ;HTAR;3;U;Africa/Dar_es_Salaam;TZS;TZ
+DAR;Dar Es Salaam;DAR;Autre;Autre;Tanzania;Mwalimu Julius K Nyerere Intl;HTDA;3;U;Africa/Dar_es_Salaam;TZS;TZ
+JRO;Kilimanjaro;JRO;Autre;Autre;Tanzania;Kilimanjaro Intl;HTKJ;3;U;Africa/Dar_es_Salaam;TZS;TZ
+POL;Pemba;POL;Autre;Autre;Tanzania;Pemba Airport;FQPB;2;U;Africa/Maputo;TZS;TZ
+ZNZ;Zanzibar;ZNZ;Autre;Autre;Tanzania;Kisauni Airport;HTZA;3;U;Africa/Dar_es_Salaam;TZS;TZ
+TFN;Tenerife;TFN;Autre;Autre;Teneriffa/Spain;Tenerife Norte;GCXO;0;E;Atlantic/Canary;EUR;ES
+TFS;Tenerife;TFS;Autre;Autre;Teneriffa/Spain;Tenerife Sur;GCTS;0;E;Atlantic/Canary;EUR;ES
+BKK;Bangkok;BKK;Autre;Autre;Thailand;Suvarnabhumi Intl;VTBS;7;U;Asia/Bangkok;THB;TH
+CNX;Chiang Mai;CNX;Autre;Autre;Thailand;Chiang Mai Intl;VTCC;7;U;Asia/Bangkok;THB;TH
+DMK;Bangkok;DMK;Autre;Autre;Thailand;Don Muang;VTBD;7;U;Asia/Bangkok;THB;TH
+HDY;Songkhla;HDY;Autre;Autre;Thailand;Hat Yai Intl;VTSS;7;U;Asia/Bangkok;THB;TH
+HKT;Phuket;HKT;Autre;Autre;Thailand;Phuket Intl;VTSP;7;U;Asia/Bangkok;THB;TH
+PHS;Phitsanulok;PHS;Autre;Autre;Thailand;Phitsanulok Airport;VTPP;7;U;Asia/Bangkok;THB;TH
+THS;Sukhothai;THS;Autre;Autre;Thailand;Sukhothai Airport;VTPO;7;U;Asia/Bangkok;THB;TH
+USM;Koh Samui;USM;Autre;Autre;Thailand; Koh Samui ;N/A;7;U;Asia/Bangkok;THB;TH
+UTH;Udon Thani;UTH;Autre;Autre;Thailand;Udon Thani International Airport;VTUD;7;U;Asia/Bangkok;THB;TH
+UTP;Pattaya;UTP;Autre;Autre;Thailand;U Taphao Intl;VTBU;7;U;Asia/Bangkok;THB;TH
+PYX;Pattaya;PYX;Autre;Autre;Thailand;Pattaya Airport;;7;U;Asia/Bangkok;THB;TH
+TAB;Scarborough;TAB;Autre;Autre;Tobago;Crown Point;TTCP;-4;U;America/Port_of_Spain;TTD;TT
+LFW;Lome;LFW;Autre;Autre;Togo;Gnassingbe Eyadema Intl;DXXX;1;N;Africa/Lome;XOF;TG
+TBU;Tongatapu;TBU;Autre;Autre;Tonga;Fua Amotu Intl;NFTF;13;U;Pacific/Tongatapu;TOP;TO
+POS;Port-of-spain;POS;Autre;Autre;Trinidad;Piarco;TTPP;-4;U;America/Port_of_Spain;TTD;TT
+DJE;Djerba;DJE;Autre;Autre;Tunisia;Zarzis;DTTJ;1;E;Africa/Tunis;TND;TN
+MIR;Monastir;MIR;Autre;Autre;Tunisia;Habib Bourguiba Intl;DTMB;1;E;Africa/Tunis;TND;TN
+NBE;Enfidha;NBE;Autre;Autre;Tunisia;Enfidha - Hammamet International Airport ;DTNZ;1;E;Africa/Tunis;TND;TN
+SFA;Sfax;SFA;Autre;Autre;Tunisia;Thyna;DTTX;1;E;Africa/Tunis;TND;TN
+TUN;Tunis;TUN;Autre;Autre;Tunisia;Carthage;DTTA;1;E;Africa/Tunis;TND;TN
+ADA;Adana;ADA;Autre;Autre;Turkey;Adana;LTAF;2;E;Europe/Istanbul;TRY;TR
+ADB;Izmir;ADB;Autre;Autre;Turkey;Aéroport international Adnan-Menderes;LTBJ;2;E;Europe/Istanbul;TRY;TR
+ANK;Ankara;ANK;Autre;Autre;Turkey;Etimesgut;LTAD;2;E;Europe/Istanbul;TRY;TR
+AYT;Antalya;AYT;Autre;Autre;Turkey;Antalya;LTAI;2;E;Europe/Istanbul;TRY;TR
+BJV;Milas;BJV;Autre;Autre;Turkey; Milas Airport ;N/A;2;E;Europe/Istanbul;TRY;TR
+DLM;Dalaman;DLM;Autre;Autre;Turkey;Dalaman;LTBS;2;E;Europe/Istanbul;TRY;TR
+ESB;Ankara;ESB;Autre;Autre;Turkey;Aéroport international Esenboga;LTAC;2;E;Europe/Istanbul;TRY;TR
+IST;Istanbul;IST;Autre;Autre;Turkey;Ataturk;LTBA;2;E;Europe/Istanbul;TRY;TR
+KYA;Konya;KYA;Autre;Autre;Turkey;Konya Airport;LTAN;2;E;Europe/Istanbul;TRY;TR
+ECN;Ercan;KYA;Autre;Autre;Turkey;Ercan international Airport;LCEN;2;U;Asia/Nicosia;TRY;TR
+MSR;Mus;MSR;Autre;Autre;Turkey;Mus Airport;LTCK;2;E;Europe/Istanbul;TRY;TR
+SAW;Istanbul;SAW;Autre;Autre;Turkey;Sabiha Gokcen;LTFJ;2;E;Europe/Istanbul;TRY;TR
+TZX;Trabzon;TZX;Autre;Autre;Turkey;Trabzon Airport;LTCG;2;E;Europe/Istanbul;TRY;TR
+IZM;Izmir;IZM;Autre;Autre;Turkey;Izmir Airport;;2;E;Europe/Istanbul;TRY;TR
+ASB;Ashgabat, Ashkhabat;ASB;Autre;Autre;Turkmenistan;Ashgabat, Ashkhabat Airport;;;;Asia/Ashgabat;TMT;TM
+PLS;Providenciales;PLS;Autre;Autre;Turks and Caicos;Providenciales International Airport;MBPV;-5;E;America/Grand_Turk;USD;TC
+EBB;Entebbe;EBB;Autre;Autre;Uganda;Entebbe Intl;HUEN;3;U;Africa/Kampala;UGX;UG
+DNK;Dnipropetrovsk;DNK;Autre;Autre;Ukraine;Dnipropetrovsk International;UKDD;2;E;Europe/Kiev;UAH;UA
+DOK;Donetsk;DOK;Autre;Autre;Ukraine;Donetsk Airport;UKCC;2;N/A;Europe/Kiev;UAH;UA
+HRK;Kharkiv;HRK;Autre;Autre;Ukraine;Kharkiv;UKHH;2;E;Europe/Kiev;UAH;UA
+IEV;Kiev;IEV;Autre;Autre;Ukraine;Zhuliany Intl;UKKK;2;E;Europe/Kiev;UAH;UA
+KBP;Kiev;IEV;Autre;Autre;Ukraine;Boryspil Intl;UKBB;2;E;Europe/Kiev;UAH;UA
+LWO;Lvov;LWO;Autre;Autre;Ukraine;Lviv Intl;UKLL;2;E;Europe/Kiev;UAH;UA
+SIP;Simferopol;SIP;Autre;Autre;Ukraine;Simferopol Intl;UKFF;2;E;Europe/Kiev;UAH;UA
+NLV;Nikolaev;NLV;Autre;Autre;Ukraine;Nikolaev Airport;;2;E;Europe/Kiev;UAH;UA
+AUH;Abu Dhabi;AUH;Autre;Autre;United Arab Emirates;Abu Dhabi Intl;OMAA;4;U;Asia/Dubai;AED;AE
+DXB;Dubai;DXB;Autre;Autre;United Arab Emirates;Dubai Intl;OMDB;4;U;Asia/Dubai;AED;AE
+FJR;Fujeirah;FJR;Autre;Autre;United Arab Emirates;Fujairah Intl;OMFJ;4;U;Asia/Dubai;AED;AE
+RKT;Ras Al Khaimah;RKT;Autre;Autre;United Arab Emirates;Ras Al Khaimah Intl;OMRK;4;U;Asia/Dubai;AED;AE
+SHJ;Sharjah;SHJ;Autre;Autre;United Arab Emirates;Sharjah Intl;OMSJ;4;U;Asia/Dubai;AED;AE
+ZVJ;N/A;ZVJ;Autre;Autre;United Arab Emirates;N/A;N/A;4;U;Asia/Dubai;AED;AE
+AAN;Al Ain;AAN;Autre;Autre;United Arab Emirates;Al Ain Airport;;4;U;Asia/Dubai;AED;AE
+FFD;Fairford;FFD;Autre;Autre;United Kingdom;RAF Fairford airport;N/A;N/A;N/A;N/A;N/A;GB
+DCS;Doncaster, Robin Hood Int'l Airport;DCS;Autre;Autre;United Kingdom;Doncaster, Robin Hood Int'l Airport Airport;;0;E;Europe/London;GBP;GB
+SZD;Sheffield, City Airport;SZD;Autre;Autre;United Kingdom;Sheffield, City Airport Airport;;0;E;Europe/London;GBP;GB
+ABZ;Aberdeen;ABZ;Autre;Autre;United Kingdom;Dyce;EGPD;0;E;Europe/London;GBP;GB
+BFS;Belfast;BFS;Autre;Autre;United Kingdom;Aldergrove;EGAA;0;E;Europe/London;GBP;GB
+BHD;Belfast;BFS;Autre;Autre;United Kingdom;City;EGAC;0;E;Europe/London;GBP;GB
+BHX;Birmingham;BHX;Autre;Autre;United Kingdom;Birmingham;EGBB;0;E;Europe/London;GBP;GB
+BOH;Bournemouth;BOH;Autre;Autre;United Kingdom;Bournemouth International Airport;EGHH;0;E;Europe/London;GBP;GB
+BRS;Bristol;BRS;Autre;Autre;United Kingdom;Bristol;EGGD;0;E;Europe/London;GBP;GB
+CBG;Cambridge;CBG;Autre;Autre;United Kingdom;Cambridge;EGSC;0;E;Europe/London;GBP;GB
+CWL;Cardiff;CWL;Autre;Autre;United Kingdom;Cardiff;EGFF;0;E;Europe/London;GBP;GB
+EDI;Edinburgh;EDI;Autre;Autre;United Kingdom;Edinburgh;EGPH;0;E;Europe/London;GBP;GB
+EMA;East Midlands;EMA;Autre;Autre;United Kingdom;Nottingham East Midlands;EGNX;0;E;Europe/London;GBP;GB
+EXT;Exeter;EXT;Autre;Autre;United Kingdom;Exeter Airport;EGTE;0;E;Europe/London;GBP;GB
+GCI;Guernsey;GCI;Autre;Autre;United Kingdom;Guernsey;EGJB;0;E;Europe/Guernsey;GBP;GB
+GLA;Glasgow;GLA;Autre;Autre;United Kingdom;Glasgow;EGPF;0;E;Europe/London;GBP;GB
+PIK;Prestwick;GLA;Autre;Autre;United Kingdom;Prestwick;EGPK;0;E;Europe/London;GBP;GB
+HUY;Humberside;HUY;Autre;Autre;United Kingdom;Humberside;EGNJ;0;E;Europe/London;GBP;GB
+INV;Inverness;INV;Autre;Autre;United Kingdom;Inverness;EGPE;0;E;Europe/London;GBP;GB
+IOM;Isle Of Man;IOM;Autre;Autre;United Kingdom;Isle Of Man;EGNS;0;E;Europe/Isle_of_Man;GBP;GB
+JER;Jersey;JER;Autre;Autre;United Kingdom;Jersey;EGJJ;0;E;Europe/Jersey;GBP;GB
+KOI;Kirkwall;KOI;Autre;Autre;United Kingdom;Kirkwall;EGPA;0;E;Europe/London;GBP;GB
+LBA;Leeds;LBA;Autre;Autre;United Kingdom;Leeds Bradford;EGNM;0;E;Europe/London;GBP;GB
+LDY;Londonderry;LDY;Autre;Autre;United Kingdom;Londonderry Eglinton;EGAE;0;E;Europe/London;GBP;GB
+LCY;London;LON;Autre;Autre;United Kingdom;City;EGLC;0;E;Europe/London;GBP;GB
+LGW;London;LON;Autre;Autre;United Kingdom;Gatwick;EGKK;0;E;Europe/London;GBP;GB
+LHR;London;LON;Autre;Autre;United Kingdom;Heathrow;EGLL;0;E;Europe/London;GBP;GB
+LTN;London;LON;Autre;Autre;United Kingdom;Luton;EGGW;0;E;Europe/London;GBP;GB
+LPL;Liverpool;LPL;Autre;Autre;United Kingdom;Liverpool;EGGP;0;E;Europe/London;GBP;GB
+LSI;Sumburgh;LSI;Autre;Autre;United Kingdom;Sumburgh;EGPB;0;E;Europe/London;GBP;GB
+MAN;Manchester;MAN;Autre;Autre;United Kingdom;Manchester;EGCC;0;E;Europe/London;GBP;GB
+MME;Teesside;MME;Autre;Autre;United Kingdom;Durham Tees Valley Airport;EGNV;0;E;Europe/London;GBP;GB
+MSE;Manston;MSE;Autre;Autre;United Kingdom;Manston (Kent International);EGMH;0;N/A;Europe/London;GBP;GB
+NCL;Newcastle;NCL;Autre;Autre;United Kingdom;Newcastle;EGNT;0;E;Europe/London;GBP;GB
+NQY;Newquay;NQY;Autre;Autre;United Kingdom;Aéroport de Newquay Cornwall;EGHQ;0;E;Europe/London;GBP;GB
+QQS; Britrail Rail Zone S;QQS;Autre;Autre;United Kingdom; London St. Pancras ;N/A;0;E;Europe/London;GBP;GB
+SEN;Southend;SEN;Autre;Autre;United Kingdom;Southend;EGMC;0;E;Europe/London;GBP;GB
+SOU;Southampton;SOU;Autre;Autre;United Kingdom;Southampton;EGHI;0;E;Europe/London;GBP;GB
+STN;London;STN;Autre;Autre;United Kingdom;Stansted;EGSS;0;E;Europe/London;GBP;GB
+SYY;Stornoway;SYY;Autre;Autre;United Kingdom;Stornoway;EGPO;0;E;Europe/London;GBP;GB
+WIC;Wick;WIC;Autre;Autre;United Kingdom;Wick;EGPC;0;E;Europe/London;GBP;GB
+XQE;Ebbsfleet Kent;XQE;Autre;Autre;United Kingdom; Ebbsfleet Kent Station ;N/A;0;E;Europe/London;GBP;GB
+LON;London;LON;Autre;Autre;United Kingdom;London Airport;;0;E;Europe/London;GBP;GB
+MVD;Montevideo;MVD;Autre;Autre;Uruguay;Carrasco Intl;SUMU;-3;S;America/Montevideo;UYU;UY
+AMN; Michigan;AMN;Autre;Autre;USA; Gratiot Community ;KAMN;-5;A;N/A;USD;US
+NYC; New York;NYC;Autre;Autre;USA; All Airports ;N/A;-5;A;America/New_York;USD;US
+ABR;Aberdeen;ABR;Autre;Autre;USA;Aberdeen Regional Airport;KABR;-6;A;America/Chicago;USD;US
+ABI;Abilene;ABI;Autre;Autre;USA;Abilene Rgnl;KABI;-6;A;America/Chicago;USD;US
+CAK;Akron;CAK;Autre;Autre;USA;Akron Canton Regional Airport;KCAK;-5;A;America/New_York;USD;US
+ABY;Albany;ABY;Autre;Autre;USA;Southwest Georgia Regional Airport;KABY;-5;A;America/New_York;USD;US
+ALB;Albany;ALB;Autre;Autre;USA;Albany Intl;KALB;-5;A;America/New_York;USD;US
+ABQ;Albuquerque;ABQ;Autre;Autre;USA;Albuquerque International Sunport;KABQ;-7;A;America/Denver;USD;US
+AEX;Alexandria;AEX;Autre;Autre;USA;Alexandria International Airport;KAEX;-6;A;America/Chicago;USD;US
+ESF;Alexandria;ESF;Autre;Autre;USA;Esler Rgnl;KESF;-6;A;America/Chicago;USD;US
+ABE;Allentown;ABE;Autre;Autre;USA;Lehigh Valley Intl;KABE;-5;A;America/New_York;USD;US
+AOO;Altoona;AOO;Autre;Autre;USA;Altoona Blair Co;KAOO;-5;A;America/New_York;USD;US
+AMA;Amarillo;AMA;Autre;Autre;USA;Rick Husband Amarillo Intl;KAMA;-6;A;America/Chicago;USD;US
+ANC;Anchorage;ANC;Autre;Autre;USA;Ted Stevens Anchorage Intl;PANC;-9;A;America/Anchorage;USD;US
+ARB;Ann Arbor, MI;ARB;Autre;Autre;USA;Ann Arbor, MI Airport;;;;America/New_York;USD;US
+ANB;Anniston;ANB;Autre;Autre;USA;Anniston Metro;KANB;-6;A;America/Chicago;USD;US
+ATW;Appleton;ATW;Autre;Autre;USA;Appleton;KATW;-6;A;America/Chicago;USD;US
+ACV;Arcata CA;ACV;Autre;Autre;USA;Arcata;KACV;-8;A;America/Los_Angeles;USD;US
+ADM;Ardmore;ADM;Autre;Autre;USA;Ardmore Municipal Airport;KADM;-6;A;America/Chicago;USD;US
+AVL;Asheville;AVL;Autre;Autre;USA;Asheville Regional Airport;KAVL;-5;A;America/New_York;USD;US
+ASE;Aspen;ASE;Autre;Autre;USA;Aspen Pitkin County Sardy Field;KASE;-7;A;America/Denver;USD;US
+AHN;Athens;AHN;Autre;Autre;USA;Athens Ben Epps Airport;KAHN;-5;A;America/New_York;USD;US
+ATO;Athens, OH;ATO;Autre;Autre;USA;Athens, OH Airport;;;;;USD;US
+ATL;Atlanta;ATL;Autre;Autre;USA;Hartsfield Jackson Atlanta Intl;KATL;-5;A;America/New_York;USD;US
+ACY;Atlantic City;ACY;Autre;Autre;USA;Atlantic City Intl;KACY;-5;A;America/New_York;USD;US
+AUG;Augusta;AUG;Autre;Autre;USA;Augusta State;KAUG;-5;A;America/New_York;USD;US
+AUS;Austin;AUS;Autre;Autre;USA;Austin Bergstrom Intl;KAUS;-6;A;America/Chicago;USD;US
+BFL;Bakersfield;BFL;Autre;Autre;USA;Meadows Fld;KBFL;-8;A;America/Los_Angeles;USD;US
+BWI;Baltimore;BWI;Autre;Autre;USA;Baltimore Washington Intl;KBWI;-5;A;America/New_York;USD;US
+BGR;Bangor;BGR;Autre;Autre;USA;Bangor Intl;KBGR;-5;A;America/New_York;USD;US
+HYA;Barnstable;HYA;Autre;Autre;USA;Barnstable Muni Boardman Polando Fld;KHYA;-5;A;America/New_York;USD;US
+BTR;Baton Rouge;BTR;Autre;Autre;USA;Baton Rouge Metro Ryan Fld;KBTR;-6;A;America/Chicago;USD;US
+BPT;Beaumont;BPT;Autre;Autre;USA;Southeast Texas Rgnl;KBPT;-6;A;America/Chicago;USD;US
+BKW;Beckley;BKW;Autre;Autre;USA;Raleigh County Memorial Airport;KBKW;-5;A;America/New_York;USD;US
+KBE;Bell Island;KBE;Autre;Autre;USA;Hot Springs SPB Airport;N/A;-9;N/A;N/A;USD;US
+BLI;Bellingham;BLI;Autre;Autre;USA;Bellingham Intl;KBLI;-8;A;America/Los_Angeles;USD;US
+BJI;Bemidji;BJI;Autre;Autre;USA;Bemidji Regional Airport;KBJI;-6;A;America/Chicago;USD;US
+BEH;Benton Harbor;BEH;Autre;Autre;USA;Southwest Michigan Regional Airport;N/A;-5;U;America/New_York;USD;US
+BET;Bethel;BET;Autre;Autre;USA;Bethel;PABE;-9;A;America/Anchorage;USD;US
+BIL;Billings;BIL;Autre;Autre;USA;Billings Logan International Airport;KBIL;-7;A;America/Denver;USD;US
+BHM;Birmingham;BHM;Autre;Autre;USA;Birmingham Intl;KBHM;-6;A;America/Chicago;USD;US
+BIS;Bismarck;BIS;Autre;Autre;USA;Bismarck Municipal Airport;KBIS;-6;A;America/Chicago;USD;US
+BMG;Bloomington;BMG;Autre;Autre;USA;Monroe County Airport;KBMG;-4;A;America/New_York;USD;US
+BMI;Bloomington;BMI;Autre;Autre;USA;Central Illinois Rgnl;KBMI;-6;A;America/Chicago;USD;US
+BLF;Bluefield;BLF;Autre;Autre;USA;Mercer County Airport;BLF;-5;A;America/New_York;USD;US
+BOI;Boise;BOI;Autre;Autre;USA;Boise Air Terminal;KBOI;-7;A;America/Denver;USD;US
+BXS;Borrego Springs;BXS;Autre;Autre;USA;Borrego Valley Airport;KBXS;-7;A;America/Los_Angeles;USD;US
+BOS;Boston;BOS;Autre;Autre;USA;General Edward Lawrence Logan Intl;KBOS;-5;A;America/New_York;USD;US
+BZN;Bozeman;BZN;Autre;Autre;USA;Gallatin Field;KBZN;-7;A;America/Denver;USD;US
+BFD;Bradford;BFD;Autre;Autre;USA;Bradford Regional Airport;KBFD;-5;A;America/New_York;USD;US
+BRD;Brainerd;BRD;Autre;Autre;USA;Brainerd Lakes Rgnl;KBRD;-6;U;America/Chicago;USD;US
+TRI;BRISTOL;TRI;Autre;Autre;USA;Tri-Cities Regional Airport;KTRI;-5;A;America/New_York;USD;US
+BKX;Brookings;BKX;Autre;Autre;USA;Brookings Regional Airport;BKX;-6;A;America/Chicago;USD;US
+BQK;Brunswick;BQK;Autre;Autre;USA;Brunswick Golden Isles Airport;KBQK;-5;A;America/New_York;USD;US
+BUF;Buffalo;BUF;Autre;Autre;USA;Buffalo Niagara Intl;KBUF;-5;A;America/New_York;USD;US
+BHC;Bullhead City, NV;BHC;Autre;Autre;USA;Bullhead City, NV Airport;;;;;USD;US
+BUR;Burbank;BUR;Autre;Autre;USA;Bob Hope;KBUR;-8;A;America/Los_Angeles;USD;US
+BRL;Burlington;BRL;Autre;Autre;USA;Southeast Iowa Regional Airport;KBRL;-6;A;America/Chicago;USD;US
+BTV;Burlington;BTV;Autre;Autre;USA;Burlington Intl;KBTV;-5;A;America/New_York;USD;US
+AGS;Bush Field;AGS;Autre;Autre;USA;Augusta Rgnl At Bush Fld;KAGS;-5;A;America/New_York;USD;US
+BTM;Butte;BTM;Autre;Autre;USA;Bert Mooney Airport;KBTM;-7;A;America/Denver;USD;US
+CLD;Carlsbad;CLD;Autre;Autre;USA;McClellan-Palomar Airport;KCRQ;-8;A;America/Los_Angeles;USD;US
+CPR;Casper;CPR;Autre;Autre;USA;Natrona Co Intl;KCPR;-7;A;America/Denver;USD;US
+CDC;Cedar City;CDC;Autre;Autre;USA;Cedar City Rgnl;KCDC;-7;A;America/Denver;USD;US
+CID;Cedar Rapids;CID;Autre;Autre;USA;Cedar Rapids;KCID;-6;A;America/Chicago;USD;US
+CMI;Champaign;CMI;Autre;Autre;USA;Champaign;KCMI;-6;A;America/Chicago;USD;US
+CHS;Charleston;CHS;Autre;Autre;USA;Charleston Afb Intl;KCHS;-5;A;America/New_York;USD;US
+CRW;Charleston;CRW;Autre;Autre;USA;Yeager;KCRW;-5;A;America/New_York;USD;US
+CLT;Charlotte;CLT;Autre;Autre;USA;Charlotte Douglas Intl;KCLT;-5;A;America/New_York;USD;US
+CHO;Charlottesville VA;CHO;Autre;Autre;USA;Charlottesville-Albemarle;KCHO;-5;A;America/New_York;USD;US
+CHA;Chattanooga;CHA;Autre;Autre;USA;Lovell Fld;KCHA;-5;A;America/New_York;USD;US
+CYS;Cheyenne, WY;CYS;Autre;Autre;USA;Cheyenne, WY Airport;;;;America/Denver;USD;US
+MDW;Chicago;CHI;Autre;Autre;USA;Chicago Midway Intl;KMDW;-6;A;America/Chicago;USD;US
+ORD;Chicago;CHI;Autre;Autre;USA;Chicago Ohare Intl;KORD;-6;A;America/Chicago;USD;US
+CHI;Chicago, IL;CHI;Autre;Autre;USA;Chicago, IL Airport;;;;America/Chicago;USD;US
+CIC;Chico;CIC;Autre;Autre;USA;Chico Muni;KCIC;-8;A;America/Los_Angeles;USD;US
+CVG;Cincinnati;CVG;Autre;Autre;USA;Cincinnati Northern Kentucky Intl;KCVG;-5;A;America/New_York;USD;US
+CKB;Clarksburg;CKB;Autre;Autre;USA;Harrison Marion Regional Airport;KCKB;-5;A;America/New_York;USD;US
+CLE;Cleveland;CLE;Autre;Autre;USA;Cleveland Hopkins Intl;KCLE;-5;A;America/New_York;USD;US
+BKL;Cleveland, Burke Lakefront, OH;BKL;Autre;Autre;USA;Cleveland, Burke Lakefront, OH Airport;;;;America/New_York;USD;US
+CLJ;Clintonville;CLI;Autre;Autre;USA;Clintonville Airport;KCLI;-6;A;Europe/Bucharest;USD;US
+COD;Cody;COD;Autre;Autre;USA;Yellowstone Rgnl;KCOD;-7;A;America/Denver;USD;US
+KCC;Coffman Cove;KCC;Autre;Autre;USA;Coffman Cove Seaplane Base;N/A;-9;A;America/Anchorage;USD;US
+CLL;College Station;CLL;Autre;Autre;USA;Easterwood Fld;KCLL;-6;A;America/Chicago;USD;US
+CAE;Colombia;CAE;Autre;Autre;USA;Columbia Metropolitan;KCAE;-5;A;America/New_York;USD;US
+COS;Colorado Springs;COS;Autre;Autre;USA;City Of Colorado Springs Muni;KCOS;-7;A;America/Denver;USD;US
+CMH;Columbus;CMH;Autre;Autre;USA;Port Columbus Intl;KCMH;-5;A;America/New_York;USD;US
+CSG;Columbus;CSG;Autre;Autre;USA;Columbus Metropolitan Airport;KCSG;-5;A;America/New_York;USD;US
+CCR;Concord;CCR;Autre;Autre;USA;Buchanan Field Airport;KCCR;-8;A;America/Los_Angeles;USD;US
+CDV;Cordova;CDV;Autre;Autre;USA;Merle K Mudhole Smith;PACV;-9;A;America/Anchorage;USD;US
+CRP;Corpus Christi;CRP;Autre;Autre;USA;Corpus Christi Intl;KCRP;-6;A;America/Chicago;USD;US
+CGA;Craig;CGA;Autre;Autre;USA;Craig Seaplane Base;N/A;-9;A;America/Anchorage;USD;US
+CEC;Crescent City;CEC;Autre;Autre;USA;Del Norte County Airport;KCEC;-8;A;America/Los_Angeles;USD;US
+DAL;Dallas;DAL;Autre;Autre;USA;Dallas Love Fld;KDAL;-6;A;America/Chicago;USD;US
+DFW;Dallas-fort Worth;DAL;Autre;Autre;USA;Dallas Fort Worth Intl;KDFW;-6;A;America/Chicago;USD;US
+DAN;Danville, VA;DAN;Autre;Autre;USA;Danville, VA Airport;;;;;USD;US
+DAY;Dayton;DAY;Autre;Autre;USA;James M Cox Dayton Intl;KDAY;-5;A;America/New_York;USD;US
+VLA;Vandalia;VLA;Autre;Autre;USA;Vandalia municipal airport;KVLA;-6;A;America/Chicago;USD;US
+DAB;Daytona Beach;DAB;Autre;Autre;USA;Daytona Beach Intl;KDAB;-5;A;America/New_York;USD;US
+SCC;Deadhorse;SCC;Autre;Autre;USA;Deadhorse;PASC;-9;A;America/Anchorage;USD;US
+DEC;Decatur;DEC;Autre;Autre;USA;Decatur;KDEC;-6;A;America/Chicago;USD;US
+DEN;Denver;DEN;Autre;Autre;USA;Denver Intl;KDEN;-7;A;America/Denver;USD;US
+DSM;Des Moines;DSM;Autre;Autre;USA;Des Moines Intl;KDSM;-6;A;America/Chicago;USD;US
+DET;Detroit;DET;Autre;Autre;USA;Coleman A Young Muni;KDET;-5;A;America/New_York;USD;US
+DTW;Detroit;DET;Autre;Autre;USA;Detroit Metro Wayne Co;KDTW;-5;A;America/New_York;USD;US
+DTT;Detroit Metropolitan Area, MI;DTT;Autre;Autre;USA;Detroit Metropolitan Area, MI Airport;;;;;USD;US
+DVL;Devils Lake;DVL;Autre;Autre;USA;Devils Lake Regional Airport;KDVL;-6;A;America/Chicago;USD;US
+DLG;Dillingham;DLG;Autre;Autre;USA;Dillingham;PADL;-9;A;America/Anchorage;USD;US
+DHN;Dothan;DHN;Autre;Autre;USA;Dothan Rgnl;KDHN;-6;A;America/Chicago;USD;US
+DUJ;Du Bois;DUJ;Autre;Autre;USA;DuBois Regional Airport;KDUJ;-5;A;America/New_York;USD;US
+DBQ;Dubuque IA;DBQ;Autre;Autre;USA;Dubuque Rgnl;KDBQ;-6;A;America/Chicago;USD;US
+DLH;Duluth;DLH;Autre;Autre;USA;Duluth Intl;KDLH;-6;A;America/Chicago;USD;US
+DRO;Durango;DRO;Autre;Autre;USA;Durango La Plata Co;KDRO;-7;A;America/Denver;USD;US
+EAU;Eau Claire;EAU;Autre;Autre;USA;Chippewa Valley Regional Airport;KEAU;-6;A;America/Chicago;USD;US
+ELP;El Paso;ELP;Autre;Autre;USA;El Paso Intl;KELP;-7;A;America/Denver;USD;US
+EKI;Elkhart, IN;EKI;Autre;Autre;USA;Elkhart, IN Airport;;;;America/New_York;USD;US
+EKO;Elko;EKO;Autre;Autre;USA;Elko Regional Airport;KEKO;-8;A;America/Los_Angeles;USD;US
+ELM;Elmira;ELM;Autre;Autre;USA;Elmira Corning Rgnl;KELM;-5;A;America/New_York;USD;US
+ELY;Ely;ELY;Autre;Autre;USA;Ely Airport;KELY;-8;A;America/Los_Angeles;USD;US
+ERI;Erie;ERI;Autre;Autre;USA;Erie Intl Tom Ridge Fld;KERI;-5;A;America/New_York;USD;US
+ESC;Escanaba;ESC;Autre;Autre;USA;Delta County Airport;KESC;-5;A;America/New_York;USD;US
+EUG;Eugene;EUG;Autre;Autre;USA;Mahlon Sweet Fld;KEUG;-8;A;America/Los_Angeles;USD;US
+EVV;Evansville;EVV;Autre;Autre;USA;Evansville Regional;KEVV;-6;A;America/Chicago;USD;US
+FAI;Fairbanks;FAI;Autre;Autre;USA;Fairbanks Intl;PAFA;-9;A;America/Anchorage;USD;US
+FAR;Fargo;FAR;Autre;Autre;USA;Hector International Airport;KFAR;-6;A;America/Chicago;USD;US
+FMN;Farmington;FMN;Autre;Autre;USA;Four Corners Rgnl;KFMN;-7;A;America/Denver;USD;US
+FAY;Fayetteville;FAY;Autre;Autre;USA;Fayetteville Regional Grannis Field;KFAY;-5;A;America/New_York;USD;US
+FYV;Fayetteville;FYV;Autre;Autre;USA;Drake Fld;KFYV;-6;A;America/Chicago;USD;US
+XNA;Fayetteville;XNA;Autre;Autre;USA;Northwest Arkansas Regional Airport;KXNA;-6;A;America/Chicago;USD;US
+FLG;Flagstaff;FLG;Autre;Autre;USA;Flagstaff Pulliam Airport;KFLG;-7;N;America/Phoenix;USD;US
+FNT;Flint;FNT;Autre;Autre;USA;Bishop International;KFNT;-5;A;America/New_York;USD;US
+FLO;Florence;FLO;Autre;Autre;USA;Florence Rgnl;KFLO;-5;A;America/New_York;USD;US
+FOD;Fort Dodge;FOD;Autre;Autre;USA;Fort Dodge Rgnl;KFOD;-6;A;America/Chicago;USD;US
+FHU;Fort Huachuca;FHU;Autre;Autre;USA;Sierra Vista Muni Libby Aaf;KFHU;-7;A;America/Phoenix;USD;US
+FLL;Fort Lauderdale;FLL;Autre;Autre;USA;Fort Lauderdale Hollywood Intl;KFLL;-5;A;America/New_York;USD;US
+FMY;Fort Myers;FMY;Autre;Autre;USA;Page Fld;KFMY;-5;A;America/New_York;USD;US
+RSW;Fort Myers;FMY;Autre;Autre;USA;Southwest Florida Intl;KRSW;-5;A;America/New_York;USD;US
+FSM;Fort Smith;FSM;Autre;Autre;USA;Fort Smith Rgnl;KFSM;-6;A;America/Chicago;USD;US
+FWA;Fort Wayne;FWA;Autre;Autre;USA;Fort Wayne;KFWA;-5;A;America/New_York;USD;US
+FKL;Franklin;FKL;Autre;Autre;USA;Franklin;KFKL;-5;A;America/New_York;USD;US
+FAT;Fresno;FAT;Autre;Autre;USA;Fresno Yosemite Intl;KFAT;-8;A;America/Los_Angeles;USD;US
+GAD;Gadsden;GAD;Autre;Autre;USA;Northeast Alabama Regional Airport;KGAD;-5;A;America/Chicago;USD;US
+GNV;Gainesville;GNV;Autre;Autre;USA;Gainesville Rgnl;KGNV;-5;A;America/New_York;USD;US
+GCC;Gillette;GCC;Autre;Autre;USA;Gillette-Campbell County Airport;KGCC;-7;A;America/Denver;USD;US
+GGW;Glasgow;GGW;Autre;Autre;USA;Wokal Field Glasgow International Airport;KGGW;-7;A;America/Denver;USD;US
+GDV;Glendive;GDV;Autre;Autre;USA;Dawson Community Airport;KGDV;-7;A;America/Denver;USD;US
+GYR;Goodyear;GYR;Autre;Autre;USA;Phoenix-Goodyear Municipal Airport;N/A;-7;N/A;America/Phoenix;USD;US
+GCN;Grand Canyon;GCN;Autre;Autre;USA;Grand Canyon National Park Airport;KGCN;-7;N;America/Phoenix;USD;US
+GFK;Grand Forks;GFK;Autre;Autre;USA;Grand Forks Intl;KGFK;-6;A;America/Chicago;USD;US
+GJT;Grand Junction;GJT;Autre;Autre;USA;Grand Junction Regional;KGJT;-7;A;America/Denver;USD;US
+GRR;Grand Rapids;GRR;Autre;Autre;USA;Gerald R Ford Intl;KGRR;-5;A;America/New_York;USD;US
+GPZ;Grand Rapids MN;GPZ;Autre;Autre;USA;Grand Rapids Itasca County;KGPZ;-6;A;America/Chicago;USD;US
+MWH;Grant County Airport;MWH;Autre;Autre;USA;Grant Co Intl;KMWH;-8;A;America/Los_Angeles;USD;US
+GTF;Great Falls;GTF;Autre;Autre;USA;Great Falls Intl;KGTF;-7;A;America/Denver;USD;US
+GRB;Green Bay;GRB;Autre;Autre;USA;Austin Straubel Intl;KGRB;-6;A;America/Chicago;USD;US
+GSO;Greensboro;GSO;Autre;Autre;USA;Piedmont Triad;KGSO;-5;A;America/New_York;USD;US
+GLH;Greenville;GLH;Autre;Autre;USA;Mid Delta Regional Airport;GLH;-6;A;America/Chicago;USD;US
+GSP;Greenville;GSP;Autre;Autre;USA;Greenville-Spartanburg International;KGSP;-5;A;America/New_York;USD;US
+PGV;Greenville;PGV;Autre;Autre;USA;Pitt-Greenville Airport;KPGV;-5;A;America/New_York;USD;US
+GON;Groton CT;GON;Autre;Autre;USA;Groton New London;KGON;-5;A;America/New_York;USD;US
+GPT;Gulfport;GPT;Autre;Autre;USA;Gulfport-Biloxi;KGPT;-6;A;America/Chicago;USD;US
+GUC;Gunnison;GUC;Autre;Autre;USA;Gunnison - Crested Butte;KGUC;-7;A;America/Denver;USD;US
+SUN;Hailey;SUN;Autre;Autre;USA;Friedman Mem;KSUN;-7;A;America/Denver;USD;US
+HNS;Haines;HNS;Autre;Autre;USA;Haines Airport;PAHN;-9;A;America/Anchorage;USD;US
+CMX;Hancock;CMX;Autre;Autre;USA;Houghton County Memorial Airport;KCMX;-5;A;America/New_York;USD;US
+HRL;Harlingen;HRL;Autre;Autre;USA;Valley Intl;KHRL;-6;A;America/Chicago;USD;US
+MDT;Harrisburg;HAR;Autre;Autre;USA;Harrisburg Intl;KMDT;-5;A;America/New_York;USD;US
+HAR;Harrisburg, PA - Harrisburg Skyport;HAR;Autre;Autre;USA;Harrisburg, PA - Harrisburg Skyport Airport;;;;;USD;US
+PIB;Hattiesburg/Laurel;PIB;Autre;Autre;USA;Hattiesburg Laurel Regional Airport;KPIB;-6;A;America/Chicago;USD;US
+HVR;Havre;HVR;Autre;Autre;USA;Havre City Co;KHVR;-7;A;America/Denver;USD;US
+HDN;Hayden;HDN;Autre;Autre;USA;Yampa Valley;KHDN;-7;A;America/Denver;USD;US
+HLN;Helena;HLN;Autre;Autre;USA;Helena Rgnl;KHLN;-7;A;America/Denver;USD;US
+HIB;Hibbing;HIB;Autre;Autre;USA;Chisholm Hibbing;KHIB;-6;A;America/Chicago;USD;US
+HKY;Hickory;HKY;Autre;Autre;USA;Hickory Rgnl;KHKY;-5;A;America/New_York;USD;US
+ITO;Hilo;ITO;Autre;Autre;USA;Hilo Intl;PHTO;-10;N;Pacific/Honolulu;USD;US
+HHH;Hilton Head;HHH;Autre;Autre;USA;Hilton Head;KHHH;-5;U;America/New_York;USD;US
+HOM;Homer;HOM;Autre;Autre;USA;Homer;PAHO;-9;A;America/Anchorage;USD;US
+HNL;Honolulu;HNL;Autre;Autre;USA;Honolulu Intl;PHNL;-10;N;Pacific/Honolulu;USD;US
+HNH;Hoonah;HNH;Autre;Autre;USA;Hoonah Airport;PAOH;-9;A;America/Anchorage;USD;US
+HOU;Houston;HOU;Autre;Autre;USA;William P Hobby;KHOU;-6;A;America/Chicago;USD;US
+IAH;Houston;HOU;Autre;Autre;USA;George Bush Intcntl Houston;KIAH;-6;A;America/Chicago;USD;US
+HTS;Huntington;HTS;Autre;Autre;USA;Tri State Milton J Ferguson Field;KHTS;-5;A;America/New_York;USD;US
+HSV;Huntsville;HSV;Autre;Autre;USA;Huntsville International Airport-Carl T Jones Field;KHSV;-6;A;America/Chicago;USD;US
+HON;Huron;HON;Autre;Autre;USA;Huron Rgnl;KHON;-6;A;America/Chicago;USD;US
+HYG;Hydaburg;HYG;Autre;Autre;USA;Hydaburg Seaplane Base;PAHY;-9;A;America/Anchorage;USD;US
+IDA;Idaho Falls;IDA;Autre;Autre;USA;Idaho Falls Rgnl;KIDA;-7;A;America/Denver;USD;US
+ILI;Iliamna;ILI;Autre;Autre;USA;Iliamna;PAIL;-9;A;America/Anchorage;USD;US
+IPL;Imperial;IPL;Autre;Autre;USA;Imperial Co;KIPL;-8;A;America/Los_Angeles;USD;US
+IND;Indianapolis;IND;Autre;Autre;USA;Indianapolis Intl;KIND;-5;A;America/New_York;USD;US
+INL;International Falls;INL;Autre;Autre;USA;Falls Intl;KINL;-6;A;America/Chicago;USD;US
+IYK;Inyokern;IYK;Autre;Autre;USA;Inyokern Airport;KIYK;-8;A;America/Los_Angeles;USD;US
+ISP;Islip;ISP;Autre;Autre;USA;Long Island Mac Arthur;KISP;-5;A;America/New_York;USD;US
+ITH;Ithaca;ITH;Autre;Autre;USA;Ithaca Tompkins Rgnl;KITH;-5;A;America/New_York;USD;US
+JAC;Jacksn Hole;JAC;Autre;Autre;USA;Jackson Hole Airport;KJAC;-7;A;America/Denver;USD;US
+JAN;Jackson;JAN;Autre;Autre;USA;Jackson Evers Intl;KJAN;-6;A;America/Chicago;USD;US
+MKL;Jackson;MKL;Autre;Autre;USA;Mc Kellar Sipes Rgnl;KMKL;-6;A;America/Chicago;USD;US
+JXN;Jackson, MI;JXN;Autre;Autre;USA;Jackson, MI Airport;;;;America/New_York;USD;US
+JAX;Jacksonville;JAX;Autre;Autre;USA;Jacksonville Intl;KJAX;-5;A;America/New_York;USD;US
+OAJ;Jacksonville NC;OAJ;Autre;Autre;USA;Albert J Ellis;KOAJ;-5;A;America/New_York;USD;US
+JHW;Jamestown;JHW;Autre;Autre;USA;Chautauqua County-Jamestown;KJHW;-5;A;America/New_York;USD;US
+JMS;Jamestown;JMS;Autre;Autre;USA;Jamestown Regional Airport;KJMS;-6;A;America/Chicago;USD;US
+JST;Johnstown;JST;Autre;Autre;USA;John Murtha Johnstown-Cambria County Airport;KJST;-5;A;America/New_York;USD;US
+JLN;Joplin;JLN;Autre;Autre;USA;Joplin Rgnl;KJLN;-6;A;America/Chicago;USD;US
+JNU;Juneau;JNU;Autre;Autre;USA;Juneau Intl;PAJN;-9;A;America/Anchorage;USD;US
+OGG;Kahului;OGG;Autre;Autre;USA;Kahului;PHOG;-10;N;Pacific/Honolulu;USD;US
+AZO;Kalamazoo;AZO;Autre;Autre;USA;Kalamazoo;KAZO;-5;A;America/New_York;USD;US
+FCA;Kalispell;FCA;Autre;Autre;USA;Glacier Park Intl;KFCA;-7;A;America/Denver;USD;US
+MUE;Kamuela, HI;MUE;Autre;Autre;USA;Kamuela, HI Airport;;;;Pacific/Honolulu;USD;US
+MCI;Kansas City;MCI;Autre;Autre;USA;Kansas City Intl;KMCI;-6;A;America/Chicago;USD;US
+LYO;Lyons;MCI;Autre;Autre;USA;Rice County/ Lyons Municipal Airport;KLYO;-6;A;America/Chicago;USD;US
+ENA;Kenai;ENA;Autre;Autre;USA;Kenai Muni;PAEN;-9;A;America/Anchorage;USD;US
+KTN;Ketchikan;KTN;Autre;Autre;USA;Ketchikan Intl;PAKT;-9;A;America/Anchorage;USD;US
+EYW;Key West;EYW;Autre;Autre;USA;Key West Intl;KEYW;-5;A;America/New_York;USD;US
+ILE;Killeem, TX;ILE;Autre;Autre;USA;Killeem, TX Airport;;;;;USD;US
+AKN;King Salmon;AKN;Autre;Autre;USA;King Salmon;PAKN;-9;A;America/Anchorage;USD;US
+ISO;Kinston;ISO;Autre;Autre;USA;Kinston Regional Jetport;KISO;7;A;America/New_York;USD;US
+LMT;Klamath Falls;LMT;Autre;Autre;USA;Klamath Falls Airport;KLMT;-8;A;America/Los_Angeles;USD;US
+KLW;Klawock;KLW;Autre;Autre;USA;Klawock Airport;PAKW;-9;A;America/Anchorage;USD;US
+TYS;Knoxville;TYS;Autre;Autre;USA;Mc Ghee Tyson;KTYS;-5;A;America/New_York;USD;US
+ADQ;Kodiak;ADQ;Autre;Autre;USA;Kodiak;PADQ;-9;A;America/Anchorage;USD;US
+KOA;Kona;KOA;Autre;Autre;USA;Kona Intl At Keahole;PHKO;-10;N;Pacific/Honolulu;USD;US
+OTZ;Kotzebue;OTZ;Autre;Autre;USA;Ralph Wien Mem;PAOT;-9;A;America/Anchorage;USD;US
+WLB;Labouchere Bay, AK;WLB;Autre;Autre;USA;Labouchere Bay, AK Airport;;;;;USD;US
+LSE;LaCrosse;LSE;Autre;Autre;USA;LaCrosse Municipal;KLSE;-6;A;America/Chicago;USD;US
+LAF;Lafayette;LAF;Autre;Autre;USA;Purude University Airport;N/A;-5;U;America/New_York;USD;US
+LFT;Lafayette;LFT;Autre;Autre;USA;Lafayette Rgnl;KLFT;-6;A;America/Chicago;USD;US
+JHM;Lahania-kapalua;JHM;Autre;Autre;USA;Kapalua;PHJH;-10;A;Pacific/Honolulu;USD;US
+LCH;Lake Charles;LCH;Autre;Autre;USA;Lake Charles Rgnl;KLCH;-6;A;America/Chicago;USD;US
+HII;Lake Havasu City;HII;Autre;Autre;USA;Lake Havasu City Airport;KHII;-7;N;America/Phoenix;USD;US
+LNY;Lanai;LNY;Autre;Autre;USA;Lanai;PHNY;-10;N;Pacific/Honolulu;USD;US
+LNS;Lancaster;LNS;Autre;Autre;USA;Lancaster Airport;KLNS;-5;A;America/New_York;USD;US
+LAN;Lansing;LAN;Autre;Autre;USA;Capital City;KLAN;-5;A;America/New_York;USD;US
+LAR;Laramie;LAR;Autre;Autre;USA;Laramie Regional Airport;KLAR;-7;A;America/Denver;USD;US
+LRD;Laredo;LRD;Autre;Autre;USA;Laredo Intl;KLRD;-6;A;America/Chicago;USD;US
+LAS;Las Vegas;LAS;Autre;Autre;USA;Mc Carran Intl;KLAS;-8;A;America/Los_Angeles;USD;US
+LBE;Latrobe;LBE;Autre;Autre;USA;Arnold Palmer Regional Airport;KLBE;-5;A;America/New_York;USD;US
+LAW;Lawton;LAW;Autre;Autre;USA;Lawton-Fort Sill Regional Airport;KLAW;-6;A;America/Chicago;USD;US
+LEB;Lebanon;LEB;Autre;Autre;USA;Lebanon Municipal Airport;KLEB;-5;A;America/New_York;USD;US
+LWB;Lewisburg;LWB;Autre;Autre;USA;Greenbrier Valley Airport;KLWB;-5;U;America/New_York;USD;US
+LWS;Lewiston;LWS;Autre;Autre;USA;Lewiston Nez Perce Co;KLWS;-8;A;America/Los_Angeles;USD;US
+LWT;Lewistown;LWT;Autre;Autre;USA;Lewistown Municipal Airport;KLWT;-7;A;America/Denver;USD;US
+LEX;Lexington KY;LEX;Autre;Autre;USA;Blue Grass;KLEX;-5;A;America/New_York;USD;US
+LIH;Lihue;LIH;Autre;Autre;USA;Lihue;PHLI;-10;N;Pacific/Honolulu;USD;US
+LNK;Lincoln;LNK;Autre;Autre;USA;Lincoln;KLNK;-6;A;America/Chicago;USD;US
+LIT;Little Rock;LIT;Autre;Autre;USA;Adams Fld;KLIT;-6;A;America/Chicago;USD;US
+LGB;Long Beach;LGB;Autre;Autre;USA;Long Beach;KLGB;-8;A;America/Los_Angeles;USD;US
+LIJ;Long Island, AK;LIJ;Autre;Autre;USA;Long Island, AK Airport;;;;;USD;US
+GGG;Longview;GGG;Autre;Autre;USA;East Texas Rgnl;KGGG;-6;A;America/Chicago;USD;US
+LAX;Los Angeles;LAX;Autre;Autre;USA;Los Angeles Intl;KLAX;-8;A;America/Los_Angeles;USD;US
+SDF;Louisville;SDF;Autre;Autre;USA;Louisville International Airport;KSDF;-5;A;America/New_York;USD;US
+LBB;Lubbock;LBB;Autre;Autre;USA;Lubbock Preston Smith Intl;KLBB;-6;A;America/Chicago;USD;US
+LYH;Lynchburg;LYH;Autre;Autre;USA;Lynchburg Regional Preston Glenn Field;KLYH;-5;A;America/New_York;USD;US
+MCN;Macon;MCN;Autre;Autre;USA;Middle Georgia Rgnl;KMCN;-5;A;America/New_York;USD;US
+MSN;Madison;MSN;Autre;Autre;USA;Dane Co Rgnl Truax Fld;KMSN;-6;A;America/Chicago;USD;US
+MHT;Manchester NH;MHT;Autre;Autre;USA;Manchester Regional Airport;KMHT;-5;A;America/New_York;USD;US
+MHK;Manhattan;MHK;Autre;Autre;USA;Manhattan Regional Airport;KMHK;-6;A;America/Chicago;USD;US
+MTH;Marathon;MTH;Autre;Autre;USA;Florida Keys Marathon Airport;KMTH;-5;A;America/New_York;USD;US
+MQT;Marquette;MQT;Autre;Autre;USA;Sawyer International Airport;KMQT;-5;A;America/New_York;USD;US
+MCW;Mason City;MCW;Autre;Autre;USA;Mason City Municipal;KMCW;-5;A;America/Chicago;USD;US
+MTO;Mattoon, IL;MTO;Autre;Autre;USA;Mattoon, IL Airport;;;;;USD;US
+MRC;Maury County;MRC;Autre;Autre;USA;Maury County Airport;KMRC;-6;A;America/Chicago;USD;US
+MFE;Mcallen;MFE;Autre;Autre;USA;Mc Allen Miller Intl;KMFE;-6;A;America/Chicago;USD;US
+MCL;McKinley Park;MCL;Autre;Autre;USA;McKinley National Park Airport;PAIN;-8;A;America/Anchorage;USD;US
+MFR;Medford;MFR;Autre;Autre;USA;Rogue Valley Intl Medford;KMFR;-8;A;America/Los_Angeles;USD;US
+MLB;Melbourne;MLB;Autre;Autre;USA;Melbourne Intl;KMLB;-5;A;America/New_York;USD;US
+MEM;Memphis;MEM;Autre;Autre;USA;Memphis Intl;KMEM;-6;A;America/Chicago;USD;US
+MCE;Merced;MCE;Autre;Autre;USA;Merced Municipal Airport;KMCE;-8;A;America/Los_Angeles;USD;US
+MEI;Meridian;MEI;Autre;Autre;USA;Key Field;KMEI;-6;A;America/Chicago;USD;US
+MTM;Metakatla;MTM;Autre;Autre;USA;Metlakatla Seaplane Base;PAMM;-9;A;America/Anchorage;USD;US
+MIA;Miami;MIA;Autre;Autre;USA;Miami Intl;KMIA;-5;A;America/New_York;USD;US
+MAF;Midland;MAF;Autre;Autre;USA;Midland Intl;KMAF;-6;A;America/Chicago;USD;US
+MLS;Miles City;MLS;Autre;Autre;USA;Frank Wiley Field;KMLS;-7;A;America/Denver;USD;US
+MKE;Milwaukee;MKE;Autre;Autre;USA;General Mitchell Intl;KMKE;-6;A;America/Chicago;USD;US
+MSP;Minneapolis;MSP;Autre;Autre;USA;Minneapolis St Paul Intl;KMSP;-6;A;America/Chicago;USD;US
+MOT;Minot;MOT;Autre;Autre;USA;Minot Intl;KMOT;-6;A;America/Chicago;USD;US
+MSO;Missoula;MSO;Autre;Autre;USA;Missoula Intl;KMSO;-7;A;America/Denver;USD;US
+MHE;Mitchell, SD;MHE;Autre;Autre;USA;Mitchell, SD Airport;;;;;USD;US
+MOB;Mobile;MOB;Autre;Autre;USA;Mobile Rgnl;KMOB;-6;A;America/Chicago;USD;US
+MOD;Modesto;MOD;Autre;Autre;USA;Modesto City Co Harry Sham;KMOD;-8;A;America/Los_Angeles;USD;US
+MHV;Mojave;MHV;Autre;Autre;USA; Mojave Air and space port;KMHV;N/A;N/A;America/Los_Angeles;USD;US
+MLI;Moline;MLI;Autre;Autre;USA;Quad City Intl;KMLI;-6;A;America/Chicago;USD;US
+MKK;Molokai;MKK;Autre;Autre;USA;Molokai;PHMK;-10;N;Pacific/Honolulu;USD;US
+MLU;Monroe;MLU;Autre;Autre;USA;Monroe Rgnl;KMLU;-6;A;America/Chicago;USD;US
+MRY;Monterey;MRY;Autre;Autre;USA;Monterey Peninsula;KMRY;-8;A;America/Los_Angeles;USD;US
+MGM;MONTGOMERY;MGM;Autre;Autre;USA;Montgomery Regional Airport ;KMGM;-6;A;America/Chicago;USD;US
+MTJ;Montrose CO;MTJ;Autre;Autre;USA;Montrose Regional Airport;KMTJ;-7;A;America/Denver;USD;US
+MGW;Morgantown;MGW;Autre;Autre;USA;Morgantown Muni Walter L Bill Hart Fld;KMGW;-5;A;America/New_York;USD;US
+MSL;Muscle Shoals;MSL;Autre;Autre;USA;Northwest Alabama Regional Airport;KMSL;-6;A;America/Chicago;USD;US
+MKG;Muskegon;MKG;Autre;Autre;USA;Muskegon County Airport;KMKG;-5;A;America/New_York;USD;US
+MYR;Myrtle Beach;MYR;Autre;Autre;USA;Myrtle Beach Intl;KMYR;-5;A;America/New_York;USD;US
+ACK;Nantucket;ACK;Autre;Autre;USA;Nantucket Mem;KACK;-5;A;America/New_York;USD;US
+APF;Naples;APF;Autre;Autre;USA;Naples Muni;KAPF;-5;A;America/New_York;USD;US
+BNA;Nashville;BNA;Autre;Autre;USA;Nashville Intl;KBNA;-6;A;America/Chicago;USD;US
+EWN;New Bern;EWN;Autre;Autre;USA;Craven Co Rgnl;KEWN;-5;A;America/New_York;USD;US
+HVN;New Haven;HVN;Autre;Autre;USA;Tweed-New Haven Airport;KHVN;-5;A;America/New_York;USD;US
+MSY;New Orleans;MSY;Autre;Autre;USA;Louis Armstrong New Orleans Intl;KMSY;-6;A;America/Chicago;USD;US
+JFK;New York;NYC;Autre;Autre;USA;John F Kennedy Intl;KJFK;-5;A;America/New_York;USD;US
+LGA;New York;NYC;Autre;Autre;USA;La Guardia;KLGA;-5;A;America/New_York;USD;US
+EWR;Newark;NYC;Autre;Autre;USA;Newark Liberty Intl;KEWR;-5;A;America/New_York;USD;US
+SWF;Newburgh;SWF;Autre;Autre;USA;Stewart Intl;KSWF;-5;A;America/New_York;USD;US
+PHF;Newport News;PHF;Autre;Autre;USA;Newport News Williamsburg Intl;KPHF;-5;A;America/New_York;USD;US
+IAG;Niagara Falls Int'l;IAG;Autre;Autre;USA;Niagara Falls Int'l Airport;;;;America/New_York;USD;US
+OME;Nome;OME;Autre;Autre;USA;Nome;PAOM;-9;A;America/Anchorage;USD;US
+ORF;Norfolk;ORF;Autre;Autre;USA;Norfolk Intl;KORF;-5;A;America/New_York;USD;US
+OTH;North Bend;OTH;Autre;Autre;USA;Southwest Oregon Regional Airport;KOTH;-8;A;America/Los_Angeles;USD;US
+OAK;Oakland;OAK;Autre;Autre;USA;Metropolitan Oakland Intl;KOAK;-8;A;America/Los_Angeles;USD;US
+OKC;Oklahoma City;OKC;Autre;Autre;USA;Will Rogers World;KOKC;-6;A;America/Chicago;USD;US
+OMA;Omaha;OMA;Autre;Autre;USA;Eppley Afld;KOMA;-6;A;America/Chicago;USD;US
+ONT;Ontario;ONT;Autre;Autre;USA;Ontario Intl;KONT;-8;A;America/Los_Angeles;USD;US
+MCO;Orlando;MCO;Autre;Autre;USA; Orlando International ;KMCO;-5;A;America/New_York;USD;US
+ORL;Orlando;ORL;Autre;Autre;USA;Executive;KORL;-5;A;America/New_York;USD;US
+OSH;Oshkosh;OSH;Autre;Autre;USA;Wittman Regional Airport;KOSH;-5;A;America/Chicago;USD;US
+OWB;Owensboro;OWB;Autre;Autre;USA;Owensboro Daviess County Airport;KOWB;-6;A;America/Chicago;USD;US
+OXR;Oxnard;OXR;Autre;Autre;USA;Oxnard - Ventura County;KOXR;-8;A;America/Los_Angeles;USD;US
+PAH;PADUCAH;PAH;Autre;Autre;USA;Barkley Regional Airport;KPAH;-6;A;America/Chicago;USD;US
+PGA;Page;PGA;Autre;Autre;USA;Page Municipal Airport;KPGA;-7;A;America/Denver;USD;US
+PSP;Palm Springs;PSP;Autre;Autre;USA;Palm Springs Intl;KPSP;-8;A;America/Los_Angeles;USD;US
+PMD;Palmdale;PMD;Autre;Autre;USA;Palmdale Rgnl Usaf Plt 42;KPMD;-8;A;America/Los_Angeles;USD;US
+ECP;Panama City;ECP;Autre;Autre;USA;Panama City Bay Co Intl;KECP;-6;A;America/Chicago;USD;US
+PFN;Panama City;PFN;Autre;Autre;USA;Panama City Bay Co Intl;KPFN;-6;A;America/Chicago;USD;US
+PKB;PARKERSBURG;PKB;Autre;Autre;USA;Mid-Ohio Valley Regional Airport;KPKB;-5;A;America/New_York;USD;US
+PSC;Pasco;PSC;Autre;Autre;USA;Tri Cities Airport;PSC;-8;A;America/Los_Angeles;USD;US
+PLN;Pellston;PLN;Autre;Autre;USA;Pellston Regional Airport of Emmet County Airport;KPLN;-5;A;America/New_York;USD;US
+PDT;Pendleton;PDT;Autre;Autre;USA;Eastern Oregon Regional Airport;KPDT;-7;A;America/Los_Angeles;USD;US
+PNS;Pensacola;PNS;Autre;Autre;USA;Pensacola Rgnl;KPNS;-6;A;America/Chicago;USD;US
+PIA;Peoria;PIA;Autre;Autre;USA;Peoria Regional;KPIA;-6;A;America/Chicago;USD;US
+PSG;Petersburg;PSG;Autre;Autre;USA;Petersburg James A. Johnson;PAPG;-9;A;America/Anchorage;USD;US
+PHL;Philadelphia;PHL;Autre;Autre;USA;Philadelphia Intl;KPHL;-5;A;America/New_York;USD;US
+PHX;Phoenix;PHX;Autre;Autre;USA;Phoenix Sky Harbor Intl;KPHX;-7;N;America/Phoenix;USD;US
+PIR;Pierre;PIR;Autre;Autre;USA;Pierre Regional Airport;KPIR;-6;A;America/Chicago;USD;US
+PIT;Pittsburgh (pennsylva);PIT;Autre;Autre;USA;Pittsburgh Intl;KPIT;-5;A;America/New_York;USD;US
+PBG;Plattsburgh;PBG;Autre;Autre;USA;Plattsburgh International Airport;KPBG;-5;A;America/New_York;USD;US
+PLB;Plattsburgh, NY;PLB;Autre;Autre;USA;Plattsburgh, NY Airport;;;;;USD;US
+PIH;Pocatello;PIH;Autre;Autre;USA;Pocatello Regional Airport;KPIH;-7;A;America/Denver;USD;US
+CLM;Port Angeles;CLM;Autre;Autre;USA;William R Fairchild International Airport;KCLM;-8;A;America/Los_Angeles;USD;US
+PDX;Portland;PDX;Autre;Autre;USA;Portland Intl;KPDX;-8;A;America/Los_Angeles;USD;US
+PWM;Portland;PWM;Autre;Autre;USA;Portland Intl Jetport;KPWM;-5;A;America/New_York;USD;US
+POU;Poughkeepsie, NY;POU;Autre;Autre;USA;Poughkeepsie, NY Airport;;;;;USD;US
+PQI;Presque Isle;PQI;Autre;Autre;USA;Northern Maine Rgnl At Presque Isle;KPQI;-4;A;America/New_York;USD;US
+PVD;Providence;PVD;Autre;Autre;USA;Theodore Francis Green State;KPVD;-5;A;America/New_York;USD;US
+PUB;Pueblo Memorial;PUB;Autre;Autre;USA;Pueblo Mem;KPUB;-7;A;America/Denver;USD;US
+PUW;Pullman;PUW;Autre;Autre;USA;Pullman-Moscow Rgnl;KPUW;-8;A;America/Los_Angeles;USD;US
+UIN;Quincy;UIN;Autre;Autre;USA;Quincy Regional Baldwin Field;KUIN;-6;A;America/Chicago;USD;US
+RDU;Raleigh-durham;RDU;Autre;Autre;USA;Raleigh Durham Intl;KRDU;-5;A;America/New_York;USD;US
+RAP;Rapid City;RAP;Autre;Autre;USA;Rapid City Regional Airport;KRAP;-7;A;America/Denver;USD;US
+RDG;Reading;RDG;Autre;Autre;USA;Reading Regional Carl A Spaatz Field;KRDG;-5;A;America/New_York;USD;US
+RDD;Redding;RDD;Autre;Autre;USA;Redding Muni;KRDD;-8;A;America/Los_Angeles;USD;US
+RDM;Redmond-Bend;RDM;Autre;Autre;USA;Roberts Fld;KRDM;-8;A;America/Los_Angeles;USD;US
+RNO;Reno;RNO;Autre;Autre;USA;Reno Tahoe Intl;KRNO;-8;A;America/Los_Angeles;USD;US
+RHI;Rhinelander;RHI;Autre;Autre;USA;Rhinelander Oneida County Airport;KRHI;-6;A;America/Chicago;USD;US
+RIC;Richmond;RIC;Autre;Autre;USA;Richmond Intl;KRIC;-5;A;America/New_York;USD;US
+ROA;Roanoke VA;ROA;Autre;Autre;USA;Roanoke Regional;KROA;-5;A;America/New_York;USD;US
+ROC;Rochester;ROC;Autre;Autre;USA;Greater Rochester Intl;KROC;-5;A;America/New_York;USD;US
+RST;Rochester;RST;Autre;Autre;USA;Rochester;KRST;-6;A;America/Chicago;USD;US
+RKS;Rock Springs;RKS;Autre;Autre;USA;Rock Springs Sweetwater County Airport;KRKS;-7;A;America/Denver;USD;US
+RFD;Rockford;RFD;Autre;Autre;USA;Chicago Rockford International Airport ;KRFD;-6;A;America/Chicago;USD;US
+RKD;Rockland;RKD;Autre;Autre;USA;Knox County Regional Airport;KRKD;-5;A;America/New_York;USD;US
+RWI;Rocky Mount;RWI;Autre;Autre;USA;Rocky Mount Wilson Regional Airport;KRWI;-5;A;America/New_York;USD;US
+SMF;Sacramento;SMF;Autre;Autre;USA;Sacramento Intl;KSMF;-8;A;America/Los_Angeles;USD;US
+MBS;Saginaw;MBS;Autre;Autre;USA;Mbs Intl;KMBS;-5;A;America/New_York;USD;US
+SGU;Saint George;SGU;Autre;Autre;USA;St George Muni;KSGU;-7;A;America/Denver;USD;US
+SLE;Salem;SLE;Autre;Autre;USA;McNary Field;KSLE;-7;A;America/Los_Angeles;USD;US
+SNS;Salinas, CA;SNS;Autre;Autre;USA;Salinas, CA Airport;;;;;USD;US
+SBY;Salisbury;SBY;Autre;Autre;USA;Salisbury Ocean City Wicomico Rgnl;KSBY;-5;A;America/New_York;USD;US
+SLC;Salt Lake City;SLC;Autre;Autre;USA;Salt Lake City Intl;KSLC;-7;A;America/Denver;USD;US
+SJT;San Angelo;SJT;Autre;Autre;USA;San Angelo Rgnl Mathis Fld;KSJT;-6;A;America/Chicago;USD;US
+SAT;San Antonio;SAT;Autre;Autre;USA;San Antonio Intl;KSAT;-6;A;America/Chicago;USD;US
+SAN;San Diego;SAN;Autre;Autre;USA;San Diego Intl;KSAN;-8;A;America/Los_Angeles;USD;US
+SFO;San Francisco;SFO;Autre;Autre;USA;San Francisco Intl;KSFO;-8;A;America/Los_Angeles;USD;US
+SJC;San Jose;SJC;Autre;Autre;USA;Norman Y Mineta San Jose Intl;KSJC;-8;A;America/Los_Angeles;USD;US
+SBP;San Luis Obispo;SBP;Autre;Autre;USA;San Luis County Regional Airport;KSBP;-8;A;America/Los_Angeles;USD;US
+SNA;Santa Ana;SNA;Autre;Autre;USA;John Wayne Arpt Orange Co;KSNA;-8;A;America/Los_Angeles;USD;US
+SBA;Santa Barbara;SBA;Autre;Autre;USA;Santa Barbara Muni;KSBA;-8;A;America/Los_Angeles;USD;US
+SMX;Santa Maria;SMX;Autre;Autre;USA;Santa Maria Pub Cpt G Allan Hancock Airport;KSMX;-8;A;America/Los_Angeles;USD;US
+STS;Santa Rosa;STS;Autre;Autre;USA;Charles M Schulz Sonoma Co;KSTS;-8;A;America/Los_Angeles;USD;US
+SRQ;Sarasota;SRQ;Autre;Autre;USA;Sarasota Bradenton Intl;KSRQ;-5;A;America/New_York;USD;US
+SAV;Savannah;SAV;Autre;Autre;USA;Savannah Hilton Head Intl;KSAV;-5;A;America/New_York;USD;US
+SCF;Scottsdale, AZ;SCF;Autre;Autre;USA;Scottsdale, AZ Airport;;;;America/Phoenix;USD;US
+AVP;Scranton;AVP;Autre;Autre;USA;Wilkes Barre Scranton Intl;KAVP;-5;A;America/New_York;USD;US
+SEA;Seattle;SEA;Autre;Autre;USA;Seattle Tacoma Intl;KSEA;-8;A;America/Los_Angeles;USD;US
+SHR;Sheridan;SHR;Autre;Autre;USA;Sheridan County Airport;KSHR;-7;A;America/Denver;USD;US
+SHV;Shreveport;SHV;Autre;Autre;USA;Shreveport Rgnl;KSHV;-6;A;America/Chicago;USD;US
+SDY;Sidney;SDY;Autre;Autre;USA;Sidney-Richland Municipal Airport;KSDY;-7;A;America/Denver;USD;US
+SUX;Sioux City;SUX;Autre;Autre;USA;Sioux Gateway Col Bud Day Fld;KSUX;-6;A;America/Chicago;USD;US
+FSD;Sioux Falls;FSD;Autre;Autre;USA;Sioux Falls;KFSD;-6;A;America/Chicago;USD;US
+SIT;Sitka;SIT;Autre;Autre;USA;Sitka Rocky Gutierrez;PASI;-9;A;America/Anchorage;USD;US
+SGY;Skagway;SGY;Autre;Autre;USA;Skagway Airport;PAGY;-9;A;America/Anchorage;USD;US
+SBN;South Bend;SBN;Autre;Autre;USA;South Bend Rgnl;KSBN;-5;A;America/New_York;USD;US
+TVL;South Lake Tahoe;TVL;Autre;Autre;USA;Lake Tahoe Airport;KTVL;-8;A;America/Los_Angeles;USD;US
+GEG;Spokane;GEG;Autre;Autre;USA;Spokane Intl;KGEG;-8;A;America/Los_Angeles;USD;US
+SGF;Springfield;SGF;Autre;Autre;USA;Springfield Branson Natl;KSGF;-6;A;America/Chicago;USD;US
+SPI;Springfield;SPI;Autre;Autre;USA;Abraham Lincoln Capital;KSPI;-6;A;America/Chicago;USD;US
+STL;St. Louis;STL;Autre;Autre;USA;Lambert St Louis Intl;KSTL;-6;A;America/Chicago;USD;US
+SCE;State College Pennsylvania;SCE;Autre;Autre;USA;University Park Airport;KUNV;-5;A;America/New_York;USD;US
+SCK;Stockton;SCK;Autre;Autre;USA;Stockton Metropolitan;KSCK;-8;A;America/Los_Angeles;USD;US
+BDR;Stratford;BDR;Autre;Autre;USA;Igor I Sikorsky Mem;KBDR;-5;A;America/New_York;USD;US
+SYR;Syracuse;SYR;Autre;Autre;USA;Syracuse Hancock Intl;KSYR;-5;A;America/New_York;USD;US
+TKA;Talkeetna;TKA;Autre;Autre;USA;Talkeetna;PATK;-9;A;America/Anchorage;USD;US
+TLH;Tallahassee;TLH;Autre;Autre;USA;Tallahassee Rgnl;KTLH;-5;A;America/New_York;USD;US
+TPA;Tampa;TPA;Autre;Autre;USA;Tampa Intl;KTPA;-5;A;America/New_York;USD;US
+TEX;Telluride;TEX;Autre;Autre;USA;Telluride;KTEX;-7;A;America/Denver;USD;US
+HUF;Terre Haute;HUF;Autre;Autre;USA;Terre Haute Intl Hulman Fld;KHUF;-5;A;America/New_York;USD;US
+TXK;Texarkana;TXK;Autre;Autre;USA;Texarkana Rgnl Webb Fld;KTXK;-6;A;America/Chicago;USD;US
+TVF;Thief River Falls;TVF;Autre;Autre;USA;Thief River Falls;KTVF;-6;A;America/Chicago;USD;US
+KTB;Thorne Bay;KTB;Autre;Autre;USA;Thorne Bay Seaplane Base;N/A;-9;A;America/Anchorage;USD;US
+TOL;Toledo;TOL;Autre;Autre;USA;Toledo;KTOL;-5;A;America/New_York;USD;US
+TVC;Traverse City;TVC;Autre;Autre;USA;Cherry Capital Airport;KTVC;-5;A;America/New_York;USD;US
+TTN;Trenton;TTN;Autre;Autre;USA;Trenton Mercer;KTTN;-5;A;America/New_York;USD;US
+TUS;Tucson;TUS;Autre;Autre;USA;Tucson Intl;KTUS;-7;N;America/Phoenix;USD;US
+TUL;Tulsa;TUL;Autre;Autre;USA;Tulsa Intl;KTUL;-6;A;America/Chicago;USD;US
+TUP;Tupelo;TUP;Autre;Autre;USA;Tupelo Regional Airport;KTUP;-6;A;America/Chicago;USD;US
+TCL;Tuscaloosa AL;TCL;Autre;Autre;USA;Tuscaloosa Rgnl;KTCL;-6;A;America/Chicago;USD;US
+TWF;Twin Falls;TWF;Autre;Autre;USA;Magic Valley Regional Airport;KTWF;-7;A;America/Denver;USD;US
+TYR;Tyler;TYR;Autre;Autre;USA;Tyler Pounds Rgnl;KTYR;-6;A;America/Chicago;USD;US
+DUT;Unalaska;DUT;Autre;Autre;USA;Unalaska;PADU;-9;A;America/Anchorage;USD;US
+UCA;Utica, NY;UCA;Autre;Autre;USA;Utica, NY Airport;;;;;USD;US
+EGE;Vail;EGE;Autre;Autre;USA;Eagle Co Rgnl;KEGE;-7;A;America/Denver;USD;US
+VDZ;Valdez;VDZ;Autre;Autre;USA;Valdez Pioneer Fld;PAVD;-9;A;America/Anchorage;USD;US
+VLD;Valdosta;VLD;Autre;Autre;USA;Valdosta Regional Airport;KVLD;-5;A;America/New_York;USD;US
+VPS;Valparaiso;VPS;Autre;Autre;USA;Eglin Afb;KVPS;-6;A;America/Chicago;USD;US
+VEL;Vernal;VEL;Autre;Autre;USA;Vernal Regional Airport;KVEL;-7;A;America/Denver;USD;US
+VRB;Vero Beach;VRB;Autre;Autre;USA;Vero Beach Muni;KVRB;-5;A;America/New_York;USD;US
+MVY;Vineyard Haven MA;MVY;Autre;Autre;USA;Martha\\'s Vineyard;KMVY;-5;A;America/New_York;USD;US
+VIS;Visalia;VIS;Autre;Autre;USA;Visalia Municipal Airport;KVIS;-8;A;America/Los_Angeles;USD;US
+ACT;Waco;ACT;Autre;Autre;USA;Waco Rgnl;KACT;-6;A;America/Chicago;USD;US
+ALW;Walla Walla;ALW;Autre;Autre;USA;Walla Walla Regional Airport;KALW;-8;A;America/Los_Angeles;USD;US
+DCA;Washington;WAS;Autre;Autre;USA;Ronald Reagan Washington Natl;KDCA;-5;A;America/New_York;USD;US
+IAD;Washington;WAS;Autre;Autre;USA;Washington Dulles Intl;KIAD;-5;A;America/New_York;USD;US
+WAS;Washington, DC;WAS;Autre;Autre;USA;Washington, DC Airport;;-5;A;America/New_York;USD;US
+CWA;Wassau;CWA;Autre;Autre;USA;Central Wisconsin;KCWA;-6;A;America/Chicago;USD;US
+ALO;Waterloo;ALO;Autre;Autre;USA;Waterloo Regional Airport;KALO;-6;A;America/Chicago;USD;US
+ATY;Watertown;ATY;Autre;Autre;USA;Watertown Regional Airport;KATY;-6;A;America/Chicago;USD;US
+EAT;Wenatchee;EAT;Autre;Autre;USA;Pangborn Field;KEAT;-8;A;America/Los_Angeles;USD;US
+PBI;West Palm Beach;PBI;Autre;Autre;USA;Palm Beach Intl;KPBI;-5;A;America/New_York;USD;US
+WYS;West Yellowstone;WYS;Autre;Autre;USA;Yellowstone Airport;KWYS;-7;A;America/Denver;USD;US
+SHD;Weyers Cave;SHD;Autre;Autre;USA;Shenandoah Valley Regional Airport;KSHD;-5;A;America/New_York;USD;US
+HPN;White Plains;HPN;Autre;Autre;USA;Westchester Co;KHPN;-5;A;America/New_York;USD;US
+ICT;Wichita;ICT;Autre;Autre;USA;Wichita Mid Continent;KICT;-6;A;America/Chicago;USD;US
+SPS;Wichita Falls;SPS;Autre;Autre;USA;Sheppard Afb Wichita Falls Muni;KSPS;-6;A;America/Chicago;USD;US
+IPT;Williamsport;IPT;Autre;Autre;USA;Williamsport Rgnl;KIPT;-5;A;America/New_York;USD;US
+ISL;Williston, ND;ISL;Autre;Autre;USA;Williston, ND Airport;;;;;USD;US
+ILM;Wilmington;ILM;Autre;Autre;USA;Wilmington Intl;KILM;-5;A;America/New_York;USD;US
+BDL;Windsor Locks;BDL;Autre;Autre;USA;Bradley Intl;KBDL;-5;A;America/New_York;USD;US
+OLF;Wolf Point;OLF;Autre;Autre;USA;LM Clayton Airport;KOLF;-7;A;America/Denver;USD;US
+ORH;Worcester;ORH;Autre;Autre;USA;Worcester Regional Airport;KORH;-5;U;America/New_York;USD;US
+WRL;Worland;WRL;Autre;Autre;USA;Worland Municipal Airport;KWRL;-7;A;America/Denver;USD;US
+WRG;Wrangell;WRG;Autre;Autre;USA;Wrangell Airport;PAWG;-9;A;America/Anchorage;USD;US
+YKM;Yakima;YKM;Autre;Autre;USA;Yakima Air Terminal McAllister Field;KYKM;-8;A;America/Los_Angeles;USD;US
+YAK;Yakutat;YAK;Autre;Autre;USA;Yakutat;PAYA;-9;A;America/Yakutat;USD;US
+YUM;Yuma;YUM;Autre;Autre;USA;Yuma Mcas Yuma Intl;KYUM;-7;N;America/Phoenix;USD;US
+SKD;Samarkand;SKD;Autre;Autre;Uzbekistan;Samarkand;UTSS;5;U;Asia/Samarkand;UZS;UZ
+TAS;Tashkent;TAS;Autre;Autre;Uzbekistan;Yuzhny;UTTT;5;U;Asia/Samarkand;UZS;UZ
+TMZ;Termez (Termes);TMZ;Autre;Autre;Uzbekistan;Termez (Termes) Airport;;5;U;Asia/Samarkand;UZS;UZ
+SON;Santo;SON;Autre;Autre;Vanuatu;Santo Pekoa International Airport;NVSS;11;U;Pacific/Efate;VUV;VU
+VLI;Port-vila;VLI;Autre;Autre;Vanuatu;Port Vila Bauerfield;NVVV;11;U;Pacific/Efate;VUV;VU
+BLA;Barcelona;BLA;Autre;Autre;Venezuela;General Jose Antonio Anzoategui Intl;SVBC;-4;U;America/Caracas;VEF;VE
+CCS;Caracas;CCS;Autre;Autre;Venezuela;Simon Bolivar Intl;SVMI;-4;U;America/Caracas;VEF;VE
+MAR;Maracaibo;MAR;Autre;Autre;Venezuela;La Chinita Intl;SVMC;-4;U;America/Caracas;VEF;VE
+PMV;Porlamar;PMV;Autre;Autre;Venezuela;Del Caribe Intl Gen Santiago Marino;SVMG;-4;U;America/Caracas;VEF;VE
+PZO;Guayana;PZO;Autre;Autre;Venezuela;General Manuel Carlos Piar;SVPR;-4;U;America/Caracas;VEF;VE
+VLN;Valencia;VLN;Autre;Autre;Venezuela;Arturo Michelena Intl;SVVA;-4;U;America/Caracas;VEF;VE
+DAD;Da Nang;DAD;Autre;Autre;Vietnam;Da Nang International;VVDN;6;U;Asia/Ho_Chi_Minh;VND;VN
+HAN;Hanoi;HAN;Autre;Autre;Vietnam;Noibai Intl;VVNB;7;U;Asia/Saigon;VND;VN
+HUI;Hue;HUI;Autre;Autre;Vietnam;Phu Bai;N/A;7;U;Asia/Saigon;VND;VN
+SGN;Ho Chi Minh City;SGN;Autre;Autre;Vietnam;Tansonnhat Intl;VVTS;7;U;Asia/Saigon;VND;VN
+EIS;Roadtown/beef Island;EIS;Autre;Autre;Virgin Islands;Terrance B Lettsome Intl;TUPJ;-4;U;America/Tortola;USD;VI
+STT;St. Thomas;STT;Autre;Autre;Virgin Islands;Cyril E King;TIST;-4;U;America/St_Thomas;USD;VI
+STX;St. Croix Island;STX;Autre;Autre;Virgin Islands;Henry E Rohlsen;TISX;-4;U;America/St_Thomas;USD;VI
+VIJ;Spanish Town;VIJ;Autre;Autre;Virgin Islands;Virgin Gorda Airport;TUPW;-4;U;America/Tortola;USD;VI
+FUT;Futuna Island;FUT;Autre;Autre;Wallis and Futuna Islands;Pointe Vele Airport;NLWF;12;U;Pacific/Wallis;XPF;WF
+WLS;Wallis;WLS;Autre;Autre;Wallis and Futuna Islands;Wallis;NLWW;12;U;Pacific/Wallis;XPF;WF
+APW;Faleolo;APW;Autre;Autre;West Samoa;Faleolo Intl;NSFA;-11;U;Pacific/Apia;WST;WS
+ADE;Aden;ADE;Autre;Autre;Yemen;Aden Intl;OYAA;3;U;Asia/Aden;YER;YE
+SAH;Sanaa;SAH;Autre;Autre;Yemen;Sanaa Intl;OYSN;3;U;Asia/Aden;YER;YE
+BEG;Beograd;BEG;Autre;Autre;Yugoslavia;Beograd;LYBE;1;E;Europe/Belgrade;RSD;RS
+INI;Nis;INI;Autre;Autre;Yugoslavia;Nis;LYNI;1;E;Europe/Belgrade;RSD;RS
+PRN;Pristina;PRN;Autre;Autre;Yugoslavia;Pristina;LYPR;1;E;Europe/Belgrade;EUR;CZ
+TGD;Podgorica;TGD;Autre;Autre;Yugoslavia;Podgorica;LYPG;1;E;Europe/Podgorica;EUR;ME
+TIV;Tivat;TIV;Autre;Autre;Yugoslavia;Tivat;LYTV;1;E;Europe/Podgorica;EUR;ME
+QND;Novi Sad;QND;Autre;Autre;Yugoslavia;Novi Sad Airport;;1;E;Europe/Podgorica;EUR;ME
+CIP;Chipata;CIP;Autre;Autre;Zambia;Chipata Airport;FLCP;2;U;Africa/Lusaka;ZMW;ZM
+KIW;Southdowns;KIW;Autre;Autre;Zambia;Southdowns;FLSO;2;U;Africa/Lusaka;ZMW;ZM
+LUN;Lusaka;LUN;Autre;Autre;Zambia;Lusaka Intl;FLLS;2;U;Africa/Lusaka;ZMW;ZM
+MFU;Mfuwe;MFU;Autre;Autre;Zambia;Mfuwe;FLMF;2;U;Africa/Lusaka;ZMW;ZM
+NLA;Ndola;NLA;Autre;Autre;Zambia;Ndola;FLND;2;U;Africa/Lusaka;ZMW;ZM
+BFO;Chiredzi;BFO;Autre;Autre;Zimbabwe;Buffalo Range;FVCZ;2;U;Africa/Harare;ZWL;ZW
+BUQ;Bulawayo;BUQ;Autre;Autre;Zimbabwe;J M Nkomo Intl;FVBU;2;U;Africa/Harare;ZWL;ZW
+FRW;Francistown;FRW;Autre;Autre;Zimbabwe;Francistown;FBFT;2;U;Africa/Gaborone;ZWL;ZW
+GWE;Gwert;GWE;Autre;Autre;Zimbabwe;Gweru Thornhill;FVTL;2;U;Africa/Harare;ZWL;ZW
+HRE;Harare;HRE;Autre;Autre;Zimbabwe;Harare Intl;FVHA;2;U;Africa/Harare;ZWL;ZW
+MVZ;Masvingo;MVZ;Autre;Autre;Zimbabwe;Masvingo Intl;FVMV;2;U;Africa/Harare;ZWL;ZW
+SAY;Siena;SAY;Autre;Autre;Italy;Ampugnano;LIQS;1;E;Europe/Rome;ZWL;ZW
+VFA;Victoria Falls;VFA;Autre;Autre;Zimbabwe;Victoria Falls Intl;FVFA;2;U;Africa/Harare;ZWL;ZW
+HWN;Hwange National Park;HWN;Autre;Autre;Zimbabwe;Hwange National Park Airport;;2;U;Africa/Harare;ZWL;ZW
+XFA;Lille Flandres;XFA;Nord;Province;France;Lille;N/A;2;E;Europe/Paris;EUR;FR
+AKX;Aktioubé;AKX;Autre;Autre;Kazakhstan;Aktobe International Airport; ICAO;5;;;KZT;KZ
+ILD;Lleida–Alguaire;ILD;Autre;Autre;Spain;Lleida–Alguaire;LEDA;2;E;Europe/Madrid;EUR;FR
+CCC;Jardines del Rey;CCC;Autre;Autre;Cuba;Jardines del Rey;MUCC;-4;U;America/Havana;CUP;CU
+SNU;Abel Santamaría;SNU;Autre;Autre;Cuba;Abel Santamaría;MUSC;-4;E;America/Havana;CUP;CU
+NWI;Norwich;NWI;Autre;Autre;United Kingdom;Norwich International Airport;EGSH;0;E;Europe/London;GBP;GB
+ZUH;Zhuhai;ZUH;Autre;Autre;China;Aéroport de Zhuhai-Jinwan;ZGSD;8;U;Asia/Chongqing;CNY;CN
+KWJ;Gwangju;KWJ;Autre;Autre;South Korea;Gwangju Airport;RKJJ;9;U;Asia/Seoul;KRW;KR
